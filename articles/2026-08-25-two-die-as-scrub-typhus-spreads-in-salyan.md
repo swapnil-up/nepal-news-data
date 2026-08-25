@@ -3,7 +3,7 @@ id: 1
 source: kathmandu-post
 source_url: "https://kathmandupost.com/national/2026/08/25/two-die-as-scrub-typhus-spreads-in-salyan"
 title: Two die as scrub typhus spreads in Salyan
-published_at: "2026-08-25T11:29:17+00:00"
+published_at: "2026-08-25T12:17:12+00:00"
 category: health
 sentiment: negative
 importance_score: 7
