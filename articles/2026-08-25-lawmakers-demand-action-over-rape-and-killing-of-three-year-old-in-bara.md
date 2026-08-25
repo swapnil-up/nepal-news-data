@@ -3,7 +3,7 @@ id: 4
 source: kathmandu-post
 source_url: "https://kathmandupost.com/national/2026/08/25/lawmakers-demand-action-over-rape-and-killing-of-three-year-old-in-bara"
 title: Lawmakers demand action over rape and killing of three-year-old in Bara
-published_at: "2026-08-25T11:29:17+00:00"
+published_at: "2026-08-25T12:17:13+00:00"
 category: politics
 sentiment: negative
 importance_score: 8
