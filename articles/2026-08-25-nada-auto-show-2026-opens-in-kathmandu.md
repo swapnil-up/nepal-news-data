@@ -3,7 +3,7 @@ id: 3
 source: kathmandu-post
 source_url: "https://kathmandupost.com/visual-stories/2026/08/25/nada-auto-show-2026-opens-in-kathmandu"
 title: NADA Auto Show 2026 opens in Kathmandu
-published_at: "2026-08-25T11:29:17+00:00"
+published_at: "2026-08-25T12:17:12+00:00"
 category: business
 sentiment: positive
 importance_score: 6
