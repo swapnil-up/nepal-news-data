@@ -1,0 +1,127 @@
+{
+    "articles": [
+        {
+            "id": 29,
+            "source": "kathmandu-post",
+            "title": "Stepmother admits killing two-year-old girl in Saptari: Police",
+            "slug": "2026-08-25-stepmother-admits-killing-two-year-old-girl-in-saptari-police",
+            "summary": "Police in Nepal's Saptari district say Muskan Khatun, the stepmother of a two\u2011year\u2011old girl, admitted to killing the child during a dispute with the child's biological mother, Rubina Khatun. The case, reported by the Kathmandu Post, highlights a domestic violence incident that resulted in the tragic death of the toddler. Authorities are investigating the circumstances surrounding the murder.",
+            "category": "world",
+            "sentiment": "negative",
+            "importance_score": 6,
+            "published_at": "2026-08-25T11:29:17+00:00",
+            "keywords": [
+                "stepmother",
+                "child murder",
+                "Saptari",
+                "domestic dispute",
+                "Nepal"
+            ],
+            "file": "articles/2026-08-25-stepmother-admits-killing-two-year-old-girl-in-saptari-police.md"
+        },
+        {
+            "id": 5,
+            "source": "kathmandu-post",
+            "title": "Prime Minister Balendra Shah gets a medical pass for dark shades as Parliament bans them",
+            "slug": "2026-08-25-prime-minister-balendra-shah-gets-a-medical-pass-for-dark-shades-as-parliament-bans-them",
+            "summary": "Prime Minister Balendra Shah has received a medical exemption allowing him to wear dark sunglasses in public, after doctors warned that bright light could harm his eyes. The move sparked controversy when Nepal's Parliament voted to ban dark glasses inside the House, directing lawmakers to keep them out during sessions. The clash highlights tensions between personal health accommodations and parliamentary dress codes, drawing public and media attention to the prime minister's appearance and the enforcement of new rules.",
+            "category": "politics",
+            "sentiment": "mixed",
+            "importance_score": 6,
+            "published_at": "2026-08-25T11:29:17+00:00",
+            "keywords": [
+                "Balendra Shah",
+                "medical exemption",
+                "dark sunglasses",
+                "Parliament ban",
+                "dress code",
+                "eye health"
+            ],
+            "file": "articles/2026-08-25-prime-minister-balendra-shah-gets-a-medical-pass-for-dark-shades-as-parliament-bans-them.md"
+        },
+        {
+            "id": 4,
+            "source": "kathmandu-post",
+            "title": "Lawmakers demand action over rape and killing of three-year-old in Bara",
+            "slug": "2026-08-25-lawmakers-demand-action-over-rape-and-killing-of-three-year-old-in-bara",
+            "summary": "Lawmakers in Nepal's National Assembly demanded immediate government action after a three\u2011year\u2011old girl was raped and killed in Bara district. They condemned rising insecurity, the surge in violence against girls, and alleged intimidation of the victim\u2019s family during the filming of a video. The lawmakers called for swift justice, stronger protection for women and children, and accountability for officials, urging the government to address the broader climate of fear and gender\u2011based violence.",
+            "category": "politics",
+            "sentiment": "negative",
+            "importance_score": 8,
+            "published_at": "2026-08-25T11:29:17+00:00",
+            "keywords": [
+                "rape",
+                "killing",
+                "three-year-old",
+                "insecurity",
+                "violence against girls",
+                "pressure",
+                "video filming"
+            ],
+            "file": "articles/2026-08-25-lawmakers-demand-action-over-rape-and-killing-of-three-year-old-in-bara.md"
+        },
+        {
+            "id": 3,
+            "source": "kathmandu-post",
+            "title": "NADA Auto Show 2026 opens in Kathmandu",
+            "slug": "2026-08-25-nada-auto-show-2026-opens-in-kathmandu",
+            "summary": "The NADA Auto Show 2026 has opened in Kathmandu for a six\u2011day exhibition. Over 150 automotive brands and more than 200 stalls will display new vehicles, auto components and financial services. Organisers emphasize the event\u2019s role in promoting the automotive sector\u2019s contribution to job creation in Nepal.",
+            "category": "business",
+            "sentiment": "positive",
+            "importance_score": 6,
+            "published_at": "2026-08-25T11:29:17+00:00",
+            "keywords": [
+                "NADA Auto Show",
+                "Kathmandu",
+                "automotive industry",
+                "vehicles",
+                "job creation",
+                "2026"
+            ],
+            "file": "articles/2026-08-25-nada-auto-show-2026-opens-in-kathmandu.md"
+        },
+        {
+            "id": 2,
+            "source": "kathmandu-post",
+            "title": "24 years after leaving Nepal, he came home blind and broken",
+            "slug": "2026-08-25-24-years-after-leaving-nepal-he-came-home-blind-and-broken",
+            "summary": "Hom Bahadur Gharti left Nepal for Malaysia in 2002 seeking work. He spent decades living illegally, lost contact with his family, and was only located this year. Returning home, he arrived blind and in a desperate physical condition. His ordeal underscores the severe hardships faced by Nepali migrant workers, the dangers of undocumented labor abroad, and the challenges of reintegration and support for returnees.",
+            "category": "culture",
+            "sentiment": "negative",
+            "importance_score": 5,
+            "published_at": "2026-08-25T11:29:17+00:00",
+            "keywords": [
+                "migrant workers",
+                "illegal stay",
+                "labor migration",
+                "returnees",
+                "blindness",
+                "Nepal",
+                "Malaysia"
+            ],
+            "file": "articles/2026-08-25-24-years-after-leaving-nepal-he-came-home-blind-and-broken.md"
+        },
+        {
+            "id": 1,
+            "source": "kathmandu-post",
+            "title": "Two die as scrub typhus spreads in Salyan",
+            "slug": "2026-08-25-two-die-as-scrub-typhus-spreads-in-salyan",
+            "summary": "Two people have died as scrub typhus spreads in Salyan district, Nepal. In the Darma area, health officials report four to five new positive cases each day, raising concerns of a broader outbreak. The situation is worsened by a shortage of testing kits, forcing patients to travel to other facilities for diagnosis and treatment.",
+            "category": "health",
+            "sentiment": "negative",
+            "importance_score": 7,
+            "published_at": "2026-08-25T11:29:17+00:00",
+            "keywords": [
+                "scrub typhus",
+                "outbreak",
+                "testing kits shortage",
+                "Salyan district",
+                "Darma",
+                "health emergency"
+            ],
+            "file": "articles/2026-08-25-two-die-as-scrub-typhus-spreads-in-salyan.md"
+        }
+    ],
+    "count": 6,
+    "last_updated": "2026-08-25T11:56:50+00:00"
+}
