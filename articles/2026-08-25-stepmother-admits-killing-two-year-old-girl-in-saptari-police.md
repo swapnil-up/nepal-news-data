@@ -3,7 +3,7 @@ id: 29
 source: kathmandu-post
 source_url: "https://kathmandupost.com/province-no-2/2026/08/24/stepmother-admits-killing-two-year-old-girl-in-saptari"
 title: "Stepmother admits killing two-year-old girl in Saptari: Police"
-published_at: "2026-08-25T11:29:17+00:00"
+published_at: "2026-08-25T12:17:13+00:00"
 category: world
 sentiment: negative
 importance_score: 6
