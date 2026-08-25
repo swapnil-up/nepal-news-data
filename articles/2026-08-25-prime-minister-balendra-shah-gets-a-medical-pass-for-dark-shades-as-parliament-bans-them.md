@@ -3,7 +3,7 @@ id: 5
 source: kathmandu-post
 source_url: "https://kathmandupost.com/national/2026/08/25/shah-gets-a-medical-pass-for-dark-shades-as-parliament-bans-them"
 title: Prime Minister Balendra Shah gets a medical pass for dark shades as Parliament bans them
-published_at: "2026-08-25T11:29:17+00:00"
+published_at: "2026-08-25T12:17:13+00:00"
 category: politics
 sentiment: mixed
 importance_score: 6
