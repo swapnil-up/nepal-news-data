@@ -9,7 +9,7 @@
             "category": "world",
             "sentiment": "negative",
             "importance_score": 6,
-            "published_at": "2026-08-25T11:29:17+00:00",
+            "published_at": "2026-08-25T12:17:13+00:00",
             "keywords": [
                 "stepmother",
                 "child murder",
@@ -28,7 +28,7 @@
             "category": "politics",
             "sentiment": "mixed",
             "importance_score": 6,
-            "published_at": "2026-08-25T11:29:17+00:00",
+            "published_at": "2026-08-25T12:17:13+00:00",
             "keywords": [
                 "Balendra Shah",
                 "medical exemption",
@@ -48,7 +48,7 @@
             "category": "politics",
             "sentiment": "negative",
             "importance_score": 8,
-            "published_at": "2026-08-25T11:29:17+00:00",
+            "published_at": "2026-08-25T12:17:13+00:00",
             "keywords": [
                 "rape",
                 "killing",
@@ -69,7 +69,7 @@
             "category": "business",
             "sentiment": "positive",
             "importance_score": 6,
-            "published_at": "2026-08-25T11:29:17+00:00",
+            "published_at": "2026-08-25T12:17:12+00:00",
             "keywords": [
                 "NADA Auto Show",
                 "Kathmandu",
@@ -89,7 +89,7 @@
             "category": "culture",
             "sentiment": "negative",
             "importance_score": 5,
-            "published_at": "2026-08-25T11:29:17+00:00",
+            "published_at": "2026-08-25T12:17:12+00:00",
             "keywords": [
                 "migrant workers",
                 "illegal stay",
@@ -110,7 +110,7 @@
             "category": "health",
             "sentiment": "negative",
             "importance_score": 7,
-            "published_at": "2026-08-25T11:29:17+00:00",
+            "published_at": "2026-08-25T12:17:12+00:00",
             "keywords": [
                 "scrub typhus",
                 "outbreak",
@@ -123,5 +123,5 @@
         }
     ],
     "count": 6,
-    "last_updated": "2026-08-25T12:05:47+00:00"
+    "last_updated": "2026-08-25T12:17:14+00:00"
 }
