@@ -1,127 +1,513 @@
 {
     "articles": [
         {
-            "id": 29,
+            "id": 25,
             "source": "kathmandu-post",
-            "title": "Stepmother admits killing two-year-old girl in Saptari: Police",
-            "slug": "2026-08-25-stepmother-admits-killing-two-year-old-girl-in-saptari-police",
-            "summary": "Police in Nepal's Saptari district say Muskan Khatun, the stepmother of a two\u2011year\u2011old girl, admitted to killing the child during a dispute with the child's biological mother, Rubina Khatun. The case, reported by the Kathmandu Post, highlights a domestic violence incident that resulted in the tragic death of the toddler. Authorities are investigating the circumstances surrounding the murder.",
+            "title": "11 artists look beyond the Himalayan landscape at Takpa Gallery",
+            "slug": "2026-08-26-11-artists-look-beyond-the-himalayan-landscape-at-takpa-gallery",
+            "summary": "The Takpa Gallery in Kathmandu is hosting \u2018Voices from the Himalayas\u2019, an exhibition featuring eleven artists who explore life beyond the iconic mountain scenery. The show highlights the region\u2019s diverse peoples, cultures and the social and environmental changes affecting them, offering viewers a nuanced perspective of the Himalayas as a lived space rather than just a landscape.",
+            "category": "culture",
+            "sentiment": "positive",
+            "importance_score": 5,
+            "published_at": "2026-08-26T02:10:26+00:00",
+            "keywords": [
+                "Takpa Gallery",
+                "Voices from the Himalayas",
+                "Himalayan art",
+                "cultural exhibition",
+                "Nepal artists",
+                "changing realities"
+            ],
+            "file": "articles/2026-08-26-11-artists-look-beyond-the-himalayan-landscape-at-takpa-gallery.md"
+        },
+        {
+            "id": 24,
+            "source": "kathmandu-post",
+            "title": "Mental wellbeing: There\u2019s more to \u2018feeling better\u2019 after a walk in nature than you might think",
+            "slug": "2026-08-26-mental-wellbeing-theres-more-to-feeling-better-after-a-walk-in-nature-than-you-might-think",
+            "summary": "The article explores how spending time in natural environments can boost mental wellbeing beyond simple relaxation. It explains that trees emit chemicals like phytoncides that may improve immune function and mood, while green spaces provide a restorative break for the brain, reducing stress and enhancing cognitive performance. The piece cites research linking regular walks in nature to lower anxiety and depression rates, and suggests incorporating green areas into daily routines for lasting psychological benefits.",
+            "category": "health",
+            "sentiment": "positive",
+            "importance_score": 5,
+            "published_at": "2026-08-26T02:10:26+00:00",
+            "keywords": [
+                "nature therapy",
+                "mental wellbeing",
+                "phytoncides",
+                "stress reduction",
+                "green spaces",
+                "mental health"
+            ],
+            "file": "articles/2026-08-26-mental-wellbeing-theres-more-to-feeling-better-after-a-walk-in-nature-than-you-might-think.md"
+        },
+        {
+            "id": 23,
+            "source": "kathmandu-post",
+            "title": "Iran vows to retaliate after US widens sanctions",
+            "slug": "2026-08-26-iran-vows-to-retaliate-after-us-widens-sanctions",
+            "summary": "Iran has pledged to retaliate against the United States after Washington broadened its sanctions regime, warning that it could target U.S. interests and critical energy chokepoints worldwide. Beijing has dismissed the sanctions as pressure tactics, emphasizing its opposition to external interference. The heightened rhetoric has sent oil markets into a cautious stance, with traders anticipating possible supply disruptions. The development underscores rising geopolitical tensions in the Middle East and the broader impact on global energy security.",
             "category": "world",
             "sentiment": "negative",
-            "importance_score": 6,
-            "published_at": "2026-08-25T12:17:13+00:00",
+            "importance_score": 8,
+            "published_at": "2026-08-26T02:10:26+00:00",
             "keywords": [
-                "stepmother",
-                "child murder",
-                "Saptari",
-                "domestic dispute",
+                "Iran sanctions",
+                "U.S. retaliation",
+                "energy chokepoints",
+                "oil market disruption",
+                "China opposition",
+                "geopolitical tension"
+            ],
+            "file": "articles/2026-08-26-iran-vows-to-retaliate-after-us-widens-sanctions.md"
+        },
+        {
+            "id": 22,
+            "source": "kathmandu-post",
+            "title": "Court orders government to ensure dairy farmers are paid on time",
+            "slug": "2026-08-26-court-orders-government-to-ensure-dairy-farmers-are-paid-on-time",
+            "summary": "The Nepalese Supreme Court has ordered the government to guarantee that dairy farmers receive their payments on schedule. The court warned that contractual agreements should not be used to silence farmers who lack direct access to authorities, emphasizing the need for transparent and timely financial processes in the agricultural sector.",
+            "category": "politics",
+            "sentiment": "mixed",
+            "importance_score": 7,
+            "published_at": "2026-08-26T02:10:26+00:00",
+            "keywords": [
+                "dairy farmers",
+                "timely payments",
+                "court order",
+                "government",
+                "agriculture",
                 "Nepal"
             ],
-            "file": "articles/2026-08-25-stepmother-admits-killing-two-year-old-girl-in-saptari-police.md"
+            "file": "articles/2026-08-26-court-orders-government-to-ensure-dairy-farmers-are-paid-on-time.md"
+        },
+        {
+            "id": 21,
+            "source": "kathmandu-post",
+            "title": "Jimmy Neesham returns to Janakpur Bolts for NPL third season",
+            "slug": "2026-08-26-jimmy-neesham-returns-to-janakpur-bolts-for-npl-third-season",
+            "summary": "New Zealand all\u2011rounder Jimmy Neesham has re\u2011joined the Janakpur Bolts ahead of the third season of Nepal's National Premier League (NPL). Neesham was instrumental in Janakpur's triumph in the inaugural 2024 NPL, helping the team secure the title. His return is expected to boost the Bolts' chances of defending their championship and adds excitement for fans as the league prepares for its upcoming season.",
+            "category": "sports",
+            "sentiment": "positive",
+            "importance_score": 6,
+            "published_at": "2026-08-26T02:10:26+00:00",
+            "keywords": [
+                "Jimmy Neesham",
+                "Janakpur Bolts",
+                "NPL",
+                "cricket",
+                "2024 title",
+                "return"
+            ],
+            "file": "articles/2026-08-26-jimmy-neesham-returns-to-janakpur-bolts-for-npl-third-season.md"
+        },
+        {
+            "id": 20,
+            "source": "kathmandu-post",
+            "title": "Nepal\u2019s parliament debates capital punishment following rape and murder of a three-year-old",
+            "slug": "2026-08-26-nepals-parliament-debates-capital-punishment-following-rape-and-murder-of-a-three-year-old",
+            "summary": "The Nepalese parliament is debating the reinstatement of capital punishment after a high\u2011profile case in Jeetpur\u2011Simara where a three\u2011year\u2011old girl was raped and murdered. The brutal crime has sparked nationwide outrage, prompting the law and home ministers to present proposed legal reforms while explaining why the death penalty remains legally unattainable under the current constitution. The discussion highlights tensions between public demand for harsher penalties and constitutional constraints, with lawmakers weighing possible amendments to the criminal code.",
+            "category": "politics",
+            "sentiment": "negative",
+            "importance_score": 8,
+            "published_at": "2026-08-26T02:10:26+00:00",
+            "keywords": [
+                "capital punishment",
+                "rape and murder",
+                "three-year-old",
+                "public outrage",
+                "legal reforms",
+                "Jeetpur\u2011Simara case"
+            ],
+            "file": "articles/2026-08-26-nepals-parliament-debates-capital-punishment-following-rape-and-murder-of-a-three-year-old.md"
+        },
+        {
+            "id": 19,
+            "source": "kathmandu-post",
+            "title": "Trump administration plans to revoke visas of foreigners seeking asylum",
+            "slug": "2026-08-26-trump-administration-plans-to-revoke-visas-of-foreigners-seeking-asylum",
+            "summary": "The Trump administration announced a plan to revoke the visas of up to 200,000 foreign nationals who hold business or tourism visas and have applied for asylum in the United States. The policy is part of a broader crackdown on immigration, aiming to deter asylum seekers and tighten visa enforcement. Critics argue the move could harm legitimate travelers and businesses, while supporters claim it will protect national security and reduce fraudulent claims.",
+            "category": "politics",
+            "sentiment": "negative",
+            "importance_score": 8,
+            "published_at": "2026-08-26T02:10:26+00:00",
+            "keywords": [
+                "visa revocation",
+                "asylum",
+                "immigration crackdown",
+                "business visas",
+                "tourism visas",
+                "200,000"
+            ],
+            "file": "articles/2026-08-26-trump-administration-plans-to-revoke-visas-of-foreigners-seeking-asylum.md"
+        },
+        {
+            "id": 18,
+            "source": "kathmandu-post",
+            "title": "Prime Minister Balendra Shah gets a medical pass for dark shades as Parliament bans them",
+            "slug": "2026-08-26-prime-minister-balendra-shah-gets-a-medical-pass-for-dark-shades-as-parliament-bans-them",
+            "summary": "Prime Minister Balendra Shah has been granted a medical exemption to wear dark sunglasses after doctors advised that he needs eye protection from bright light. Meanwhile, Parliament has issued a rule prohibiting lawmakers from wearing dark glasses inside the House, creating a contrast between the PM\u2019s allowance and the legislative ban.",
+            "category": "politics",
+            "sentiment": "neutral",
+            "importance_score": 7,
+            "published_at": "2026-08-26T02:10:26+00:00",
+            "keywords": [
+                "Balendra Shah",
+                "sunglasses",
+                "medical exemption",
+                "Parliament ban",
+                "dark glasses",
+                "eye protection"
+            ],
+            "file": "articles/2026-08-26-prime-minister-balendra-shah-gets-a-medical-pass-for-dark-shades-as-parliament-bans-them.md"
+        },
+        {
+            "id": 17,
+            "source": "kathmandu-post",
+            "title": "Lawmakers demand action over rape and killing of three-year-old in Bara",
+            "slug": "2026-08-26-lawmakers-demand-action-over-rape-and-killing-of-three-year-old-in-bara",
+            "summary": "Lawmakers in Nepal's National Assembly have called for urgent government action after a three\u2011year\u2011old girl was raped and murdered in Bara district. The incident has sparked outrage over rising insecurity and violence against girls, with legislators accusing the government of failing to protect citizens. They also alleged that the victim's family faced pressure while a video of the crime was being filmed. The assembly members demanded stronger law enforcement, faster judicial processes, and support for the family, highlighting broader concerns about public safety and gender\u2011based violence in the country.",
+            "category": "politics",
+            "sentiment": "negative",
+            "importance_score": 8,
+            "published_at": "2026-08-26T02:10:26+00:00",
+            "keywords": [
+                "rape",
+                "child murder",
+                "Bara district",
+                "violence against girls",
+                "government criticism",
+                "insecurity",
+                "lawmakers"
+            ],
+            "file": "articles/2026-08-26-lawmakers-demand-action-over-rape-and-killing-of-three-year-old-in-bara.md"
+        },
+        {
+            "id": 16,
+            "source": "kathmandu-post",
+            "title": "NADA Auto Show 2026 opens in Kathmandu",
+            "slug": "2026-08-26-nada-auto-show-2026-opens-in-kathmandu",
+            "summary": "The NADA Auto Show 2026 has opened in Kathmandu for a six\u2011day exhibition. Over 150 automotive brands and more than 200 stalls are presenting new vehicles, auto components and financial services. Organisers emphasize the event\u2019s role in promoting the automotive sector\u2019s contribution to job creation and economic growth in Nepal.",
+            "category": "business",
+            "sentiment": "positive",
+            "importance_score": 6,
+            "published_at": "2026-08-26T02:10:26+00:00",
+            "keywords": [
+                "auto show",
+                "NADA",
+                "Kathmandu",
+                "vehicles",
+                "auto components",
+                "financial services",
+                "job creation"
+            ],
+            "file": "articles/2026-08-26-nada-auto-show-2026-opens-in-kathmandu.md"
+        },
+        {
+            "id": 15,
+            "source": "kathmandu-post",
+            "title": "24 years after leaving Nepal, he came home blind and broken",
+            "slug": "2026-08-26-24-years-after-leaving-nepal-he-came-home-blind-and-broken",
+            "summary": "Hom Bahadur Gharti left Nepal for Malaysia in 2002 seeking work. Over the years he lived illegally, lost contact with his family, and endured harsh conditions. After two decades abroad, he was discovered in a severely deteriorated state\u2014blind and physically broken\u2014and was repatriated to Nepal this year. The story highlights the plight of Nepali migrant workers, the risks of undocumented labor abroad, and the personal tragedy of a man who spent his prime years far from home, returning home in a tragic condition.",
+            "category": "culture",
+            "sentiment": "negative",
+            "importance_score": 5,
+            "published_at": "2026-08-26T02:10:26+00:00",
+            "keywords": [
+                "migrant worker",
+                "Malaysia",
+                "Nepal",
+                "blindness",
+                "illegal stay",
+                "labor migration",
+                "human interest"
+            ],
+            "file": "articles/2026-08-26-24-years-after-leaving-nepal-he-came-home-blind-and-broken.md"
+        },
+        {
+            "id": 14,
+            "source": "kathmandu-post",
+            "title": "Two die as scrub typhus spreads in Salyan",
+            "slug": "2026-08-26-two-die-as-scrub-typhus-spreads-in-salyan",
+            "summary": "A scrub typhus outbreak in Salyan district has claimed two lives, with four to five new cases confirmed daily in the Darma area. The rapid spread is exacerbated by a shortage of testing kits, forcing patients to travel to other districts for diagnosis and treatment. Health officials warn that the lack of resources could lead to a wider epidemic if not addressed promptly.",
+            "category": "health",
+            "sentiment": "negative",
+            "importance_score": 7,
+            "published_at": "2026-08-26T02:10:26+00:00",
+            "keywords": [
+                "scrub typhus",
+                "outbreak",
+                "Salyan",
+                "Darma",
+                "testing kits",
+                " Nepal"
+            ],
+            "file": "articles/2026-08-26-two-die-as-scrub-typhus-spreads-in-salyan.md"
+        },
+        {
+            "id": 13,
+            "source": "kathmandu-post",
+            "title": "Bangladesh could consider joining Mecca pact, in test for foreign ties",
+            "slug": "2026-08-26-bangladesh-could-consider-joining-mecca-pact-in-test-for-foreign-ties",
+            "summary": "Bangladesh is weighing the possibility of joining the Mecca pact, a collective\u2011defence agreement recently signed by Saudi Arabia, Turkey and Pakistan in Mecca. The pact mirrors NATO\u2019s principle of mutual defense among the three Sunni\u2011majority nations, and Bangladesh\u2019s potential participation could signal a shift in its foreign policy toward deeper ties with these countries.",
+            "category": "politics",
+            "sentiment": "neutral",
+            "importance_score": 6,
+            "published_at": "2026-08-26T02:10:26+00:00",
+            "keywords": [
+                "Mecca pact",
+                "Bangladesh",
+                "Saudi Arabia",
+                "Turkey",
+                "Pakistan",
+                "collective defence",
+                "foreign policy"
+            ],
+            "file": "articles/2026-08-26-bangladesh-could-consider-joining-mecca-pact-in-test-for-foreign-ties.md"
+        },
+        {
+            "id": 12,
+            "source": "kathmandu-post",
+            "title": "Nepal crush Malaysia in ACC Premier Cup warm-up",
+            "slug": "2026-08-26-nepal-crush-malaysia-in-acc-premier-cup-warm-up",
+            "summary": "In a warm\u2011up match for the ACC Premier Cup, Nepal defeated Malaysia by crushing the rain\u2011adjusted target of 228 runs in just 28 overs. Aasif Sheikh anchored the innings with a blistering 161, while opening partner Arjun Kumal contributed to a 220\u2011run opening partnership, ensuring a dominant chase.",
+            "category": "sports",
+            "sentiment": "positive",
+            "importance_score": 5,
+            "published_at": "2026-08-26T02:10:26+00:00",
+            "keywords": [
+                "Nepal cricket",
+                "Malaysia",
+                "ACC Premier Cup",
+                "Aasif Sheikh 161",
+                "220\u2011run opening stand",
+                "rain\u2011adjusted target"
+            ],
+            "file": "articles/2026-08-26-nepal-crush-malaysia-in-acc-premier-cup-warm-up.md"
+        },
+        {
+            "id": 11,
+            "source": "kathmandu-post",
+            "title": "We\u2019re changing how Kantipur is funded. Here\u2019s what it means for you.",
+            "slug": "2026-08-26-were-changing-how-kantipur-is-funded-heres-what-it-means-for-you",
+            "summary": "Kantipur Media Group announced two major changes to its funding model to improve financial sustainability and transparency. The first change involves introducing a subscription-based revenue stream, encouraging readers to support quality journalism directly. The second focuses on diversifying advertising sources and exploring new digital monetisation methods. The announcement explains how these shifts will affect readers, advertisers, and the broader media landscape in Nepal, promising more reliable content while maintaining affordable access.",
+            "category": "business",
+            "sentiment": "neutral",
+            "importance_score": 7,
+            "published_at": "2026-08-26T02:10:26+00:00",
+            "keywords": [
+                "funding model",
+                "subscription",
+                "advertising",
+                "media",
+                "Kantipur",
+                "Nepal"
+            ],
+            "file": "articles/2026-08-26-were-changing-how-kantipur-is-funded-heres-what-it-means-for-you.md"
+        },
+        {
+            "id": 10,
+            "source": "kathmandu-post",
+            "title": "DDC moves to put Dolpa\u2019s yak cheese on the market",
+            "slug": "2026-08-26-ddc-moves-to-put-dolpas-yak-cheese-on-the-market",
+            "summary": "The District Development Committee (DDC) is launching a new dairy plant in Jagadulla, Dolpa, capable of producing up to 30 tonnes of yak cheese annually. The initiative aims to provide a guaranteed market for yak and chauri products, encouraging farmers to revive commercial yak and chauri farming throughout the district. Stakeholders see the plant as a catalyst for local economic growth and preservation of traditional livestock practices.",
+            "category": "business",
+            "sentiment": "positive",
+            "importance_score": 5,
+            "published_at": "2026-08-26T02:10:26+00:00",
+            "keywords": [
+                "yak cheese",
+                "Dolpa",
+                "Jagadulla",
+                "DDC",
+                "yak farming",
+                "chauri farming",
+                "dairy plant"
+            ],
+            "file": "articles/2026-08-26-ddc-moves-to-put-dolpas-yak-cheese-on-the-market.md"
+        },
+        {
+            "id": 9,
+            "source": "kathmandu-post",
+            "title": "Kiran Thapa Magar wins confidence vote in Bagmati",
+            "slug": "2026-08-26-kiran-thapa-magar-wins-confidence-vote-in-bagmati",
+            "summary": "Chief Minister Kiran Thapa Magar secured a confidence vote in Bagmati Province, receiving 57 of the 58 votes cast in the provincial assembly. The session was attended by 58 lawmakers, while opposition parties stayed away, effectively boycotting the vote.",
+            "category": "politics",
+            "sentiment": "positive",
+            "importance_score": 6,
+            "published_at": "2026-08-26T02:10:26+00:00",
+            "keywords": [
+                "confidence vote",
+                "Bagmati Province",
+                "Kiran Thapa Magar",
+                "provincial assembly",
+                "opposition boycott"
+            ],
+            "file": "articles/2026-08-26-kiran-thapa-magar-wins-confidence-vote-in-bagmati.md"
+        },
+        {
+            "id": 8,
+            "source": "kathmandu-post",
+            "title": "Nepal, US plan high-level visits and other engagements next year",
+            "slug": "2026-08-26-nepal-us-plan-high-level-visits-and-other-engagements-next-year",
+            "summary": "Nepal and the United States have announced plans for a series of high\u2011level visits and cooperative engagements in the coming year. After eight decades of diplomatic ties, both countries aim to deepen their partnership across three strategic pillars: accelerating Nepal's digital transformation, expanding clean energy collaboration, and investing in human capital development. The initiatives are expected to involve senior officials from both governments and could include trade delegations, technology exchanges, and joint projects to support Nepal's economic growth and sustainability goals.",
+            "category": "politics",
+            "sentiment": "positive",
+            "importance_score": 8,
+            "published_at": "2026-08-26T02:10:26+00:00",
+            "keywords": [
+                "Nepal\u2011US relations",
+                "digital transformation",
+                "clean energy",
+                "human capital",
+                "high\u2011level visits",
+                "bilateral cooperation"
+            ],
+            "file": "articles/2026-08-26-nepal-us-plan-high-level-visits-and-other-engagements-next-year.md"
+        },
+        {
+            "id": 7,
+            "source": "kathmandu-post",
+            "title": "Sugar stocks were said to be sufficient. Prices are now surging",
+            "slug": "2026-08-26-sugar-stocks-were-said-to-be-sufficient-prices-are-now-surging",
+            "summary": " Nepal's sugar reserves, previously deemed sufficient for six months, are now under strain as prices climb sharply ahead of the upcoming festive season. The surge in sugar costs is causing concern among consumers and traders, prompting warnings about potential shortages and the impact on household budgets.",
+            "category": "business",
+            "sentiment": "negative",
+            "importance_score": 6,
+            "published_at": "2026-08-26T02:10:26+00:00",
+            "keywords": [
+                "sugar",
+                "price surge",
+                "stock",
+                "festive season",
+                "Nepal",
+                "market",
+                "inflation"
+            ],
+            "file": "articles/2026-08-26-sugar-stocks-were-said-to-be-sufficient-prices-are-now-surging.md"
+        },
+        {
+            "id": 6,
+            "source": "kathmandu-post",
+            "title": "Indoor mould is a public health issue requiring attention",
+            "slug": "2026-08-26-indoor-mould-is-a-public-health-issue-requiring-attention",
+            "summary": "A recent article highlights indoor mould as an emerging public health concern in Nepal. Prolonged exposure to mould spores can gradually poison indoor air and accumulate in the body, leading to respiratory problems, allergies, and other chronic illnesses. The piece calls for increased awareness, better ventilation standards, regular inspections, and coordinated action by health authorities and housing agencies to mitigate the risk. It stresses that addressing indoor mould requires both public education and policy interventions to protect citizens\u2019 long\u2011term health.",
+            "category": "health",
+            "sentiment": "negative",
+            "importance_score": 7,
+            "published_at": "2026-08-26T02:10:26+00:00",
+            "keywords": [
+                "indoor mould",
+                "public health",
+                "chronic exposure",
+                "respiratory illness",
+                "ventilation",
+                "housing standards"
+            ],
+            "file": "articles/2026-08-26-indoor-mould-is-a-public-health-issue-requiring-attention.md"
         },
         {
             "id": 5,
             "source": "kathmandu-post",
-            "title": "Prime Minister Balendra Shah gets a medical pass for dark shades as Parliament bans them",
-            "slug": "2026-08-25-prime-minister-balendra-shah-gets-a-medical-pass-for-dark-shades-as-parliament-bans-them",
-            "summary": "Prime Minister Balendra Shah has received a medical exemption allowing him to wear dark sunglasses in public, after doctors warned that bright light could harm his eyes. The move sparked controversy when Nepal's Parliament voted to ban dark glasses inside the House, directing lawmakers to keep them out during sessions. The clash highlights tensions between personal health accommodations and parliamentary dress codes, drawing public and media attention to the prime minister's appearance and the enforcement of new rules.",
+            "title": "Towards a Pax Sinica in South Asia?",
+            "slug": "2026-08-26-towards-a-pax-sinica-in-south-asia",
+            "summary": "The article examines India's growing willingness to normalise ties with China as the United States' global dominance wanes. It argues that New Delhi recognizes the need to adapt to a new geopolitical reality, where a potential \"Pax Sinica\" could shape South Asian affairs. The piece discusses the strategic uncertainties facing India, the shifting balance of power, and the implications of deeper Indo\u2011Chinese engagement for regional stability and India's own foreign policy autonomy.",
             "category": "politics",
             "sentiment": "mixed",
-            "importance_score": 6,
-            "published_at": "2026-08-25T12:17:13+00:00",
+            "importance_score": 7,
+            "published_at": "2026-08-26T02:10:26+00:00",
             "keywords": [
-                "Balendra Shah",
-                "medical exemption",
-                "dark sunglasses",
-                "Parliament ban",
-                "dress code",
-                "eye health"
+                "India-China relations",
+                "Pax Sinica",
+                "South Asia geopolitics",
+                "US influence",
+                "strategic normalization",
+                "regional stability"
             ],
-            "file": "articles/2026-08-25-prime-minister-balendra-shah-gets-a-medical-pass-for-dark-shades-as-parliament-bans-them.md"
+            "file": "articles/2026-08-26-towards-a-pax-sinica-in-south-asia.md"
         },
         {
             "id": 4,
             "source": "kathmandu-post",
-            "title": "Lawmakers demand action over rape and killing of three-year-old in Bara",
-            "slug": "2026-08-25-lawmakers-demand-action-over-rape-and-killing-of-three-year-old-in-bara",
-            "summary": "Lawmakers in Nepal's National Assembly demanded immediate government action after a three\u2011year\u2011old girl was raped and killed in Bara district. They condemned rising insecurity, the surge in violence against girls, and alleged intimidation of the victim\u2019s family during the filming of a video. The lawmakers called for swift justice, stronger protection for women and children, and accountability for officials, urging the government to address the broader climate of fear and gender\u2011based violence.",
-            "category": "politics",
+            "title": "Essential vaccines are running out in Nepal. It\u2019s time to act",
+            "slug": "2026-08-26-essential-vaccines-are-running-out-in-nepal-its-time-to-act",
+            "summary": "Nepal is facing critical shortages of essential vaccines and acute therapies as the country enters peak disease seasons, prompting urgent calls for government and international action to secure supplies and prevent outbreaks.",
+            "category": "health",
             "sentiment": "negative",
             "importance_score": 8,
-            "published_at": "2026-08-25T12:17:13+00:00",
+            "published_at": "2026-08-26T02:10:26+00:00",
             "keywords": [
-                "rape",
-                "killing",
-                "three-year-old",
-                "insecurity",
-                "violence against girls",
-                "pressure",
-                "video filming"
+                "vaccines",
+                "shortage",
+                "Nepal",
+                "health",
+                "disease season",
+                "therapy",
+                "government"
             ],
-            "file": "articles/2026-08-25-lawmakers-demand-action-over-rape-and-killing-of-three-year-old-in-bara.md"
+            "file": "articles/2026-08-26-essential-vaccines-are-running-out-in-nepal-its-time-to-act.md"
         },
         {
             "id": 3,
             "source": "kathmandu-post",
-            "title": "NADA Auto Show 2026 opens in Kathmandu",
-            "slug": "2026-08-25-nada-auto-show-2026-opens-in-kathmandu",
-            "summary": "The NADA Auto Show 2026 has opened in Kathmandu for a six\u2011day exhibition. Over 150 automotive brands and more than 200 stalls will display new vehicles, auto components and financial services. Organisers emphasize the event\u2019s role in promoting the automotive sector\u2019s contribution to job creation in Nepal.",
-            "category": "business",
+            "title": "How Abiral Pratap Adhikary finds comfort and perspective online",
+            "slug": "2026-08-26-how-abiral-pratap-adhikary-finds-comfort-and-perspective-online",
+            "summary": "Kathmandu-based actor Abiral Pratap Adhikary shares how he finds comfort and perspective through his online watchlist, highlighting the videos, podcasts, and creators that influence him. The piece explores his personal media habits, offering insight into the digital content that shapes his outlook and creative process.",
+            "category": "culture",
             "sentiment": "positive",
-            "importance_score": 6,
-            "published_at": "2026-08-25T12:17:12+00:00",
+            "importance_score": 3,
+            "published_at": "2026-08-26T02:10:26+00:00",
             "keywords": [
-                "NADA Auto Show",
-                "Kathmandu",
-                "automotive industry",
-                "vehicles",
-                "job creation",
-                "2026"
+                "actor",
+                "online watchlist",
+                "videos",
+                "podcasts",
+                "creators",
+                "comfort",
+                "perspective"
             ],
-            "file": "articles/2026-08-25-nada-auto-show-2026-opens-in-kathmandu.md"
+            "file": "articles/2026-08-26-how-abiral-pratap-adhikary-finds-comfort-and-perspective-online.md"
         },
         {
             "id": 2,
             "source": "kathmandu-post",
-            "title": "24 years after leaving Nepal, he came home blind and broken",
-            "slug": "2026-08-25-24-years-after-leaving-nepal-he-came-home-blind-and-broken",
-            "summary": "Hom Bahadur Gharti left Nepal for Malaysia in 2002 seeking work. He spent decades living illegally, lost contact with his family, and was only located this year. Returning home, he arrived blind and in a desperate physical condition. His ordeal underscores the severe hardships faced by Nepali migrant workers, the dangers of undocumented labor abroad, and the challenges of reintegration and support for returnees.",
+            "title": "Movie review: \u2018Masterni\u2019 answers the mystery but forgets the suspense",
+            "slug": "2026-08-26-movie-review-masterni-answers-the-mystery-but-forgets-the-suspense",
+            "summary": "The review of the Nepali film 'Masterni' praises its intriguing premise and unconventional storytelling, but criticizes its heavy reliance on exposition which hampers the buildup of genuine suspense. While the narrative ambition is noted, the execution falls short in maintaining tension, leaving the audience with a resolved mystery but a lackluster experience.",
             "category": "culture",
-            "sentiment": "negative",
-            "importance_score": 5,
-            "published_at": "2026-08-25T12:17:12+00:00",
+            "sentiment": "mixed",
+            "importance_score": 3,
+            "published_at": "2026-08-26T02:10:26+00:00",
             "keywords": [
-                "migrant workers",
-                "illegal stay",
-                "labor migration",
-                "returnees",
-                "blindness",
-                "Nepal",
-                "Malaysia"
+                "Masterni",
+                "movie review",
+                "suspense",
+                "exposition",
+                "narrative",
+                "premise"
             ],
-            "file": "articles/2026-08-25-24-years-after-leaving-nepal-he-came-home-blind-and-broken.md"
+            "file": "articles/2026-08-26-movie-review-masterni-answers-the-mystery-but-forgets-the-suspense.md"
         },
         {
             "id": 1,
             "source": "kathmandu-post",
-            "title": "Two die as scrub typhus spreads in Salyan",
-            "slug": "2026-08-25-two-die-as-scrub-typhus-spreads-in-salyan",
-            "summary": "Two people have died as scrub typhus spreads in Salyan district, Nepal. In the Darma area, health officials report four to five new positive cases each day, raising concerns of a broader outbreak. The situation is worsened by a shortage of testing kits, forcing patients to travel to other facilities for diagnosis and treatment.",
-            "category": "health",
-            "sentiment": "negative",
-            "importance_score": 7,
-            "published_at": "2026-08-25T12:17:12+00:00",
+            "title": "China, India hold border talks, agree to continue search for boundary settlement",
+            "slug": "2026-08-26-china-india-hold-border-talks-agree-to-continue-search-for-boundary-settlement",
+            "summary": "China and India have resumed border talks, reaffirming their commitment to a peaceful resolution of their long\u2011standing boundary dispute. The discussions come after the deadly 2020 clash and a four\u2011year military standoff, with both sides agreeing to keep diplomatic channels open and to hold the next round of negotiations in India in 2027. The talks signal a mutual desire to stabilise bilateral ties and avoid further escalation along the contested frontier.",
+            "category": "politics",
+            "sentiment": "positive",
+            "importance_score": 8,
+            "published_at": "2026-08-26T02:10:26+00:00",
             "keywords": [
-                "scrub typhus",
-                "outbreak",
-                "testing kits shortage",
-                "Salyan district",
-                "Darma",
-                "health emergency"
+                "border talks",
+                "boundary settlement",
+                "2020 clash",
+                "military standoff",
+                "dialogue",
+                "2027 negotiations"
             ],
-            "file": "articles/2026-08-25-two-die-as-scrub-typhus-spreads-in-salyan.md"
+            "file": "articles/2026-08-26-china-india-hold-border-talks-agree-to-continue-search-for-boundary-settlement.md"
         }
     ],
-    "count": 6,
-    "last_updated": "2026-08-25T12:17:14+00:00"
+    "count": 25,
+    "last_updated": "2026-08-26T02:15:18+00:00"
 }
