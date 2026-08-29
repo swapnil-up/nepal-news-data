@@ -3,502 +3,505 @@
         {
             "id": 25,
             "source": "kathmandu-post",
-            "title": "When disaster strikes before communities recover from previous climate extremes, crisis escalates",
-            "slug": "2026-08-28-when-disaster-strikes-before-communities-recover-from-previous-climate-extremes-crisis-escalates",
-            "summary": "The article warns that repeated disasters hitting Nepal\u2019s communities before they have fully recovered from earlier climate\u2011related events intensify the crisis. It argues that merely rebuilding the same vulnerable infrastructure repeats the risk, and urges that recovery efforts combine rapid response with climate\u2011adapted designs to break the cycle.",
-            "category": "world",
+            "title": "Nepal tourism faces another setback as Rasuwa disaster exposes mountain risks",
+            "slug": "2026-08-29-nepal-tourism-faces-another-setback-as-rasuwa-disaster-exposes-mountain-risks",
+            "summary": "A flash flood in Rasuwa district has caused significant damage and loss of life, delivering another blow to Nepal's tourism sector. The disaster highlights the growing vulnerability of the country's mountain regions to climate\u2011related hazards such as sudden glacial lake outbursts and intense rainfall. Experts warn that if these risks are not addressed, the frequency of such events could rise, threatening the livelihoods of communities that depend on trekking and adventure tourism. The government and tourism authorities are being urged to improve early\u2011warning systems, invest in resilient infrastructure, and develop disaster\u2011risk management plans to safeguard the industry that contributes a large share of Nepal's foreign exchange earnings.",
+            "category": "business",
             "sentiment": "negative",
             "importance_score": 8,
-            "published_at": "2026-08-28T12:03:47+00:00",
+            "published_at": "2026-08-29T07:18:15+00:00",
             "keywords": [
-                "disaster",
-                "climate extremes",
-                "recovery",
-                "adaptation",
-                "vulnerable infrastructure"
+                "flash flood",
+                "Rasuwa",
+                "tourism",
+                "climate risk",
+                "mountain disasters",
+                "economic impact"
             ],
-            "file": "articles/2026-08-28-when-disaster-strikes-before-communities-recover-from-previous-climate-extremes-crisis-escalates.md"
+            "file": "articles/2026-08-29-nepal-tourism-faces-another-setback-as-rasuwa-disaster-exposes-mountain-risks.md"
         },
         {
             "id": 24,
             "source": "kathmandu-post",
-            "title": "At Kathmandu hospitals, families watch every ambulance arrive, hoping it carries news of their missing loved ones",
-            "slug": "2026-08-28-at-kathmandu-hospitals-families-watch-every-ambulance-arrive-hoping-it-carries-news-of-their-missing-loved-ones",
-            "summary": "In the wake of the devastating Bhotekoshi flood, families in Kathmandu are anxiously moving from one hospital to another, watching every arriving ambulance in hopes that it carries news about their missing relatives. The flood has left many injured and unaccounted for, prompting a frantic search through names, photographs, and faces of the wounded. Hospitals are overwhelmed as relatives cling to any sign of hope while also confronting fresh fear with each new arrival. The situation highlights the ongoing humanitarian crisis and the emotional toll on the community as they await information about loved ones lost or injured in the disaster.",
-            "category": "world",
-            "sentiment": "mixed",
-            "importance_score": 8,
-            "published_at": "2026-08-28T12:03:47+00:00",
+            "title": "Updates: Nepal flood death toll reaches 475 as hundreds remain missing and search widens downstream",
+            "slug": "2026-08-29-updates-nepal-flood-death-toll-reaches-475-as-hundreds-remain-missing-and-search-widens-downstream",
+            "summary": "Nepal flood death toll reaches 475 with hundreds missing, search and rescue teams working across northern and central Nepal.",
+            "category": "health",
+            "sentiment": "negative",
+            "importance_score": 10,
+            "published_at": "2026-08-29T07:18:15+00:00",
             "keywords": [
-                "Bhotekoshi flood",
-                "ambulances",
-                "missing loved ones",
-                "Kathmandu hospitals",
-                "disaster aftermath"
+                "Nepal",
+                "flood",
+                "death",
+                "toll",
+                "missing"
             ],
-            "file": "articles/2026-08-28-at-kathmandu-hospitals-families-watch-every-ambulance-arrive-hoping-it-carries-news-of-their-missing-loved-ones.md"
+            "file": "articles/2026-08-29-updates-nepal-flood-death-toll-reaches-475-as-hundreds-remain-missing-and-search-widens-downstream.md"
         },
         {
             "id": 23,
             "source": "kathmandu-post",
-            "title": "Why Nepal\u2019s infrastructure keeps losing to the river",
-            "slug": "2026-08-28-why-nepals-infrastructure-keeps-losing-to-the-river",
-            "summary": "Recent flooding of the Bhotekoshi River has caused extensive damage to roads, bridges and settlements in eastern Nepal, exposing the fragility of the country's infrastructure against natural disasters. Experts and officials argue that the event marks a turning point, urging the government to adopt resilient, eco\u2011friendly construction practices and better watershed management. The article highlights the need for policy reforms, investment in climate\u2011adapted designs, and coordination among ministries, local authorities and communities to prevent future losses.",
-            "category": "politics",
-            "sentiment": "mixed",
-            "importance_score": 7,
-            "published_at": "2026-08-28T12:03:47+00:00",
+            "title": "Nepal struggles to store and identify bodies carried downstream by devastating flood",
+            "slug": "2026-08-29-nepal-struggles-to-store-and-identify-bodies-carried-downstream-by-devastating-flood",
+            "summary": "Severe flooding along the Bhotekoshi River in Nepal has resulted in a tragic loss of life, with bodies being carried downstream from multiple districts. Hospitals in Chitwan and Pokhara are nearing full capacity as they receive the recovered bodies, highlighting the strain on medical facilities and the challenges of identification and storage. The disaster underscores the urgent need for coordinated response and support for affected communities across the region.",
+            "category": "world",
+            "sentiment": "negative",
+            "importance_score": 8,
+            "published_at": "2026-08-29T07:18:15+00:00",
             "keywords": [
-                "Bhotekoshi flood",
-                "infrastructure resilience",
-                "eco\u2011friendly development",
-                "climate change",
-                "road damage",
-                "policy reform",
+                "flood",
+                "Bhotekoshi River",
+                "bodies",
+                "hospitals",
+                "Chitwan",
+                "Pokhara",
+                "disaster",
                 "Nepal"
             ],
-            "file": "articles/2026-08-28-why-nepals-infrastructure-keeps-losing-to-the-river.md"
+            "file": "articles/2026-08-29-nepal-struggles-to-store-and-identify-bodies-carried-downstream-by-devastating-flood.md"
         },
         {
             "id": 22,
             "source": "kathmandu-post",
-            "title": "20 schools in three districts damaged by Wednesday\u2019s floods",
-            "slug": "2026-08-28-20-schools-in-three-districts-damaged-by-wednesdays-floods",
-            "summary": "Floods on Wednesday damaged 20 schools across three districts in Nepal, leaving several teachers and students missing. The disaster underscores the vulnerability of educational infrastructure to extreme weather events.",
-            "category": "world",
-            "sentiment": "negative",
-            "importance_score": 8,
-            "published_at": "2026-08-28T12:03:47+00:00",
-            "keywords": [
-                "floods",
-                "schools",
-                "damage",
-                "missing",
-                "teachers",
-                "students",
-                "Nepal"
-            ],
-            "file": "articles/2026-08-28-20-schools-in-three-districts-damaged-by-wednesdays-floods.md"
-        },
-        {
-            "id": 21,
-            "source": "kathmandu-post",
-            "title": "From diplomacy to youth and climate, Kathmandu summit calls for a new approach to Nepal-India ties",
-            "slug": "2026-08-28-from-diplomacy-to-youth-and-climate-kathmandu-summit-calls-for-a-new-approach-to-nepal-india-ties",
-            "summary": "The Kathmandu summit, part of the NDTV Anviksha: Ideas Across Borders series, brought together politicians, diplomats, and public figures to discuss a fresh approach to Nepal-India relations. Topics covered included diplomatic engagement, youth empowerment, migration challenges, climate change, and the broader future of Nepal. Participants emphasized the need for collaborative solutions and innovative policies to strengthen bilateral ties and address regional concerns.",
-            "category": "politics",
-            "sentiment": "neutral",
-            "importance_score": 6,
-            "published_at": "2026-08-28T12:03:47+00:00",
-            "keywords": [
-                "Nepal-India ties",
-                "diplomacy",
-                "youth",
-                "climate change",
-                "migration"
-            ],
-            "file": "articles/2026-08-28-from-diplomacy-to-youth-and-climate-kathmandu-summit-calls-for-a-new-approach-to-nepal-india-ties.md"
-        },
-        {
-            "id": 20,
-            "source": "kathmandu-post",
-            "title": "The flood crossed a border. Our warning systems must too",
-            "slug": "2026-08-28-the-flood-crossed-a-border-our-warning-systems-must-too",
-            "summary": "The article warns that floods originating in the high Himalayas are no longer confined by national borders, highlighting the need for transboundary, multi\u2011hazard detection and early\u2011warning systems. It argues that current warning mechanisms are fragmented and calls for coordinated regional cooperation and technology integration to monitor hazards at their source, ensuring timely alerts before floods cross borders and cause damage.",
-            "category": "politics",
-            "sentiment": "mixed",
-            "importance_score": 7,
-            "published_at": "2026-08-28T12:03:47+00:00",
-            "keywords": [
-                "flood",
-                "border",
-                "multi\u2011hazard detection",
-                "early warning systems",
-                "Himalayas",
-                "disaster management",
-                "regional cooperation"
-            ],
-            "file": "articles/2026-08-28-the-flood-crossed-a-border-our-warning-systems-must-too.md"
-        },
-        {
-            "id": 19,
-            "source": "kathmandu-post",
-            "title": "I watched my village disappear in an instant",
-            "slug": "2026-08-28-i-watched-my-village-disappear-in-an-instant",
-            "summary": "Severe floods in Nepal cut off an entire district, causing widespread devastation. A Kathmandu Post journalist recounts watching his childhood village vanish as rising waters swept through, with video footage and phone calls abruptly ending. The disaster isolated the area, disrupting communications and leaving residents stranded, highlighting the urgent need for relief and reconstruction efforts.",
-            "category": "world",
-            "sentiment": "negative",
-            "importance_score": 8,
-            "published_at": "2026-08-28T12:03:47+00:00",
-            "keywords": [
-                "floods",
-                "village disappearance",
-                "district isolation",
-                "humanitarian crisis",
-                "Nepal"
-            ],
-            "file": "articles/2026-08-28-i-watched-my-village-disappear-in-an-instant.md"
-        },
-        {
-            "id": 18,
-            "source": "kathmandu-post",
-            "title": "Kalika Construction donates Rs10.1 million to flood relief fund",
-            "slug": "2026-08-28-kalika-construction-donates-rs101-million-to-flood-relief-fund",
-            "summary": "Kalika Construction announced a donation of Rs10.1\u202fmillion to the flood relief fund following the recent devastating floods in Nepal. Chair Bikram Pandey expressed condolences to the victims and called on other individuals and organisations to contribute to the relief efforts, emphasizing the need for collective support to rebuild affected communities.",
-            "category": "business",
-            "sentiment": "positive",
-            "importance_score": 7,
-            "published_at": "2026-08-28T12:03:47+00:00",
-            "keywords": [
-                "flood relief",
-                "Kalika Construction",
-                "donation",
-                "Bikram Pandey",
-                "Rs10.1 million",
-                "Nepal floods"
-            ],
-            "file": "articles/2026-08-28-kalika-construction-donates-rs101-million-to-flood-relief-fund.md"
-        },
-        {
-            "id": 17,
-            "source": "kathmandu-post",
-            "title": "From Army camps to hospitals, families desperately search for missing members",
-            "slug": "2026-08-28-from-army-camps-to-hospitals-families-desperately-search-for-missing-members",
-            "summary": "Hundreds of people remain missing after the devastating floods that swept Nepal, leaving families desperate for news about their loved ones. Rescue teams, including army units and medical staff, are racing against time to locate stranded individuals and recover the missing, while relatives gather at camps and hospitals hoping for any information. The ongoing search highlights the scale of the disaster and the urgent need for coordinated relief efforts across affected regions.",
-            "category": "world",
-            "sentiment": "negative",
-            "importance_score": 9,
-            "published_at": "2026-08-28T12:03:47+00:00",
-            "keywords": [
-                "floods",
-                "missing persons",
-                "rescue teams",
-                "families",
-                "disaster",
-                "relief"
-            ],
-            "file": "articles/2026-08-28-from-army-camps-to-hospitals-families-desperately-search-for-missing-members.md"
-        },
-        {
-            "id": 16,
-            "source": "kathmandu-post",
-            "title": "Nepal\u2019s MMA star Rabindra Dhant eyes UFC glory in Shanghai",
-            "slug": "2026-08-28-nepals-mma-star-rabindra-dhant-eyes-ufc-glory-in-shanghai",
-            "summary": "Rabindra Dhant, Nepal's leading mixed\u2011martial\u2011arts bantamweight, is on the cusp of signing a UFC contract. He will travel to Shanghai to fight New Zealand's Kasib Murdoch, a bout described as the fight of his life. A victory could secure his entry into the UFC, marking a historic moment for Nepalese MMA and raising the sport's profile in the country.",
-            "category": "sports",
-            "sentiment": "positive",
-            "importance_score": 6,
-            "published_at": "2026-08-28T12:03:47+00:00",
-            "keywords": [
-                "MMA",
-                "UFC",
-                "Rabindra Dhant",
-                "Kasib Murdoch",
-                "Shanghai",
-                "bantamweight",
-                "fight"
-            ],
-            "file": "articles/2026-08-28-nepals-mma-star-rabindra-dhant-eyes-ufc-glory-in-shanghai.md"
-        },
-        {
-            "id": 15,
-            "source": "kathmandu-post",
-            "title": "Nepal declines foreign rescue teams, says its own security agencies can handle operation",
-            "slug": "2026-08-28-nepal-declines-foreign-rescue-teams-says-its-own-security-agencies-can-handle-operation",
-            "summary": "The Nepalese government has refused offers of foreign rescue teams, asserting that its own security agencies are capable of managing the ongoing operation. It has directed diplomatic missions abroad to route any foreign assistance through the Prime Minister\u2019s Relief Fund, ensuring that aid is coordinated centrally. The decision reflects a desire to maintain sovereignty over disaster response while still welcoming international support in a controlled manner.",
-            "category": "politics",
-            "sentiment": "neutral",
-            "importance_score": 6,
-            "published_at": "2026-08-28T12:03:47+00:00",
-            "keywords": [
-                "Nepal",
-                "rescue",
-                "foreign assistance",
-                "Prime Minister\u2019s Relief Fund",
-                "security agencies"
-            ],
-            "file": "articles/2026-08-28-nepal-declines-foreign-rescue-teams-says-its-own-security-agencies-can-handle-operation.md"
-        },
-        {
-            "id": 14,
-            "source": "kathmandu-post",
-            "title": "Smash patriarchy. But how?",
-            "slug": "2026-08-28-smash-patriarchy-but-how",
-            "summary": "The article argues that Nepal's deeply unequal political landscape perpetuates patriarchy, leading to continued scrutiny and control over women's bodies. It warns that without substantial reforms toward gender equality in politics, societal attitudes will remain regressive, reinforcing harmful norms that police women's appearance and limit their freedoms.",
-            "category": "politics",
-            "sentiment": "negative",
-            "importance_score": 7,
-            "published_at": "2026-08-28T12:03:47+00:00",
-            "keywords": [
-                "patriarchy",
-                "gender inequality",
-                "politics",
-                "women's rights",
-                "societal norms",
-                "Nepal"
-            ],
-            "file": "articles/2026-08-28-smash-patriarchy-but-how.md"
-        },
-        {
-            "id": 13,
-            "source": "kathmandu-post",
-            "title": "Don\u2019t let flood victims face the tragedy alone",
-            "slug": "2026-08-28-dont-let-flood-victims-face-the-tragedy-alone",
-            "summary": "The article urges that flood victims in Nepal should not face the tragedy alone, emphasizing that the country's recovery depends on providing support to those affected by the ongoing disaster.",
-            "category": "other",
-            "sentiment": "negative",
-            "importance_score": 8,
-            "published_at": "2026-08-28T12:03:47+00:00",
-            "keywords": [
-                "flood",
-                "victims",
-                "disaster",
-                "support",
-                "recovery"
-            ],
-            "file": "articles/2026-08-28-dont-let-flood-victims-face-the-tragedy-alone.md"
-        },
-        {
-            "id": 12,
-            "source": "kathmandu-post",
-            "title": "They watched settlements disappear beneath a wall of water and mud. Somehow, they survived",
-            "slug": "2026-08-28-they-watched-settlements-disappear-beneath-a-wall-of-water-and-mud-somehow-they-survived",
-            "summary": "In Rasuwa district, a sudden flash flood swept away settlements, killing many and destroying homes within minutes. Survivors recount the horror of watching their villages vanish under water and mud, yet some managed to escape and now face the challenge of rebuilding their lives while coping with deep psychological trauma. Relief agencies, including the Nepal Red Cross and government disaster response teams, have been mobilized to provide emergency shelter, food, and medical aid. The disaster highlights the vulnerability of mountain communities to climate\u2011induced hazards and underscores the need for improved early warning systems and resilient infrastructure.",
-            "category": "world",
-            "sentiment": "mixed",
-            "importance_score": 8,
-            "published_at": "2026-08-28T12:03:47+00:00",
-            "keywords": [
-                "flood",
-                "Rasuwa",
-                "survivors",
-                "disaster relief",
-                "trauma",
-                "mountain communities",
-                "climate change"
-            ],
-            "file": "articles/2026-08-28-they-watched-settlements-disappear-beneath-a-wall-of-water-and-mud-somehow-they-survived.md"
-        },
-        {
-            "id": 11,
-            "source": "kathmandu-post",
-            "title": "Nepal tourism faces another setback as Rasuwa disaster exposes mountain risks",
-            "slug": "2026-08-28-nepal-tourism-faces-another-setback-as-rasuwa-disaster-exposes-mountain-risks",
-            "summary": "A flash flood in Rasuwa district has caused significant damage, dealing another blow to Nepal's tourism sector. The disaster highlights growing climate-related risks in the Himalayas, prompting experts to warn that increasing mountain hazards could threaten the country's tourism-dependent economy. Authorities are urged to improve disaster preparedness and climate adaptation measures to protect both local communities and the vital tourism industry.",
-            "category": "business",
-            "sentiment": "negative",
-            "importance_score": 8,
-            "published_at": "2026-08-28T12:03:47+00:00",
-            "keywords": [
-                "flash flood",
-                "Rasuwa disaster",
-                "tourism",
-                "climate risk",
-                "mountain hazards",
-                "economic impact"
-            ],
-            "file": "articles/2026-08-28-nepal-tourism-faces-another-setback-as-rasuwa-disaster-exposes-mountain-risks.md"
-        },
-        {
-            "id": 10,
-            "source": "kathmandu-post",
-            "title": "Updates: Nepal flood death toll reaches 475 as hundreds remain missing and search widens downstream",
-            "slug": "2026-08-28-updates-nepal-flood-death-toll-reaches-475-as-hundreds-remain-missing-and-search-widens-downstream",
-            "summary": "Flash floods in northern and central Nepal have killed at least 475 people and left hundreds missing after the Bhotekoshi and Trishuli rivers burst their banks. Search and rescue teams are combing the downstream areas, retrieving bodies and debris while families await news of loved ones. The disaster has prompted a large-scale emergency response across the affected districts.",
-            "category": "health",
-            "sentiment": "negative",
-            "importance_score": 9,
-            "published_at": "2026-08-28T12:03:47+00:00",
-            "keywords": [
-                "Nepal flood",
-                "death toll",
-                "Bhotekoshi",
-                "Trishuli",
-                "missing",
-                "rescue"
-            ],
-            "file": "articles/2026-08-28-updates-nepal-flood-death-toll-reaches-475-as-hundreds-remain-missing-and-search-widens-downstream.md"
-        },
-        {
-            "id": 9,
-            "source": "kathmandu-post",
-            "title": "Nepal struggles to store and identify bodies carried downstream by devastating flood",
-            "slug": "2026-08-28-nepal-struggles-to-store-and-identify-bodies-carried-downstream-by-devastating-flood",
-            "summary": "The catastrophic Bhotekoshi flood in Nepal has left hospitals in Chitwan and Pokhara overwhelmed as bodies recovered from downstream districts continue to arrive. Health facilities are reaching capacity, struggling to store and identify the deceased, while rescue teams work to retrieve victims from the flood\u2011ravaged areas. The disaster highlights the urgent need for coordinated emergency response and resources to manage the humanitarian crisis across multiple districts.",
-            "category": "health",
-            "sentiment": "negative",
-            "importance_score": 8,
-            "published_at": "2026-08-28T12:03:47+00:00",
-            "keywords": [
-                "Bhotekoshi flood",
-                "body identification",
-                "hospital capacity",
-                "Chitwan",
-                "Pokhara",
-                "disaster response",
-                "humanitarian crisis"
-            ],
-            "file": "articles/2026-08-28-nepal-struggles-to-store-and-identify-bodies-carried-downstream-by-devastating-flood.md"
-        },
-        {
-            "id": 8,
-            "source": "kathmandu-post",
             "title": "Trump says US will provide \u2018anything\u2019 Nepal needs after deadly flood",
-            "slug": "2026-08-28-trump-says-us-will-provide-anything-nepal-needs-after-deadly-flood",
-            "summary": "Following a catastrophic flood in Nepal that has claimed at least 475 lives and left hundreds missing, including 90 Americans, U.S. President Donald Trump pledged that the United States will provide \"anything\" Nepal needs for relief and recovery. Nepali and U.S. officials are coordinating efforts to locate missing citizens and deliver humanitarian assistance. The statement underscores a commitment to extensive aid, encompassing emergency supplies, medical support, and reconstruction resources, as Nepal grapples with the disaster's aftermath.",
+            "slug": "2026-08-29-trump-says-us-will-provide-anything-nepal-needs-after-deadly-flood",
+            "summary": "Donald Trump announced that the United States will supply any assistance Nepal requires following a catastrophic flood that has killed 475 people, left hundreds missing, and left 90 Americans unaccounted for. The statement comes amid a massive humanitarian crisis, with Nepali and US officials confirming the toll and urging international support. The flood\u2019s devastation has drawn global attention to Nepal\u2019s urgent needs for rescue, relief, and reconstruction.",
             "category": "world",
-            "sentiment": "positive",
+            "sentiment": "mixed",
             "importance_score": 8,
-            "published_at": "2026-08-28T12:03:47+00:00",
+            "published_at": "2026-08-29T07:18:15+00:00",
             "keywords": [
                 "Nepal flood",
-                "U.S. aid",
+                "US aid",
                 "Donald Trump",
                 "death toll",
                 "missing Americans"
             ],
-            "file": "articles/2026-08-28-trump-says-us-will-provide-anything-nepal-needs-after-deadly-flood.md"
+            "file": "articles/2026-08-29-trump-says-us-will-provide-anything-nepal-needs-after-deadly-flood.md"
         },
         {
-            "id": 7,
+            "id": 21,
             "source": "kathmandu-post",
             "title": "Barrier lake near China border breaches, raising fresh flood threat in Nepal",
-            "slug": "2026-08-28-barrier-lake-near-china-border-breaches-raising-fresh-flood-threat-in-nepal",
-            "summary": "A barrier lake formed by floodwaters at the confluence of the Chhochen Khola and Purepu Tsangpo rivers near Nepal's border with China has breached, prompting fresh flood concerns in the Rasuwa district. The Nepalese authorities are preparing aerial reconnaissance missions to assess the situation and plan possible evacuations for downstream villages. Officials warn that the sudden release of water could cause significant damage to settlements and infrastructure, and they are urging residents to stay alert and follow safety directives.",
+            "slug": "2026-08-29-barrier-lake-near-china-border-breaches-raising-fresh-flood-threat-in-nepal",
+            "summary": "A barrier lake formed by floodwaters near the Chhochen Khola-Purepu Tsangpo confluence on the Nepal-China border has breached, prompting fresh flood concerns in Nepal. Authorities in Rasuwa District are preparing aerial reconnaissance to assess the situation and mitigate potential downstream impacts. The breach raises alarms about possible flooding in nearby communities and highlights ongoing risks associated with glacial lake outburst floods in the Himalayan region.",
             "category": "world",
             "sentiment": "negative",
             "importance_score": 8,
-            "published_at": "2026-08-28T12:03:47+00:00",
+            "published_at": "2026-08-29T07:18:15+00:00",
             "keywords": [
                 "barrier lake",
                 "flood threat",
-                "Rasuwa district",
-                "aerial reconnaissance",
-                "China-Nepal border",
-                "Chhochen Khola",
-                "Purepu Tsangpo"
+                "Rasuwa",
+                "China border",
+                "glacial lake outburst",
+                "Nepal"
             ],
-            "file": "articles/2026-08-28-barrier-lake-near-china-border-breaches-raising-fresh-flood-threat-in-nepal.md"
+            "file": "articles/2026-08-29-barrier-lake-near-china-border-breaches-raising-fresh-flood-threat-in-nepal.md"
         },
         {
-            "id": 6,
+            "id": 20,
             "source": "kathmandu-post",
             "title": "Cabinet members to donate a month\u2019s salary to disaster relief fund",
-            "slug": "2026-08-28-cabinet-members-to-donate-a-months-salary-to-disaster-relief-fund",
-            "summary": "Cabinet members will donate a month\u2019s salary to the disaster relief fund to support flood\u2011hit districts.",
+            "slug": "2026-08-29-cabinet-members-to-donate-a-months-salary-to-disaster-relief-fund",
+            "summary": "Cabinet members will donate a month's salary to the disaster relief fund to support flood-hit districts.",
             "category": "politics",
             "sentiment": "neutral",
             "importance_score": 6,
-            "published_at": "2026-08-28T12:03:47+00:00",
+            "published_at": "2026-08-29T07:18:15+00:00",
             "keywords": [
-                "flood",
+                "disaster",
                 "relief",
+                "flood",
                 "cabinet",
-                "salary donation"
+                "donation"
             ],
-            "file": "articles/2026-08-28-cabinet-members-to-donate-a-months-salary-to-disaster-relief-fund.md"
+            "file": "articles/2026-08-29-cabinet-members-to-donate-a-months-salary-to-disaster-relief-fund.md"
         },
         {
-            "id": 5,
+            "id": 19,
             "source": "kathmandu-post",
             "title": "How Nepal is mobilising funds in flood response",
-            "slug": "2026-08-28-how-nepal-is-mobilising-funds-in-flood-response",
-            "summary": "The Nepalese government can immediately draw about Rs20\u202fbillion from the current fiscal year\u2019s budget for rescue, relief and other emergency needs after the devastating Bhotekoshi flood, while donations to relief funds are also pouring in.",
-            "category": "politics",
+            "slug": "2026-08-29-how-nepal-is-mobilising-funds-in-flood-response",
+            "summary": "Nepal government has access to Rs20 billion for rescue and relief efforts after the Bhotekoshi flood, with donations also pouring in.",
+            "category": "health",
             "sentiment": "neutral",
-            "importance_score": 8,
-            "published_at": "2026-08-28T12:03:47+00:00",
+            "importance_score": 6,
+            "published_at": "2026-08-29T07:18:15+00:00",
             "keywords": [
                 "Nepal",
-                "Bhotekoshi flood",
-                "relief funds",
-                "Rs20 billion",
+                "flood",
+                "relief",
                 "donations",
-                "government"
+                "Bhotekoshi"
             ],
-            "file": "articles/2026-08-28-how-nepal-is-mobilising-funds-in-flood-response.md"
+            "file": "articles/2026-08-29-how-nepal-is-mobilising-funds-in-flood-response.md"
         },
         {
-            "id": 4,
+            "id": 18,
             "source": "kathmandu-post",
             "title": "Nepal\u2019s Bhotekoshi flood: What we know on day three as death toll crosses 500",
-            "slug": "2026-08-28-nepals-bhotekoshi-flood-what-we-know-on-day-three-as-death-toll-crosses-500",
-            "summary": "The Bhotekoshi flood in Nepal has become the country\u2019s worst flood disaster in years, with the government reporting 538 deaths and hundreds still missing. Bodies are being recovered far downstream as rescue efforts continue. The death toll has now crossed 500 on day three of the catastrophe.",
-            "category": "health",
+            "slug": "2026-08-29-nepals-bhotekoshi-flood-what-we-know-on-day-three-as-death-toll-crosses-500",
+            "summary": "The Bhotekoshi River flood in Nepal has become the country's worst flood disaster in years, with the government reporting a death toll of 538 and hundreds still missing. Rescue teams continue to recover bodies downstream while communities grapple with massive destruction of homes, infrastructure, and livelihoods. The disaster has prompted a large-scale emergency response, including national and international aid, and highlighted the vulnerability of the region to extreme weather events. Authorities are urging caution as aftershocks of the flood persist and the full extent of the damage is still being assessed.",
+            "category": "world",
             "sentiment": "negative",
-            "importance_score": 10,
-            "published_at": "2026-08-28T12:03:47+00:00",
+            "importance_score": 9,
+            "published_at": "2026-08-29T07:18:15+00:00",
             "keywords": [
                 "Bhotekoshi flood",
                 "death toll",
-                "Nepal disaster",
-                "flood recovery",
-                "missing persons"
+                "disaster",
+                "rescue",
+                "missing",
+                "nepal",
+                "flood response"
             ],
-            "file": "articles/2026-08-28-nepals-bhotekoshi-flood-what-we-know-on-day-three-as-death-toll-crosses-500.md"
+            "file": "articles/2026-08-29-nepals-bhotekoshi-flood-what-we-know-on-day-three-as-death-toll-crosses-500.md"
         },
         {
-            "id": 3,
+            "id": 17,
             "source": "kathmandu-post",
             "title": "Eighty container drivers stranded in Kerung plead for repatriation",
-            "slug": "2026-08-28-eighty-container-drivers-stranded-in-kerung-plead-for-repatriation",
-            "summary": "Around 80 Nepali container drivers, along with construction labourers and workers from the hospitality and business sectors, are stranded in the border town of Kerung and are urging the government to arrange their repatriation.",
+            "slug": "2026-08-29-eighty-container-drivers-stranded-in-kerung-plead-for-repatriation",
+            "summary": "Around eighty Nepali container drivers, along with other labourers in construction, hospitality and business, remain stranded in the border town of Kerung. They have appealed to the Nepali government for assistance in returning home, citing difficulties caused by travel restrictions and lack of coordination with Chinese authorities. The article highlights the challenges faced by migrant workers abroad and calls for urgent diplomatic efforts to facilitate their repatriation.",
             "category": "world",
             "sentiment": "negative",
             "importance_score": 6,
-            "published_at": "2026-08-28T12:03:47+00:00",
+            "published_at": "2026-08-29T07:18:15+00:00",
             "keywords": [
                 "container drivers",
                 "Kerung",
                 "repatriation",
-                "Nepali nationals",
-                "stranded",
-                "construction labourers",
-                "hospitality sector"
+                "stranded workers",
+                "Nepal",
+                "China border",
+                "migrant labour"
             ],
-            "file": "articles/2026-08-28-eighty-container-drivers-stranded-in-kerung-plead-for-repatriation.md"
+            "file": "articles/2026-08-29-eighty-container-drivers-stranded-in-kerung-plead-for-repatriation.md"
         },
         {
-            "id": 2,
+            "id": 16,
             "source": "kathmandu-post",
             "title": "Barrier lake continues to pose flood risk, China warns",
-            "slug": "2026-08-28-barrier-lake-continues-to-pose-flood-risk-china-warns",
-            "summary": "The Chinese embassy in Kathmandu warned that a barrier lake, created by a recent ice\u2011rock avalanche, remains at a high level and is overflowing. Officials from both China and Nepal are closely monitoring the lake because of the heightened risk of a breach that could trigger severe flooding downstream. The embassy emphasized the need for continued vigilance and cooperation between the two sides to mitigate potential disaster impacts.",
+            "slug": "2026-08-29-barrier-lake-continues-to-pose-flood-risk-china-warns",
+            "summary": "The Chinese embassy in Kathmandu warned that a barrier lake formed by a recent ice\u2011rock avalanche remains at a high level and is overflowing, posing a continued flood risk. Both Chinese and Nepali officials are closely monitoring the lake for any signs of a breach that could trigger downstream flooding.",
             "category": "world",
             "sentiment": "negative",
-            "importance_score": 6,
-            "published_at": "2026-08-28T12:03:47+00:00",
+            "importance_score": 7,
+            "published_at": "2026-08-29T07:18:15+00:00",
             "keywords": [
                 "barrier lake",
                 "flood risk",
                 "ice-rock avalanche",
                 "China warning",
-                "Nepal",
+                "Kathmandu",
                 "monitoring"
             ],
-            "file": "articles/2026-08-28-barrier-lake-continues-to-pose-flood-risk-china-warns.md"
+            "file": "articles/2026-08-29-barrier-lake-continues-to-pose-flood-risk-china-warns.md"
+        },
+        {
+            "id": 15,
+            "source": "kathmandu-post",
+            "title": "Government asks Meta, TikTok to remove graphic flood content, misinformation",
+            "slug": "2026-08-29-government-asks-meta-tiktok-to-remove-graphic-flood-content-misinformation",
+            "summary": "The Nepalese government has urged social media platforms Meta and TikTok to swiftly remove graphic flood footage, AI\u2011generated videos, scam donation QR codes, and other distressing images circulating after the Bhotekoshi river disaster. Officials emphasized the need for faster action to curb misinformation and protect the public from harmful content related to the flood, urging the platforms to comply with removal requests promptly.",
+            "category": "politics",
+            "sentiment": "negative",
+            "importance_score": 8,
+            "published_at": "2026-08-29T07:18:15+00:00",
+            "keywords": [
+                "Bhotekoshi disaster",
+                "misinformation",
+                "AI-generated videos",
+                "scam QR codes",
+                "social media removal",
+                "flood content",
+                "government directive"
+            ],
+            "file": "articles/2026-08-29-government-asks-meta-tiktok-to-remove-graphic-flood-content-misinformation.md"
+        },
+        {
+            "id": 14,
+            "source": "kathmandu-post",
+            "title": "Nepali fighter Rabindra Dhant reaches Road to UFC finals",
+            "slug": "2026-08-29-nepali-fighter-rabindra-dhant-reaches-road-to-ufc-finals",
+            "summary": "Nepali mixed\u2011martial\u2011arts fighter Rabindra Dhant advanced to the final round of the Road to UFC tournament after defeating New Zealand opponent Kasib Murdoch on points in Shanghai. The win secures Dhant a place in the ultimate round, marking a significant milestone for Nepalese representation in the global UFC pathway.",
+            "category": "sports",
+            "sentiment": "positive",
+            "importance_score": 6,
+            "published_at": "2026-08-29T07:18:15+00:00",
+            "keywords": [
+                "Rabindra Dhant",
+                "Road to UFC",
+                "Shanghai",
+                "Kasib Murdoch",
+                "UFC finals",
+                "mixed martial arts",
+                "Nepal sports"
+            ],
+            "file": "articles/2026-08-29-nepali-fighter-rabindra-dhant-reaches-road-to-ufc-finals.md"
+        },
+        {
+            "id": 13,
+            "source": "kathmandu-post",
+            "title": "Prithvi Highway shutdown puts Kathmandu supplies under pressure",
+            "slug": "2026-08-29-prithvi-highway-shutdown-puts-kathmandu-supplies-under-pressure",
+            "summary": "The Prithvi Highway, the main artery linking the eastern Terai to Kathmandu, has remained closed since the Bhotekoshi River floods on Wednesday. The blockage has disrupted the flow of essential goods, leading to a noticeable drop in vegetable deliveries and raising alarms over potential food and fuel shortages in the capital. Damage to connecting roads and bridges compounds the logistical challenges, prompting authorities to seek alternative routes and emergency measures to sustain supplies.",
+            "category": "business",
+            "sentiment": "negative",
+            "importance_score": 8,
+            "published_at": "2026-08-29T07:18:15+00:00",
+            "keywords": [
+                "Prithvi Highway",
+                "Bhotekoshi floods",
+                "Kathmandu supplies",
+                "vegetable arrivals",
+                "fuel shortage"
+            ],
+            "file": "articles/2026-08-29-prithvi-highway-shutdown-puts-kathmandu-supplies-under-pressure.md"
+        },
+        {
+            "id": 12,
+            "source": "kathmandu-post",
+            "title": "What triggered the Rasuwa flood? Scientists piece together a complex chain of events",
+            "slug": "2026-08-29-what-triggered-the-rasuwa-flood-scientists-piece-together-a-complex-chain-of-events",
+            "summary": "Scientists have reconstructed the sequence of events that led to the catastrophic Rasuwa flood in Nepal. They explain that a blockage in the Bhotekoshi River, caused by landslides and debris, built up a large volume of water. When the natural dam failed, a sudden surge of water rushed downstream, overwhelming communities and infrastructure. The analysis highlights the complex interplay of geological and hydrological factors, while noting gaps in data that still leave some uncertainties about the precise triggers.",
+            "category": "world",
+            "sentiment": "neutral",
+            "importance_score": 8,
+            "published_at": "2026-08-29T07:18:15+00:00",
+            "keywords": [
+                "Rasuwa flood",
+                "Bhotekoshi river blockage",
+                "sudden water release",
+                "landslide dam",
+                "flood triggers",
+                "Nepal disaster"
+            ],
+            "file": "articles/2026-08-29-what-triggered-the-rasuwa-flood-scientists-piece-together-a-complex-chain-of-events.md"
+        },
+        {
+            "id": 11,
+            "source": "kathmandu-post",
+            "title": "Nepal agrees to foreign help for flood rescue",
+            "slug": "2026-08-29-nepal-agrees-to-foreign-help-for-flood-rescue",
+            "summary": "Nepal has agreed to accept foreign assistance for flood rescue operations, allowing international experts to help with tunnel rescues and the identification of bodies. The decision comes amid pressure from countries whose citizens are still missing after the recent floods.",
+            "category": "world",
+            "sentiment": "neutral",
+            "importance_score": 6,
+            "published_at": "2026-08-29T07:18:15+00:00",
+            "keywords": [
+                "Nepal",
+                "flood",
+                "rescue",
+                "foreign assistance",
+                "tunnel rescue",
+                "body identification"
+            ],
+            "file": "articles/2026-08-29-nepal-agrees-to-foreign-help-for-flood-rescue.md"
+        },
+        {
+            "id": 10,
+            "source": "kathmandu-post",
+            "title": "In Nuwakot\u2019s flooded villages, grief comes before rescue",
+            "slug": "2026-08-29-in-nuwakots-flooded-villages-grief-comes-before-rescue",
+            "summary": "Heavy rains have caused severe flooding in the river settlements of Nuwakot District, Nepal, destroying homes and leaving many residents trapped or dead. Survivors are grieving loved ones, searching for bodies beneath collapsed structures, and anxiously awaiting government rescue and relief efforts. The ongoing search for missing persons highlights the urgent need for coordinated emergency response and support for the affected communities.",
+            "category": "world",
+            "sentiment": "negative",
+            "importance_score": 8,
+            "published_at": "2026-08-29T07:18:15+00:00",
+            "keywords": [
+                "flood",
+                "Nuwakot",
+                "villages",
+                "rescue",
+                "bodies",
+                "disaster",
+                "Nepal"
+            ],
+            "file": "articles/2026-08-29-in-nuwakots-flooded-villages-grief-comes-before-rescue.md"
+        },
+        {
+            "id": 9,
+            "source": "kathmandu-post",
+            "title": "Washed-out bridges force flood-hit communities to rely on choppers",
+            "slug": "2026-08-29-washed-out-bridges-force-flood-hit-communities-to-rely-on-choppers",
+            "summary": "Heavy monsoon floods have washed out bridges and damaged key roads in the Nepali districts of Rasuwa, Nuwakot and Dhading. The destruction has halted transport of relief supplies, disrupted healthcare services, education and local trade. With ground routes impassable, authorities and aid agencies are resorting to helicopters to deliver food, medicine and other essential assistance to the affected communities.",
+            "category": "world",
+            "sentiment": "negative",
+            "importance_score": 8,
+            "published_at": "2026-08-29T07:18:15+00:00",
+            "keywords": [
+                "flood",
+                "bridges",
+                "relief",
+                "helicopters",
+                "Rasuwa",
+                "Nuwakot",
+                "Dhading"
+            ],
+            "file": "articles/2026-08-29-washed-out-bridges-force-flood-hit-communities-to-rely-on-choppers.md"
+        },
+        {
+            "id": 8,
+            "source": "kathmandu-post",
+            "title": "Private sector pours millions into Bhotekoshi flood relief efforts",
+            "slug": "2026-08-29-private-sector-pours-millions-into-bhotekoshi-flood-relief-efforts",
+            "summary": "Following the devastating Bhotekoshi floods, Nepal's private sector\u2014including companies, banks, insurers and individual donors\u2014has pledged millions of rupees to the national disaster relief fund. The contributions aim to support ongoing rescue operations and the long\u2011term recovery of affected communities. While the immediate focus remains on providing food, shelter and medical aid, the influx of private funding is expected to accelerate rebuilding efforts and bolster resilience against future disasters.",
+            "category": "business",
+            "sentiment": "positive",
+            "importance_score": 7,
+            "published_at": "2026-08-29T07:18:15+00:00",
+            "keywords": [
+                "Bhotekoshi flood",
+                "disaster relief",
+                "private sector donations",
+                "Nepal",
+                "recovery",
+                "fundraising"
+            ],
+            "file": "articles/2026-08-29-private-sector-pours-millions-into-bhotekoshi-flood-relief-efforts.md"
+        },
+        {
+            "id": 7,
+            "source": "kathmandu-post",
+            "title": "Nepal brings new rules for foreign journalists covering Bhotekoshi flooding",
+            "slug": "2026-08-29-nepal-brings-new-rules-for-foreign-journalists-covering-bhotekoshi-flooding",
+            "summary": "The Nepalese government has introduced new regulations for foreign journalists reporting on the recent Bhotekoshi River flooding. The rules require correspondents to provide passports, visas, organization-issued identity cards, and detailed information about their salaries and benefits. The move aims to tighten media oversight during the disaster response, prompting concerns among the international press about increased bureaucratic hurdles.",
+            "category": "politics",
+            "sentiment": "mixed",
+            "importance_score": 7,
+            "published_at": "2026-08-29T07:18:15+00:00",
+            "keywords": [
+                "foreign journalists",
+                "Bhotekoshi flooding",
+                "new media rules",
+                "passport",
+                "visa",
+                "press credentials"
+            ],
+            "file": "articles/2026-08-29-nepal-brings-new-rules-for-foreign-journalists-covering-bhotekoshi-flooding.md"
+        },
+        {
+            "id": 6,
+            "source": "kathmandu-post",
+            "title": "In a reprieve for a grieving nation, Rabindra Dhant advances to Road to UFC final",
+            "slug": "2026-08-29-in-a-reprieve-for-a-grieving-nation-rabindra-dhant-advances-to-road-to-ufc-final",
+            "summary": "Rabindra Dhant, known as the \u2018Tiger of Bajhang\u2019, secured a decision win over New Zealand\u2019s Murdoch in Shanghai, advancing to the Road to UFC final. His late\u2011stage strikes clinched the victory, offering a moment of pride and comfort to a nation mourning a recent tragedy back home.",
+            "category": "sports",
+            "sentiment": "positive",
+            "importance_score": 6,
+            "published_at": "2026-08-29T07:18:15+00:00",
+            "keywords": [
+                "Rabindra Dhant",
+                "Road to UFC",
+                "Shanghai",
+                "Murdoch",
+                "Bajhang",
+                "decision win",
+                "national tragedy"
+            ],
+            "file": "articles/2026-08-29-in-a-reprieve-for-a-grieving-nation-rabindra-dhant-advances-to-road-to-ufc-final.md"
+        },
+        {
+            "id": 5,
+            "source": "kathmandu-post",
+            "title": "What's on in Kathmandu Valley this week",
+            "slug": "2026-08-29-whats-on-in-kathmandu-valley-this-week",
+            "summary": "The Kathmandu Post provides a weekly roundup of major events happening across the Kathmandu Valley, highlighting cultural, recreational, and community activities scheduled for the coming days.",
+            "category": "culture",
+            "sentiment": "neutral",
+            "importance_score": 3,
+            "published_at": "2026-08-29T07:18:15+00:00",
+            "keywords": [
+                "Kathmandu Valley",
+                "events",
+                "weekly guide",
+                "culture",
+                "activities"
+            ],
+            "file": "articles/2026-08-29-whats-on-in-kathmandu-valley-this-week.md"
+        },
+        {
+            "id": 4,
+            "source": "kathmandu-post",
+            "title": "A new play examines whether the latest wave of power is any different from what came before",
+            "slug": "2026-08-29-a-new-play-examines-whether-the-latest-wave-of-power-is-any-different-from-what-came-before",
+            "summary": "The Kathmandu Post reviews a new Nepali play titled \u201cSudhakar\u2019s New Moon,\u201d which employs magical realism to delve into themes of political disillusionment. The piece examines whether the current wave of power differs from past regimes, reflecting broader societal frustrations. The article highlights the playwright\u2019s innovative storytelling and the play\u2019s relevance to contemporary Nepali politics, while noting its artistic merits and potential impact on the local theatre scene.",
+            "category": "culture",
+            "sentiment": "neutral",
+            "importance_score": 4,
+            "published_at": "2026-08-29T07:18:15+00:00",
+            "keywords": [
+                "play",
+                "magical realism",
+                "political disillusionment",
+                "Nepal theatre",
+                "Sudhakar\u2019s New Moon"
+            ],
+            "file": "articles/2026-08-29-a-new-play-examines-whether-the-latest-wave-of-power-is-any-different-from-what-came-before.md"
+        },
+        {
+            "id": 3,
+            "source": "kathmandu-post",
+            "title": "Washed away bodies lead to problem of identification, morgue crunch",
+            "slug": "2026-08-29-washed-away-bodies-lead-to-problem-of-identification-morgue-crunch",
+            "summary": "After recent floods washed away bodies in central Nepal, families are struggling to locate missing relatives amid severely overcrowded mortuaries. Authorities face a shortage of forensic experts and limited cold\u2011storage capacity, hampering the identification of decomposing remains. The crisis highlights systemic gaps in Nepal's disaster response and mortuary management, prompting calls for increased resources and better coordination among health and emergency agencies.",
+            "category": "health",
+            "sentiment": "negative",
+            "importance_score": 7,
+            "published_at": "2026-08-29T07:18:15+00:00",
+            "keywords": [
+                "mortuary overcrowding",
+                "body identification",
+                "forensic expertise shortage",
+                "cold storage capacity",
+                "central Nepal floods",
+                "disaster response"
+            ],
+            "file": "articles/2026-08-29-washed-away-bodies-lead-to-problem-of-identification-morgue-crunch.md"
+        },
+        {
+            "id": 2,
+            "source": "kathmandu-post",
+            "title": "Updates: Bhotekoshi flood toll reaches 626 as 2,426 remain unaccounted for",
+            "slug": "2026-08-29-updates-bhotekoshi-flood-toll-reaches-626-as-2426-remain-unaccounted-for",
+            "summary": "Three days after the catastrophic Bhotekoshi flood in Nepal, the death toll has risen to 626, with 2,426 people still missing. Search and rescue teams continue operations across northern and central regions of the country, striving to locate survivors and recover bodies. The disaster has caused widespread devastation, displacing thousands and prompting urgent humanitarian assistance.",
+            "category": "world",
+            "sentiment": "negative",
+            "importance_score": 9,
+            "published_at": "2026-08-29T07:18:15+00:00",
+            "keywords": [
+                "Bhotekoshi flood",
+                "death toll",
+                "missing persons",
+                "search and rescue",
+                "Nepal disaster"
+            ],
+            "file": "articles/2026-08-29-updates-bhotekoshi-flood-toll-reaches-626-as-2426-remain-unaccounted-for.md"
         },
         {
             "id": 1,
             "source": "kathmandu-post",
-            "title": "Government asks Meta, TikTok to remove graphic flood content, misinformation",
-            "slug": "2026-08-28-government-asks-meta-tiktok-to-remove-graphic-flood-content-misinformation",
-            "summary": "Following the devastating Bhotekoshi flood in Nepal, the government has urged social media giants Meta and TikTok to swiftly delete graphic flood footage, AI\u2011generated videos, and fraudulent donation QR codes that are spreading online. Officials warned that such content not only traumatizes victims but also fuels misinformation and scams. The directive calls for faster moderation mechanisms to curb the circulation of distressing images and false information related to the disaster.",
-            "category": "politics",
+            "title": "Hundreds feared trapped in hydropower tunnels after Bhotekoshi flood",
+            "slug": "2026-08-29-hundreds-feared-trapped-in-hydropower-tunnels-after-bhotekoshi-flood",
+            "summary": "Heavy rains caused the Bhotekoshi River to flood, inundating several hydropower tunnel sites along Nepal's Trishuli corridor. Hundreds of construction workers are feared trapped underground. The Nepali Army has begun rescue operations, managing to evacuate workers from some locations, but access to many sites remains difficult due to swollen waters and damaged infrastructure. Authorities are assessing the extent of the damage and continuing search efforts, while the flood raises concerns over the safety of ongoing hydro projects in the region.",
+            "category": "world",
             "sentiment": "negative",
             "importance_score": 8,
-            "published_at": "2026-08-28T12:03:47+00:00",
+            "published_at": "2026-08-29T07:18:15+00:00",
             "keywords": [
-                "Bhotekoshi flood",
-                "misinformation",
-                "AI\u2011generated videos",
-                "scam QR codes",
-                "social media regulation",
-                "disaster response"
+                "flood",
+                "Bhotekoshi",
+                "hydropower tunnels",
+                "rescue",
+                "Nepali Army",
+                "Trishuli corridor"
             ],
-            "file": "articles/2026-08-28-government-asks-meta-tiktok-to-remove-graphic-flood-content-misinformation.md"
+            "file": "articles/2026-08-29-hundreds-feared-trapped-in-hydropower-tunnels-after-bhotekoshi-flood.md"
         }
     ],
     "count": 25,
-    "last_updated": "2026-08-28T12:08:22+00:00"
+    "last_updated": "2026-08-29T07:21:07+00:00"
 }
