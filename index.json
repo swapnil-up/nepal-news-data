@@ -1,505 +1,503 @@
 {
     "articles": [
         {
-            "id": 40,
-            "source": "kathmandu-post",
-            "title": "Local governments take charge of flood relief after criticism of centralised response",
-            "slug": "2026-09-03-local-governments-take-charge-of-flood-relief-after-criticism-of-centralised-response",
-            "summary": "Amid criticism of the central government's reliance on security agencies for flood relief, local authorities in Nepal's Rasuwa and Nuwakot districts have taken charge. Six\u2011party committees have been established in each district to coordinate the distribution of aid and resources, aiming to improve efficiency and address community needs. The shift reflects growing pressure on the central administration to decentralise disaster response and empower local bodies.",
-            "category": "politics",
-            "sentiment": "mixed",
-            "importance_score": 7,
-            "published_at": "2026-09-03T04:54:50+00:00",
-            "keywords": [
-                "flood relief",
-                "local governments",
-                "six\u2011party committees",
-                "Rasuwa",
-                "Nuwakot",
-                "central response",
-                "criticism"
-            ],
-            "file": "articles/2026-09-03-local-governments-take-charge-of-flood-relief-after-criticism-of-centralised-response.md"
-        },
-        {
-            "id": 39,
-            "source": "kathmandu-post",
-            "title": "After days of managing flood victims, Bharatpur Hospital returns to treating patients",
-            "slug": "2026-09-03-after-days-of-managing-flood-victims-bharatpur-hospital-returns-to-treating-patients",
-            "summary": "Bharatpur Hospital in Chitwan, Nepal, has cleared its morgue after recovering and burying 321 flood victims, with 199 bodies interred over two days. The rapid effort eased the pressure on the facility\u2019s mortuary, allowing it to resume normal patient care and outpatient services that had been suspended during the disaster response. Hospital officials praised the coordination among staff and local authorities, emphasizing the importance of restoring healthcare services for the community after the recent flooding.",
+            "id": 31,
+            "source": "online-khabar",
+            "title": "Health condition of Sah, rescued from tunnel after 10 days, is normal",
+            "slug": "2026-09-04-health-condition-of-sah-rescued-from-tunnel-after-10-days-is-normal",
+            "summary": "Sanjay Sah, who was rescued alive after ten days from the Trishuli Three \u201cA\u201d tunnel, has been medically examined by the Nepal Army and found to be in normal, stable condition. The army confirmed his health status, assuring the public that he is doing well following the rescue operation.",
             "category": "health",
             "sentiment": "positive",
-            "importance_score": 7,
-            "published_at": "2026-09-03T04:54:50+00:00",
+            "importance_score": 5,
+            "published_at": "2026-09-04T04:53:01+00:00",
             "keywords": [
-                "flood victims",
-                "Bharatpur Hospital",
-                "Chitwan",
-                "morgue clearance",
-                "patient care",
-                "disaster response"
+                "Sanjay Sah",
+                "tunnel rescue",
+                "health condition",
+                "Nepal Army",
+                "Trishuli"
             ],
-            "file": "articles/2026-09-03-after-days-of-managing-flood-victims-bharatpur-hospital-returns-to-treating-patients.md"
-        },
-        {
-            "id": 38,
-            "source": "kathmandu-post",
-            "title": "China and India should do more to save the Himalaya system",
-            "slug": "2026-09-03-china-and-india-should-do-more-to-save-the-himalaya-system",
-            "summary": "The article discusses the need for China and India to take climate action to save the Himalaya system.",
-            "category": "world",
-            "sentiment": "neutral",
-            "importance_score": 6,
-            "published_at": "2026-09-03T04:54:50+00:00",
-            "keywords": [
-                "climate action",
-                "Himalaya system",
-                "regional legal arrangement"
-            ],
-            "file": "articles/2026-09-03-china-and-india-should-do-more-to-save-the-himalaya-system.md"
-        },
-        {
-            "id": 37,
-            "source": "kathmandu-post",
-            "title": "The case for transparency in Nepal flood rescue flights",
-            "slug": "2026-09-03-the-case-for-transparency-in-nepal-flood-rescue-flights",
-            "summary": "The article argues for greater transparency in the use of rescue helicopters during Nepal's recent floods, highlighting how the destruction of road networks made air transport essential for evacuations and aid. It criticizes the allocation of these limited resources to politicians and media crews, questioning the criteria for flight prioritization and calling for clear guidelines to ensure that rescue operations serve those in need first. The piece urges government accountability and public oversight to prevent misuse of emergency assets in future disasters.",
-            "category": "politics",
-            "sentiment": "negative",
-            "importance_score": 8,
-            "published_at": "2026-09-03T04:54:50+00:00",
-            "keywords": [
-                "flood",
-                "rescue helicopters",
-                "transparency",
-                "politicians",
-                "media crews",
-                "emergency response",
-                "Nepal"
-            ],
-            "file": "articles/2026-09-03-the-case-for-transparency-in-nepal-flood-rescue-flights.md"
-        },
-        {
-            "id": 36,
-            "source": "kathmandu-post",
-            "title": "Prioritise psychological support for those affected by the Bhotekoshi flood",
-            "slug": "2026-09-03-prioritise-psychological-support-for-those-affected-by-the-bhotekoshi-flood",
-            "summary": "The article urges the Nepalese government and aid agencies to expand counselling services beyond the districts most devastated by the Bhotekoshi flood, ensuring that displaced residents and those who have returned to their home areas also receive psychological support. It highlights the long\u2011term mental health impacts of the disaster and calls for coordinated efforts among health officials, NGOs, and community groups to provide accessible, culturally appropriate counselling for all affected populations.",
-            "category": "health",
-            "sentiment": "positive",
-            "importance_score": 6,
-            "published_at": "2026-09-03T04:54:50+00:00",
-            "keywords": [
-                "psychological support",
-                "Bhotekoshi flood",
-                "counselling",
-                "disaster relief",
-                "mental health",
-                "relocation"
-            ],
-            "file": "articles/2026-09-03-prioritise-psychological-support-for-those-affected-by-the-bhotekoshi-flood.md"
-        },
-        {
-            "id": 35,
-            "source": "kathmandu-post",
-            "title": "Nepal steps up diplomatic push for support after floods",
-            "slug": "2026-09-03-nepal-steps-up-diplomatic-push-for-support-after-floods",
-            "summary": "Following devastating floods, Nepal has intensified diplomatic efforts to secure international assistance, seeking climate recovery funds, tunnel rescue teams, forensic expertise, and essential equipment to aid reconstruction and disaster response.",
-            "category": "politics",
-            "sentiment": "neutral",
-            "importance_score": 7,
-            "published_at": "2026-09-03T04:54:50+00:00",
-            "keywords": [
-                "Nepal",
-                "floods",
-                "climate funds",
-                "rescue teams",
-                "forensic expertise"
-            ],
-            "file": "articles/2026-09-03-nepal-steps-up-diplomatic-push-for-support-after-floods.md"
-        },
-        {
-            "id": 34,
-            "source": "kathmandu-post",
-            "title": "UN Women estimates 43,000 women and girls in Nepal need urgent flood assistance",
-            "slug": "2026-09-03-un-women-estimates-43000-women-and-girls-in-nepal-need-urgent-flood-assistance",
-            "summary": "UN Women estimates that 43,000 women and girls in Nepal require urgent assistance following recent floods, with a total of 157,050 women and girls in the districts of Rasuwa and Nuwakot directly or indirectly affected. The humanitarian response highlights critical needs for food, safe drinking water, and protection services. UN Women calls for immediate relief efforts to address these vulnerabilities and prevent further deterioration of the situation for the affected female population.",
-            "category": "world",
-            "sentiment": "negative",
-            "importance_score": 8,
-            "published_at": "2026-09-03T04:54:49+00:00",
-            "keywords": [
-                "flood assistance",
-                "women and girls",
-                "UN Women",
-                "Rasuwa",
-                "Nuwakot",
-                "food security",
-                "safe water",
-                "protection"
-            ],
-            "file": "articles/2026-09-03-un-women-estimates-43000-women-and-girls-in-nepal-need-urgent-flood-assistance.md"
-        },
-        {
-            "id": 33,
-            "source": "kathmandu-post",
-            "title": "1.6 million affected by Bhotekoshi floods, says government report",
-            "slug": "2026-09-03-16-million-affected-by-bhotekoshi-floods-says-government-report",
-            "summary": "The Nepalese government\u2019s first situation report on the Bhotekoshi River floods states that about 1.6\u202fmillion people have been affected. The disaster has resulted in at least 1,050 confirmed deaths and nearly 4,000 individuals remain missing. Over 21,000 security personnel are involved in rescue and relief operations, working alongside international teams. The flooding has caused extensive damage to infrastructure, displaced thousands, and triggered a massive coordinated response across the affected regions.",
-            "category": "world",
-            "sentiment": "negative",
-            "importance_score": 9,
-            "published_at": "2026-09-03T04:54:49+00:00",
-            "keywords": [
-                "Bhotekoshi floods",
-                "death toll",
-                "missing persons",
-                "rescue operation",
-                "Nepal",
-                "security personnel",
-                "affected population"
-            ],
-            "file": "articles/2026-09-03-16-million-affected-by-bhotekoshi-floods-says-government-report.md"
+            "file": "articles/2026-09-04-health-condition-of-sah-rescued-from-tunnel-after-10-days-is-normal.md"
         },
         {
             "id": 32,
-            "source": "kathmandu-post",
-            "title": "Drones take on a new role in Nepal\u2019s disaster response\u2014from delivering food to carrying bodies",
-            "slug": "2026-09-03-drones-take-on-a-new-role-in-nepals-disaster-response-from-delivering-food-to-carrying-bodies",
-            "summary": "The article discusses how Nepal has expanded the use of drones beyond their initial deployment by international rescue teams after the 2015 earthquake. Today, drones are employed to deliver food and medical supplies, assist in searching for survivors, and even transport bodies from inaccessible disaster zones, enhancing the country's overall emergency response capabilities.",
-            "category": "technology",
-            "sentiment": "positive",
-            "importance_score": 7,
-            "published_at": "2026-09-03T04:54:48+00:00",
-            "keywords": [
-                "drones",
-                "disaster response",
-                "food delivery",
-                "body transport",
-                "search and rescue",
-                "Nepal",
-                "2015 earthquake"
-            ],
-            "file": "articles/2026-09-03-drones-take-on-a-new-role-in-nepals-disaster-response-from-delivering-food-to-carrying-bodies.md"
-        },
-        {
-            "id": 31,
-            "source": "kathmandu-post",
-            "title": "Authorities scramble for alternatives after Krishnabhir road cave-in",
-            "slug": "2026-09-03-authorities-scramble-for-alternatives-after-krishnabhir-road-cave-in",
-            "summary": "A major section of the Krishnabhir road has collapsed into the Trishuli River, with a 70\u2011metre stretch falling completely and another 120\u2011metre segment severely cracked. Local authorities are urgently seeking alternative routes and solutions to restore connectivity and ensure safety for commuters. The incident has disrupted transport in the region and raised concerns over the stability of nearby infrastructure.",
+            "source": "online-khabar",
+            "title": "Nepal\u2019s flood response must put children at its centre",
+            "slug": "2026-09-04-nepals-flood-response-must-put-children-at-its-centre",
+            "summary": "The article argues that Nepal\u2019s flood response strategies must prioritize children\u2019s needs and rights. Drawing on the author\u2019s experience with past emergencies, including the 2015 earthquake, it highlights how children are disproportionately affected during disasters. The piece calls for child\u2011focused policies in relief distribution, shelter, education, and health services, urging the government and aid agencies to integrate child protection measures into all stages of flood management.",
             "category": "politics",
             "sentiment": "negative",
-            "importance_score": 7,
-            "published_at": "2026-09-03T04:54:48+00:00",
+            "importance_score": 8,
+            "published_at": "2026-09-04T04:15:00+00:00",
             "keywords": [
-                "road collapse",
-                "Trishuli River",
-                "Krishnabhir road",
-                "infrastructure failure",
-                "alternative routes",
-                "authorities response"
+                "flood response",
+                "children",
+                "disaster management",
+                "child rights",
+                "emergency relief",
+                "Nepal"
             ],
-            "file": "articles/2026-09-03-authorities-scramble-for-alternatives-after-krishnabhir-road-cave-in.md"
+            "file": "articles/2026-09-04-nepals-flood-response-must-put-children-at-its-centre.md"
         },
         {
-            "id": 30,
-            "source": "kathmandu-post",
-            "title": "Family performs funeral rites after Bhotekoshi flood victim\u2019s body goes missing",
-            "slug": "2026-09-03-family-performs-funeral-rites-after-bhotekoshi-flood-victims-body-goes-missing",
-            "summary": "Relatives of Raj Kumar Shrestha performed funeral rites after his body, presumed recovered from the August 26 Bhotekoshi flood, went missing. The family said a body resembling Shrestha was photographed, but later they were told it had been transferred to TU Teaching Hospital from Nuwakot, and they could not locate it. The incident highlights ongoing distress for flood victims and their families.",
-            "category": "world",
-            "sentiment": "negative",
-            "importance_score": 7,
-            "published_at": "2026-09-03T04:54:48+00:00",
-            "keywords": [
-                "Bhotekoshi flood",
-                "missing body",
-                "funeral rites",
-                "Raj Kumar Shrestha",
-                "TU Teaching Hospital",
-                "Nuwakot"
-            ],
-            "file": "articles/2026-09-03-family-performs-funeral-rites-after-bhotekoshi-flood-victims-body-goes-missing.md"
-        },
-        {
-            "id": 29,
-            "source": "kathmandu-post",
-            "title": "Trade shifts to under-resourced Korala point after Rasuwa and Tatopani closures",
-            "slug": "2026-09-03-trade-shifts-to-under-resourced-korala-point-after-rasuwa-and-tatopani-closures",
-            "summary": "Following the closure of the Rasuwa and Tatopani border crossings, traders are rerouting stranded containers to the under\u2011resourced Korala point in upper Mustang. Nepal Customs officials have warned that the sudden shift is straining the limited manpower and equipment at Korala, prompting calls for additional resources to handle the increased trade flow and avoid bottlenecks.",
+            "id": 33,
+            "source": "online-khabar",
+            "title": "Amid flood crisis, cooking gas price hiked by Rs 105 in Kathmandu",
+            "slug": "2026-09-04-amid-flood-crisis-cooking-gas-price-hiked-by-rs-105-in-kathmandu",
+            "summary": "Amid a flood-induced crisis in Kathmandu Valley, cooking gas (LPG) prices have risen by Rs\u202f105.38 per cylinder. Gas bottlers cite higher transportation costs after a landslide at Krishnabhir blocked the Prithvi Highway, disrupting supply routes. The Nepal Oil Corporation (NOC) has set the new LPG cylinder price at Rs\u202f2,060, affecting households across the capital during the ongoing emergency.",
             "category": "business",
             "sentiment": "negative",
-            "importance_score": 7,
-            "published_at": "2026-09-03T04:54:48+00:00",
+            "importance_score": 6,
+            "published_at": "2026-09-04T03:44:54+00:00",
             "keywords": [
-                "trade",
-                "Korala point",
-                "border closures",
-                "customs manpower",
-                "container diversion",
-                "Mustang"
+                "cooking gas",
+                "price hike",
+                "flood crisis",
+                "landslide",
+                "Prithvi Highway",
+                "Kathmandu",
+                "Nepal Oil Corporation"
             ],
-            "file": "articles/2026-09-03-trade-shifts-to-under-resourced-korala-point-after-rasuwa-and-tatopani-closures.md"
+            "file": "articles/2026-09-04-amid-flood-crisis-cooking-gas-price-hiked-by-rs-105-in-kathmandu.md"
         },
         {
-            "id": 28,
-            "source": "kathmandu-post",
-            "title": "In Thecho, Matayaa becomes a festival of remembrance and satire",
-            "slug": "2026-09-03-in-thecho-matayaa-becomes-a-festival-of-remembrance-and-satire",
-            "summary": "Thecho\u2019s annual Matayaa festival this year blended remembrance with satire, honoring those who perished in the Bhotekoshi floods while continuing its tradition of using music, performance and humor to comment on societal issues. The procession highlighted the community\u2019s resilience and offered a platform for reflection through artistic expression.",
-            "category": "culture",
-            "sentiment": "mixed",
+            "id": 34,
+            "source": "online-khabar",
+            "title": "UPDATE: Two rescued alive from Trishuli-3A tunnel after Bhotekoshi flood",
+            "slug": "2026-09-04-update-two-rescued-alive-from-trishuli-3a-tunnel-after-bhotekoshi-flood",
+            "summary": "Two individuals trapped in the Trishuli-3A Hydropower Project tunnel in Rasuwa after the Bhotekoshi flood were rescued alive by a joint team of the Nepali Army and the Armed Police Force. The rescue operation, confirmed by an engineer involved in the effort, took place hours after the flood caused the tunnel collapse, highlighting swift emergency response in the region.",
+            "category": "world",
+            "sentiment": "positive",
+            "importance_score": 8,
+            "published_at": "2026-09-04T03:41:30+00:00",
+            "keywords": [
+                "rescue operation",
+                "Trishuli-3A tunnel",
+                "Bhotekoshi flood",
+                "Nepali Army",
+                "Armed Police Force"
+            ],
+            "file": "articles/2026-09-04-update-two-rescued-alive-from-trishuli-3a-tunnel-after-bhotekoshi-flood.md"
+        },
+        {
+            "id": 35,
+            "source": "online-khabar",
+            "title": "For every body inside, a family waits outside",
+            "slug": "2026-09-04-for-every-body-inside-a-family-waits-outside",
+            "summary": "The article describes the somber scene outside the mortuary at Tribhuvan University Teaching Hospital in Maharajgunj, Nepal, where families gather anxiously awaiting news about unidentified bodies inside. Some relatives stare at photos of missing loved ones, hoping for identification, while others already feel the weight of grief. The piece highlights the emotional toll on families forced to wait outside, often without clear information, and underscores broader challenges in the hospital\u2019s capacity to manage and identify deceased patients.",
+            "category": "health",
+            "sentiment": "negative",
             "importance_score": 5,
-            "published_at": "2026-09-03T04:54:48+00:00",
+            "published_at": "2026-09-04T03:35:00+00:00",
             "keywords": [
-                "Matayaa festival",
-                "Thecho",
-                "Bhotekoshi floods",
-                "remembrance",
-                "satire",
-                "music",
-                "performance"
+                "mortuary",
+                "unidentified bodies",
+                "family grief",
+                "hospital",
+                "Tribhuvan University Teaching Hospital",
+                "Maharajgunj"
             ],
-            "file": "articles/2026-09-03-in-thecho-matayaa-becomes-a-festival-of-remembrance-and-satire.md"
+            "file": "articles/2026-09-04-for-every-body-inside-a-family-waits-outside.md"
         },
         {
-            "id": 27,
-            "source": "kathmandu-post",
-            "title": "Nepal flood death toll rises to 1,127 as 4,858 remain missing",
-            "slug": "2026-09-03-nepal-flood-death-toll-rises-to-1127-as-4858-remain-missing",
-            "summary": "The death toll from the August 26 flash flood in Nepal has risen to 1,127, with 4,858 people still missing. Search and rescue teams continue to recover bodies and look for survivors along the affected river valleys. The disaster has caused widespread devastation across several districts, prompting emergency response efforts and calls for increased aid and support for the affected communities.",
+            "id": 36,
+            "source": "online-khabar",
+            "title": "Why DNA testing matters when disaster victims cannot be identified",
+            "slug": "2026-09-04-why-dna-testing-matters-when-disaster-victims-cannot-be-identified",
+            "summary": "After the catastrophic floods and landslides in Rasuwa district, Nepal, only about 100 of the 1,290 bodies recovered have been identified. The article stresses the critical role of DNA testing in confirming the identities of victims when visual identification is impossible. It outlines the challenges faced by authorities, the need for forensic labs, and the emotional relief DNA results provide to grieving families. The piece calls for improved infrastructure, faster processing, and coordinated efforts among government agencies to ensure that all victims are properly identified and returned to their relatives.",
             "category": "world",
-            "sentiment": "negative",
-            "importance_score": 9,
-            "published_at": "2026-09-03T04:54:48+00:00",
+            "sentiment": "neutral",
+            "importance_score": 8,
+            "published_at": "2026-09-04T03:17:15+00:00",
             "keywords": [
-                "Nepal",
-                "flash flood",
-                "death toll",
-                "missing",
-                "disaster",
-                "rescue"
+                "DNA testing",
+                "disaster victim identification",
+                "Rasuwa floods",
+                "forensic science",
+                "families",
+                "identification process"
             ],
-            "file": "articles/2026-09-03-nepal-flood-death-toll-rises-to-1127-as-4858-remain-missing.md"
+            "file": "articles/2026-09-04-why-dna-testing-matters-when-disaster-victims-cannot-be-identified.md"
         },
         {
-            "id": 26,
-            "source": "kathmandu-post",
-            "title": "US launches new strikes on Iran and Tehran hits back in widening conflict",
-            "slug": "2026-09-03-us-launches-new-strikes-on-iran-and-tehran-hits-back-in-widening-conflict",
-            "summary": "The United States carried out new airstrikes targeting Iranian military installations, prompting Tehran to launch retaliatory attacks across the Gulf region. The escalating exchanges have heightened concerns about a wider war and the potential for renewed disruptions to global oil supplies, affecting markets and regional stability.",
-            "category": "world",
-            "sentiment": "negative",
-            "importance_score": 9,
-            "published_at": "2026-09-03T04:54:48+00:00",
-            "keywords": [
-                "US airstrikes",
-                "Iran retaliation",
-                "Gulf conflict",
-                "global oil supply",
-                "military escalation"
-            ],
-            "file": "articles/2026-09-03-us-launches-new-strikes-on-iran-and-tehran-hits-back-in-widening-conflict.md"
-        },
-        {
-            "id": 25,
-            "source": "kathmandu-post",
-            "title": "Rescue teams struggle to reach workers trapped in underground powerhouses",
-            "slug": "2026-09-03-rescue-teams-struggle-to-reach-workers-trapped-in-underground-powerhouses",
-            "summary": "Rescue teams are facing severe difficulties reaching dozens of workers believed to be trapped inside underground hydropower plants after the Bhotekoshi River flood devastated the area. Thick mud and debris have blocked access routes, hampering rescue efforts. Families of the workers are demanding answers and urgent action from authorities. The incident highlights the vulnerability of Nepal's expanding hydropower infrastructure to extreme weather events and raises concerns about safety protocols and emergency preparedness.",
+            "id": 37,
+            "source": "online-khabar",
+            "title": "APF\u2019s Timure team lost 13 of its own. It never left the post",
+            "slug": "2026-09-04-apfs-timure-team-lost-13-of-its-own-it-never-left-the-post",
+            "summary": "On August 26, a sudden surge of the Bhotekoshi River caused a devastating flood in Timure, a settlement on the China\u2011Nepal border. The flash flood swept away homes, offices and infrastructure within minutes. The Armed Police Force (APF) team stationed there suffered its heaviest loss, with 13 personnel killed while remaining at their post to assist the affected area.",
             "category": "world",
             "sentiment": "negative",
             "importance_score": 8,
-            "published_at": "2026-09-03T04:54:48+00:00",
+            "published_at": "2026-09-04T03:15:00+00:00",
             "keywords": [
+                "flood",
+                "Timure",
+                "Bhotekoshi",
+                "APF casualties",
+                "China\u2011Nepal border",
+                "disaster response"
+            ],
+            "file": "articles/2026-09-04-apfs-timure-team-lost-13-of-its-own-it-never-left-the-post.md"
+        },
+        {
+            "id": 38,
+            "source": "online-khabar",
+            "title": "Bangladesh provides $1 million in aid to disaster-hit Nepal",
+            "slug": "2026-09-04-bangladesh-provides-1-million-in-aid-to-disaster-hit-nepal",
+            "summary": "Bangladesh has pledged US$1\u202fmillion in financial assistance to Nepal to aid relief, recovery and humanitarian operations after severe floods and landslides struck northern Nepal last week. The funds were transferred to Nepal\u2019s Prime Minister\u2019s Disaster Relief Fund, as confirmed by the Bangladesh Embassy in Kathmandu. The aid aims to support affected communities and bolster ongoing emergency response efforts.",
+            "category": "world",
+            "sentiment": "positive",
+            "importance_score": 6,
+            "published_at": "2026-09-04T02:38:57+00:00",
+            "keywords": [
+                "Bangladesh aid",
+                "Nepal floods",
+                "disaster relief",
+                "$1 million",
+                "humanitarian assistance"
+            ],
+            "file": "articles/2026-09-04-bangladesh-provides-1-million-in-aid-to-disaster-hit-nepal.md"
+        },
+        {
+            "id": 39,
+            "source": "online-khabar",
+            "title": "Voices heard from inside Trishuli-3A tunnel, rescue operation intensified",
+            "slug": "2026-09-04-voices-heard-from-inside-trishuli-3a-tunnel-rescue-operation-intensified",
+            "summary": "Rescue teams have intensified their search at the Trishuli-3A Hydropower Project in Rasuwa after the Bhotekoshi flood on August 26 trapped workers inside a tunnel. Engineer Shriram Neupane reported that the Nepali Army, leading the operation, received reports of voices from within the tunnel, prompting a focused effort to locate and extract the survivors. The incident highlights ongoing challenges in Nepal\u2019s flood\u2011prone regions and the urgent need for coordinated emergency response.",
+            "category": "world",
+            "sentiment": "negative",
+            "importance_score": 7,
+            "published_at": "2026-09-04T01:49:19+00:00",
+            "keywords": [
+                "Trishuli-3A tunnel",
                 "Bhotekoshi flood",
-                "hydropower",
+                "rescue operation",
+                "Rasuwa",
+                "voices heard",
+                "Nepali Army"
+            ],
+            "file": "articles/2026-09-04-voices-heard-from-inside-trishuli-3a-tunnel-rescue-operation-intensified.md"
+        },
+        {
+            "id": 40,
+            "source": "online-khabar",
+            "title": "Chandra Bahadur Thapa, Arika Gurung named Best Male and Female Athletes at NSJF Sports Awards",
+            "slug": "2026-09-03-chandra-bahadur-thapa-arika-gurung-named-best-male-and-female-athletes-at-nsjf-sports-awards",
+            "summary": "At the Nepal Sports Journalists Forum (NSJF) Sports Awards held in Kathmandu, boxer Chandra Bahadur Thapa was named Best Male Athlete, while karateka Arika Gurung received the Best Female Athlete award. Gurung made history by winning the female award for the third consecutive year, becoming the first athlete to achieve such a streak. The ceremony highlighted top performances across Nepal's sports, including boxing, karate and volleyball.",
+            "category": "sports",
+            "sentiment": "positive",
+            "importance_score": 7,
+            "published_at": "2026-09-03T14:34:28+00:00",
+            "keywords": [
+                "NSJF Sports Awards",
+                "Chandra Bahadur Thapa",
+                "Arika Gurung",
+                "Best Male Athlete",
+                "Best Female Athlete"
+            ],
+            "file": "articles/2026-09-03-chandra-bahadur-thapa-arika-gurung-named-best-male-and-female-athletes-at-nsjf-sports-awards.md"
+        },
+        {
+            "id": 41,
+            "source": "online-khabar",
+            "title": "217 students, 15 teachers remain unaccounted for after Bhotekoshi floods",
+            "slug": "2026-09-03-217-students-15-teachers-remain-unaccounted-for-after-bhotekoshi-floods",
+            "summary": "Heavy floods caused by the Bhotekoshi River in Rasuwa district have left at least 217 students and 15 teachers unaccounted for, according to preliminary data from Nepal's Department of Education. Nilkantha Dhakal, director of the department, said the missing individuals are linked to schools in Rasuwa, Nuwakot and Dhading districts. Rescue and relief operations are ongoing, but the full extent of the damage and the whereabouts of the missing remain unclear.",
+            "category": "world",
+            "sentiment": "negative",
+            "importance_score": 8,
+            "published_at": "2026-09-03T13:47:36+00:00",
+            "keywords": [
+                "floods",
+                "Bhotekoshi",
+                "missing students",
+                "missing teachers",
+                "Rasuwa",
+                "Nepal"
+            ],
+            "file": "articles/2026-09-03-217-students-15-teachers-remain-unaccounted-for-after-bhotekoshi-floods.md"
+        },
+        {
+            "id": 42,
+            "source": "online-khabar",
+            "title": "Govt announces recovery package for businesses hit by Bhotekoshi floods",
+            "slug": "2026-09-03-govt-announces-recovery-package-for-businesses-hit-by-bhotekoshi-floods",
+            "summary": "The Nepalese government has unveiled a recovery package aimed at businesses impacted by the recent Bhotekoshi floods. Approved in a cabinet meeting on September 3, the plan\u2014proposed by the Ministry of Finance\u2014includes customs duty waivers, tax relief and other concessions to help affected enterprises resume operations. The measures target firms whose commercial vehicles or assets were damaged by the flooding, seeking to mitigate economic losses and support regional recovery.",
+            "category": "business",
+            "sentiment": "positive",
+            "importance_score": 7,
+            "published_at": "2026-09-03T13:38:38+00:00",
+            "keywords": [
+                "Bhotekoshi floods",
+                "recovery package",
+                "customs duty waiver",
+                "tax relief",
+                "Ministry of Finance",
+                "Nepal"
+            ],
+            "file": "articles/2026-09-03-govt-announces-recovery-package-for-businesses-hit-by-bhotekoshi-floods.md"
+        },
+        {
+            "id": 43,
+            "source": "online-khabar",
+            "title": "Flood kills up to 15,000 pigs, 150,000 chickens and 500 buffaloes in Nuwakot",
+            "slug": "2026-09-03-flood-kills-up-to-15000-pigs-150000-chickens-and-500-buffaloes-in-nuwakot",
+            "summary": "Heavy flooding in the Bhotekoshi and Trishuli rivers swept through Nuwakot district, killing an estimated 10,000\u201115,000 pigs, about 150,000 commercial chickens and roughly 500 buffaloes, according to a preliminary assessment by the Nepal Veterinary Association. The disaster has caused extensive damage to Nepal\u2019s livestock and poultry sector.",
+            "category": "business",
+            "sentiment": "negative",
+            "importance_score": 7,
+            "published_at": "2026-09-03T13:09:04+00:00",
+            "keywords": [
+                "flood",
+                "livestock loss",
+                "Nuwakot",
+                "pigs",
+                "chickens",
+                "buffaloes",
+                "Bhotekoshi River",
+                "Trishuli River"
+            ],
+            "file": "articles/2026-09-03-flood-kills-up-to-15000-pigs-150000-chickens-and-500-buffaloes-in-nuwakot.md"
+        },
+        {
+            "id": 44,
+            "source": "online-khabar",
+            "title": "Rescue teams enter Upper Trishuli 3A tunnel as search continues",
+            "slug": "2026-09-03-rescue-teams-enter-upper-trishuli-3a-tunnel-as-search-continues",
+            "summary": "Rescue teams, including personnel from the Nepali Army, have entered the tunnel of the Upper Trishuli-3A Hydropower Project in Kathmandu after clearing soil and rocks caused by severe flooding. The Ministry of Energy, Water Resources and Irrigation confirmed that search and rescue operations are ongoing at the powerhouse site to locate any missing workers and assess damage.",
+            "category": "business",
+            "sentiment": "negative",
+            "importance_score": 7,
+            "published_at": "2026-09-03T12:58:50+00:00",
+            "keywords": [
+                "Upper Trishuli-3A",
+                "flooding",
                 "rescue teams",
-                "workers trapped",
-                "mud debris",
-                "families demanding answers"
-            ],
-            "file": "articles/2026-09-03-rescue-teams-struggle-to-reach-workers-trapped-in-underground-powerhouses.md"
-        },
-        {
-            "id": 24,
-            "source": "kathmandu-post",
-            "title": "Sonu Sood arrives in Nepal with relief supplies for flood victims",
-            "slug": "2026-09-03-sonu-sood-arrives-in-nepal-with-relief-supplies-for-flood-victims",
-            "summary": "Indian actor Sonu Sood arrived in Nepal with the Sood Charity Foundation to deliver food, blankets and other relief supplies to communities affected by recent floods. The actor emphasized that the foundation will continue to provide assistance over the coming months, aiming to support flood victims in the hardest\u2011hit areas.",
-            "category": "world",
-            "sentiment": "positive",
-            "importance_score": 7,
-            "published_at": "2026-09-03T04:54:48+00:00",
-            "keywords": [
-                "Sonu Sood",
-                "flood relief",
+                "hydropower",
                 "Nepal",
-                "Sood Charity Foundation",
-                "food and blankets",
-                "disaster assistance"
+                "Nepali Army"
             ],
-            "file": "articles/2026-09-03-sonu-sood-arrives-in-nepal-with-relief-supplies-for-flood-victims.md"
+            "file": "articles/2026-09-03-rescue-teams-enter-upper-trishuli-3a-tunnel-as-search-continues.md"
         },
         {
-            "id": 23,
-            "source": "kathmandu-post",
-            "title": "Bhotekoshi survivors reunited with families after five days",
-            "slug": "2026-09-03-bhotekoshi-survivors-reunited-with-families-after-five-days",
-            "summary": "Twenty-three workers from Bardiya who were caught in the Bhotekoshi flood in Rasuwa have been rescued and reunited with their families after five days stranded in the disaster zone. The survivors returned home on Sunday, marking the end of a tense period for the affected families and highlighting ongoing rescue efforts in the region.",
-            "category": "world",
+            "id": 45,
+            "source": "online-khabar",
+            "title": "Citizen Investment Trust allowed to deposit funds in infrastructure banks",
+            "slug": "2026-09-03-citizen-investment-trust-allowed-to-deposit-funds-in-infrastructure-banks",
+            "summary": "The Nepalese Ministry of Finance has proposed an amendment to the Citizen Investment Trust Act 1991 that would permit the Citizen Investment Trust (CIT) to place its funds in infrastructure development banks and to invest in private equity and venture capital funds. The change aims to broaden CIT's investment scope, supporting the country's infrastructure projects and fostering growth in the private equity and venture capital sectors.",
+            "category": "business",
             "sentiment": "positive",
             "importance_score": 7,
-            "published_at": "2026-09-03T04:54:48+00:00",
+            "published_at": "2026-09-03T12:16:38+00:00",
             "keywords": [
-                "Bhotekoshi flood",
-                "survivors",
-                "Bardiya workers",
-                "Rasuwa disaster",
-                "family reunion"
+                "Citizen Investment Trust",
+                "infrastructure banks",
+                "private equity",
+                "venture capital",
+                "legislative amendment",
+                "finance ministry",
+                "Nepal"
             ],
-            "file": "articles/2026-09-03-bhotekoshi-survivors-reunited-with-families-after-five-days.md"
+            "file": "articles/2026-09-03-citizen-investment-trust-allowed-to-deposit-funds-in-infrastructure-banks.md"
         },
         {
-            "id": 15,
-            "source": "kathmandu-post",
-            "title": "PM Shah addresses five queries over government\u2019s handling of Bhotekoshi floods",
-            "slug": "2026-09-03-pm-shah-addresses-five-queries-over-governments-handling-of-bhotekoshi-floods",
-            "summary": "Prime Minister Shah faced five parliamentary questions about the government's handling of the August 26 Bhotekoshi floods. He defended the response, addressing criticism regarding the adequacy of early warnings, the management of deceased bodies, the role of foreign assistance, the execution of tunnel rescue operations, and the coordination between federal, provincial and local authorities. Shah asserted that the government acted promptly and cooperatively, while acknowledging challenges and outlining steps taken to improve disaster management.",
+            "id": 1,
+            "source": "nepali-times",
+            "title": "A disastrous state of affairs in Nepal",
+            "slug": "2026-09-03-a-disastrous-state-of-affairs-in-nepal",
+            "summary": "On the first anniversary of the GenZ movement, Nepal is confronting a severe flood crisis that has devastated large parts of the country. The disaster coincides with the arrival of a newly formed government, which now faces the urgent task of coordinating relief efforts, managing displaced populations, and addressing infrastructure damage. Officials are under pressure to demonstrate effective governance amidst criticism over preparedness and response capabilities. The article highlights the scale of the flooding, its impact on communities, and the political challenges the new administration must navigate to restore stability and public confidence.",
+            "category": "politics",
+            "sentiment": "negative",
+            "importance_score": 8,
+            "published_at": "2026-09-03T12:12:39+00:00",
+            "keywords": [
+                "flood crisis",
+                "GenZ movement",
+                "new government",
+                "disaster response",
+                "Nepal"
+            ],
+            "file": "articles/2026-09-03-a-disastrous-state-of-affairs-in-nepal.md"
+        },
+        {
+            "id": 46,
+            "source": "online-khabar",
+            "title": "Indian ambassador visits flood-hit hydropower project in Rasuwa",
+            "slug": "2026-09-03-indian-ambassador-visits-flood-hit-hydropower-project-in-rasuwa",
+            "summary": "Indian Ambassador to Nepal Naveen Srivastava visited the flood\u2011hit Syabrubesi area near Chilime in Rasuwa district on September 3 to inspect ongoing tunnel excavation and search operations at a hydropower project buried by the recent Bhotekoshi flood. He met with an Indian technical team deployed to the site, highlighting bilateral cooperation in disaster response and infrastructure recovery.",
+            "category": "politics",
+            "sentiment": "neutral",
+            "importance_score": 6,
+            "published_at": "2026-09-03T11:57:43+00:00",
+            "keywords": [
+                "Indian ambassador",
+                "Bhotekoshi flood",
+                "hydropower project",
+                "Rasuwa district",
+                "tunnel excavation",
+                "disaster response"
+            ],
+            "file": "articles/2026-09-03-indian-ambassador-visits-flood-hit-hydropower-project-in-rasuwa.md"
+        },
+        {
+            "id": 47,
+            "source": "online-khabar",
+            "title": "Rasuwa flood lessons: Build fewer, taller and longer bridges",
+            "slug": "2026-09-03-rasuwa-flood-lessons-build-fewer-taller-and-longer-bridges",
+            "summary": "The August 26 flood in the Bhotekoshi River, entering Nepal at Rasuwagadhi, destroyed 41 motorable bridges, washing away 35 and severing the road linking Betrawati, Mailung, Syafrubesi and Rasuwagadhi in Rasuwa. The article examines the disaster\u2019s impact and argues for a revised bridge\u2011building strategy: constructing fewer bridges that are taller and longer to better withstand future floods, thereby improving resilience of critical transport routes in the region.",
             "category": "politics",
             "sentiment": "neutral",
             "importance_score": 7,
-            "published_at": "2026-09-03T04:54:47+00:00",
+            "published_at": "2026-09-03T11:45:44+00:00",
             "keywords": [
-                "Bhotekoshi floods",
-                "government response",
-                "early warnings",
-                "foreign assistance",
-                "tunnel rescues",
-                "federal-provincial coordination"
+                "flood",
+                "bridge destruction",
+                "infrastructure resilience",
+                "Rasuwa district",
+                "Bhotekoshi River",
+                "disaster reconstruction",
+                "transport network"
             ],
-            "file": "articles/2026-09-03-pm-shah-addresses-five-queries-over-governments-handling-of-bhotekoshi-floods.md"
+            "file": "articles/2026-09-03-rasuwa-flood-lessons-build-fewer-taller-and-longer-bridges.md"
         },
         {
-            "id": 14,
-            "source": "kathmandu-post",
-            "title": "Nepal\u2019s political parties call for unity as criticism grows over flood rescue",
-            "slug": "2026-09-03-nepals-political-parties-call-for-unity-as-criticism-grows-over-flood-rescue",
-            "summary": "In the House of Representatives, leaders from Nepal's major political parties urged a coordinated response to the Bhotekoshi flood disaster, emphasizing national unity. Opposition lawmakers criticized the government's delayed rescue efforts in the tunnel, highlighting concerns over preparedness and response speed. The debate underscored growing public frustration over the handling of the catastrophe and called for improved disaster management mechanisms.",
+            "id": 48,
+            "source": "online-khabar",
+            "title": "46 injured in Rasuwa flood receiving treatment at Kathmandu hospitals",
+            "slug": "2026-09-03-46-injured-in-rasuwa-flood-receiving-treatment-at-kathmandu-hospitals",
+            "summary": "Forty-six flood victims from the recent Rasuwa flash flood and landslides are being treated in Kathmandu's major hospitals. At Tribhuvan University Teaching Hospital, 30 of the 77 admitted patients remain under care, while 42 have been discharged and one patient has died. The injured were transported to the capital after the disaster, and local health facilities are managing their treatment.",
+            "category": "health",
+            "sentiment": "neutral",
+            "importance_score": 7,
+            "published_at": "2026-09-03T11:34:00+00:00",
+            "keywords": [
+                "Rasuwa flood",
+                "Kathmandu hospitals",
+                "injured victims",
+                "Tribhuvan University Teaching Hospital",
+                "flood disaster"
+            ],
+            "file": "articles/2026-09-03-46-injured-in-rasuwa-flood-receiving-treatment-at-kathmandu-hospitals.md"
+        },
+        {
+            "id": 49,
+            "source": "online-khabar",
+            "title": "Govt declares public holiday on Gen Z Martyrs\u2019 Day",
+            "slug": "2026-09-03-govt-declares-public-holiday-on-gen-z-martyrs-day",
+            "summary": "The Nepalese government announced a nationwide public holiday on September 8 (Bhadra 23, 2083) to honor the martyrs of the Gen Z movement. The decision was approved during a Cabinet meeting at the Office of the Prime Minister and Council of Ministers, with government spokesperson Sasmita Pokhrel conveying the announcement. The holiday aims to recognize the contributions of Gen Z activists who sacrificed their lives for social and political change.",
+            "category": "politics",
+            "sentiment": "neutral",
+            "importance_score": 6,
+            "published_at": "2026-09-03T11:23:27+00:00",
+            "keywords": [
+                "public holiday",
+                "Gen Z Martyrs\u2019 Day",
+                "Cabinet meeting",
+                "September 8",
+                "Nepal government"
+            ],
+            "file": "articles/2026-09-03-govt-declares-public-holiday-on-gen-z-martyrs-day.md"
+        },
+        {
+            "id": 50,
+            "source": "online-khabar",
+            "title": "Government to provide risk allowance, Rs 1 million relief to rescue personnel",
+            "slug": "2026-09-03-government-to-provide-risk-allowance-rs-1-million-relief-to-rescue-personnel",
+            "summary": "The Nepalese government announced that it will provide risk allowances and meal expenses to security personnel and government employees involved in search and rescue operations after the flooding of the Bhotekoshi River in Rasuwa. The decision, confirmed by Education Minister and government spokesperson Sasmit Pokharel, was made during a Cabinet meeting on Thursday. Additionally, each rescue worker will receive a relief payment of Rs 1\u202fmillion to support them during the emergency response.",
+            "category": "politics",
+            "sentiment": "positive",
+            "importance_score": 8,
+            "published_at": "2026-09-03T11:19:40+00:00",
+            "keywords": [
+                "risk allowance",
+                "flood relief",
+                "Bhotekoshi River",
+                "rescue personnel",
+                "government decision"
+            ],
+            "file": "articles/2026-09-03-government-to-provide-risk-allowance-rs-1-million-relief-to-rescue-personnel.md"
+        },
+        {
+            "id": 2,
+            "source": "nepali-times",
+            "title": "What is lost and damaged in Nepal",
+            "slug": "2026-09-02-what-is-lost-and-damaged-in-nepal",
+            "summary": "The article discusses the escalating climate\u2011related losses and damages Nepal is facing, highlighting the need for a domestic reckoning that matches the country's strong advocacy for global climate justice. It points out that while the Nepali government has taken a firm stance internationally, similar urgency and accountability are required at home to address the impacts on agriculture, water resources, and vulnerable communities. The piece calls for concrete policies, financial mechanisms, and community\u2011level actions to mitigate and adapt to the worsening climate threats within Nepal.",
             "category": "politics",
             "sentiment": "mixed",
             "importance_score": 7,
-            "published_at": "2026-09-03T04:54:47+00:00",
+            "published_at": "2026-09-02T12:52:09+00:00",
             "keywords": [
-                "Bhotekoshi flood",
-                "political unity",
-                "disaster rescue",
-                "government criticism",
-                "Nepal"
-            ],
-            "file": "articles/2026-09-03-nepals-political-parties-call-for-unity-as-criticism-grows-over-flood-rescue.md"
-        },
-        {
-            "id": 13,
-            "source": "kathmandu-post",
-            "title": "US pounds Iran, Tehran strikes back at bases in biggest exchange since July",
-            "slug": "2026-09-03-us-pounds-iran-tehran-strikes-back-at-bases-in-biggest-exchange-since-july",
-            "summary": "The United States intensified its military campaign against Iran, launching strikes that prompted Tehran to retaliate with attacks on U.S. bases, marking the largest exchange of fire since July. Washington warned of further, more devastating strikes, while Iran accused the U.S. of bombing a wedding party, resulting in five deaths and dozens of injuries. The escalating tit\u2011for\u2011tat raises concerns of a broader conflict in the region.",
-            "category": "world",
-            "sentiment": "negative",
-            "importance_score": 8,
-            "published_at": "2026-09-03T04:54:47+00:00",
-            "keywords": [
-                "US-Iran conflict",
-                "military strikes",
-                "retaliation",
-                "wedding attack",
-                "July exchange",
-                "regional tension"
-            ],
-            "file": "articles/2026-09-03-us-pounds-iran-tehran-strikes-back-at-bases-in-biggest-exchange-since-july.md"
-        },
-        {
-            "id": 12,
-            "source": "kathmandu-post",
-            "title": "147 local representatives, government staff, teachers and security personnel missing after Bhotekoshi floods",
-            "slug": "2026-09-03-147-local-representatives-government-staff-teachers-and-security-personnel-missing-after-bhotekoshi-floods",
-            "summary": "Heavy rains caused the Bhotekoshi River to flood, leaving 147 local representatives, government staff, teachers and security personnel unaccounted for. Among the missing are 83 security personnel and 64 local officials and government employees. The disaster has raised the total number of people whose whereabouts are unknown to 3,916 across the affected region. Authorities are conducting rescue and search operations while assessing the damage and coordinating relief efforts.",
-            "category": "world",
-            "sentiment": "negative",
-            "importance_score": 8,
-            "published_at": "2026-09-03T04:54:47+00:00",
-            "keywords": [
-                "Bhotekoshi floods",
-                "missing persons",
-                "local representatives",
-                "security personnel",
-                "Nepal disaster"
-            ],
-            "file": "articles/2026-09-03-147-local-representatives-government-staff-teachers-and-security-personnel-missing-after-bhotekoshi-floods.md"
-        },
-        {
-            "id": 11,
-            "source": "kathmandu-post",
-            "title": "Oft-battered Langtang Valley cut off after Rasuwa floods",
-            "slug": "2026-09-03-oft-battered-langtang-valley-cut-off-after-rasuwa-floods",
-            "summary": "Heavy rains caused the Bhotekoshi River to flood in Rasuwa district, washing away the roads and bridges that connect Langtang Valley with Dhunche. With the main access routes destroyed, tourists are now reliant on helicopter transport, and authorities warn of supply shortages and uncertainty for the upcoming trekking season. The incident highlights the vulnerability of the popular trekking region to extreme weather events.",
-            "category": "world",
-            "sentiment": "negative",
-            "importance_score": 7,
-            "published_at": "2026-09-03T04:54:47+00:00",
-            "keywords": [
-                "Bhotekoshi floods",
-                "Langtang Valley",
-                "Rasuwa district",
-                "trekking season",
-                "road destruction",
-                "helicopter evacuation"
-            ],
-            "file": "articles/2026-09-03-oft-battered-langtang-valley-cut-off-after-rasuwa-floods.md"
-        },
-        {
-            "id": 10,
-            "source": "kathmandu-post",
-            "title": "In Bhotekoshi\u2019s wake, experts and activists question environmental cost of AI",
-            "slug": "2026-09-03-in-bhotekoshis-wake-experts-and-activists-question-environmental-cost-of-ai",
-            "summary": "As Nepal explores establishing its own AI data centres, experts and environmental activists warn that the country must first evaluate the energy, water and broader ecological impacts of such facilities. Citing the recent Bhotekoshi river incident, they argue that unchecked development could exacerbate resource strain and pollution. The discussion highlights the need for comprehensive assessments and sustainable planning before proceeding with large\u2011scale digital infrastructure.",
-            "category": "technology",
-            "sentiment": "negative",
-            "importance_score": 7,
-            "published_at": "2026-09-03T04:54:47+00:00",
-            "keywords": [
-                "AI",
-                "data centres",
-                "environmental impact",
-                "energy consumption",
-                "water usage",
-                "Bhotekoshi"
-            ],
-            "file": "articles/2026-09-03-in-bhotekoshis-wake-experts-and-activists-question-environmental-cost-of-ai.md"
-        },
-        {
-            "id": 9,
-            "source": "kathmandu-post",
-            "title": "Bhotekoshi floods halt Nepal\u2019s electricity exports to Bangladesh",
-            "slug": "2026-09-03-bhotekoshi-floods-halt-nepals-electricity-exports-to-bangladesh",
-            "summary": "Severe flooding in the Bhotekoshi River has disrupted Nepal's hydroelectric output, cutting the country's electricity exports to Bangladesh from about 1,000\u202fMW to roughly 650\u202fMW during the wet season. The reduction threatens revenue for Nepal's power sector and may affect Bangladesh's energy supply, prompting officials from both nations to assess mitigation measures and explore alternative arrangements.",
-            "category": "business",
-            "sentiment": "negative",
-            "importance_score": 7,
-            "published_at": "2026-09-03T04:54:47+00:00",
-            "keywords": [
-                "Bhotekoshi floods",
-                "electricity exports",
-                "hydropower",
+                "climate justice",
+                "loss and damage",
                 "Nepal",
-                "Bangladesh",
-                "wet season"
+                "government policy",
+                "adaptation",
+                "global warming"
             ],
-            "file": "articles/2026-09-03-bhotekoshi-floods-halt-nepals-electricity-exports-to-bangladesh.md"
+            "file": "articles/2026-09-02-what-is-lost-and-damaged-in-nepal.md"
+        },
+        {
+            "id": 3,
+            "source": "nepali-times",
+            "title": "The documentary Devi shown to MPs",
+            "slug": "2026-09-02-the-documentary-devi-shown-to-mps",
+            "summary": "The documentary \"Devi\", which chronicles sexual violence endured by victims during Nepal\u2019s decade\u2011long Maoist conflict, was screened for members of Parliament. The film highlights the continued suffering of survivors and criticises the government's apathetic response to their demands for justice and reparations. By bringing the issue to lawmakers, the documentary seeks to pressure the state into acknowledging the atrocities and implementing concrete measures to support the victims, who feel abandoned by the political establishment.",
+            "category": "politics",
+            "sentiment": "negative",
+            "importance_score": 8,
+            "published_at": "2026-09-02T09:51:31+00:00",
+            "keywords": [
+                "sexual violence",
+                "documentary Devi",
+                "Maoist conflict",
+                "MPs",
+                "state response",
+                "human rights",
+                "victims"
+            ],
+            "file": "articles/2026-09-02-the-documentary-devi-shown-to-mps.md"
+        },
+        {
+            "id": 4,
+            "source": "nepali-times",
+            "title": "Temporary burial for flood victims in Nepal",
+            "slug": "2026-09-01-temporary-burial-for-flood-victims-in-nepal",
+            "summary": "The death toll from the Nepal\u2011China floods rose to 1,050 a week after the disaster, with about 4,000 people still missing. Temporary burial sites have been set up for victims as authorities grapple with the massive humanitarian crisis. The floods, triggered by heavy monsoon rains, have devastated large areas in both Nepal and bordering regions of China, destroying homes, infrastructure, and farmland. Rescue and relief efforts are ongoing, with the Nepalese government and international agencies coordinating aid, medical assistance, and search operations. The scale of the tragedy has prompted calls for increased disaster preparedness and support for affected communities.",
+            "category": "health",
+            "sentiment": "negative",
+            "importance_score": 10,
+            "published_at": "2026-09-01T16:06:23+00:00",
+            "keywords": [
+                "Nepal",
+                "China",
+                "floods",
+                "death toll",
+                "temporary burial"
+            ],
+            "file": "articles/2026-09-01-temporary-burial-for-flood-victims-in-nepal.md"
+        },
+        {
+            "id": 5,
+            "source": "nepali-times",
+            "title": "Headlines on a climate deadline",
+            "slug": "2026-09-01-headlines-on-a-climate-deadline",
+            "summary": "Recent international coverage of the devastating floods in Nepal has been criticized for failing to connect the disaster to the broader climate crisis. Analysts argue that media outlets are missing an opportunity to highlight how rising temperatures and erratic weather patterns exacerbate flood risks in the Himalayas. The oversight underscores a larger issue of inadequate climate reporting, which can hinder public awareness and policy action on climate adaptation and mitigation in vulnerable regions like Nepal.",
+            "category": "world",
+            "sentiment": "negative",
+            "importance_score": 7,
+            "published_at": "2026-09-01T11:02:08+00:00",
+            "keywords": [
+                "Nepal flood",
+                "climate crisis",
+                "media coverage",
+                "climate change",
+                "disaster reporting",
+                "Himalayas"
+            ],
+            "file": "articles/2026-09-01-headlines-on-a-climate-deadline.md"
         }
     ],
     "count": 25,
-    "last_updated": "2026-09-03T04:56:26+00:00"
+    "last_updated": "2026-09-04T05:01:27+00:00"
 }
