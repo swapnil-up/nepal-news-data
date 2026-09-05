@@ -1,503 +1,501 @@
 {
     "articles": [
         {
-            "id": 31,
-            "source": "online-khabar",
-            "title": "Health condition of Sah, rescued from tunnel after 10 days, is normal",
-            "slug": "2026-09-04-health-condition-of-sah-rescued-from-tunnel-after-10-days-is-normal",
-            "summary": "Sanjay Sah, who was rescued alive after ten days from the Trishuli Three \u201cA\u201d tunnel, has been medically examined by the Nepal Army and found to be in normal, stable condition. The army confirmed his health status, assuring the public that he is doing well following the rescue operation.",
-            "category": "health",
+            "id": 25,
+            "source": "kathmandu-post",
+            "title": "How engineers in a WhatsApp group are guiding Nepal\u2019s flood rescue efforts",
+            "slug": "2026-09-05-how-engineers-in-a-whatsapp-group-are-guiding-nepals-flood-rescue-efforts",
+            "summary": "A WhatsApp group of over 500 engineers has become a critical hub for Nepal's flood rescue operations. The engineers share technical drawings, advice, and information about missing workers to help rescue teams navigate and search buried hydropower tunnels. Their rapid coordination and expertise are improving the efficiency of rescue efforts amid the ongoing disaster.",
+            "category": "world",
             "sentiment": "positive",
-            "importance_score": 5,
-            "published_at": "2026-09-04T04:53:01+00:00",
+            "importance_score": 8,
+            "published_at": "2026-09-05T04:52:15+00:00",
             "keywords": [
-                "Sanjay Sah",
-                "tunnel rescue",
-                "health condition",
-                "Nepal Army",
-                "Trishuli"
+                "flood rescue",
+                "engineers",
+                "WhatsApp group",
+                "hydropower tunnels",
+                "technical drawings",
+                "missing workers",
+                "disaster response"
             ],
-            "file": "articles/2026-09-04-health-condition-of-sah-rescued-from-tunnel-after-10-days-is-normal.md"
+            "file": "articles/2026-09-05-how-engineers-in-a-whatsapp-group-are-guiding-nepals-flood-rescue-efforts.md"
         },
         {
-            "id": 32,
-            "source": "online-khabar",
-            "title": "Nepal\u2019s flood response must put children at its centre",
-            "slug": "2026-09-04-nepals-flood-response-must-put-children-at-its-centre",
-            "summary": "The article argues that Nepal\u2019s flood response strategies must prioritize children\u2019s needs and rights. Drawing on the author\u2019s experience with past emergencies, including the 2015 earthquake, it highlights how children are disproportionately affected during disasters. The piece calls for child\u2011focused policies in relief distribution, shelter, education, and health services, urging the government and aid agencies to integrate child protection measures into all stages of flood management.",
-            "category": "politics",
-            "sentiment": "negative",
+            "id": 24,
+            "source": "kathmandu-post",
+            "title": "Nepal unveils relief package to help flood-hit businesses recover",
+            "slug": "2026-09-05-nepal-unveils-relief-package-to-help-flood-hit-businesses-recover",
+            "summary": "The Nepalese government announced a comprehensive relief package aimed at helping businesses devastated by the recent Bhotekoshi floods. The measures include customs and tax exemptions, restructuring of existing loans, and the provision of cheaper credit facilities. The package is intended to accelerate recovery, preserve jobs, and stabilize local economies in the flood\u2011affected districts. Officials say the assistance will be coordinated through the Ministry of Finance and relevant financial institutions, with priority given to small and medium enterprises that suffered the greatest losses.",
+            "category": "business",
+            "sentiment": "positive",
+            "importance_score": 7,
+            "published_at": "2026-09-05T04:52:15+00:00",
+            "keywords": [
+                "flood relief",
+                "Bhotekoshi floods",
+                "customs break",
+                "tax exemptions",
+                "loan restructuring",
+                "cheaper credit",
+                "business recovery"
+            ],
+            "file": "articles/2026-09-05-nepal-unveils-relief-package-to-help-flood-hit-businesses-recover.md"
+        },
+        {
+            "id": 23,
+            "source": "kathmandu-post",
+            "title": "Nepal flood survivors pulled alive from hydropower tunnel nine days later",
+            "slug": "2026-09-05-nepal-flood-survivors-pulled-alive-from-hydropower-tunnel-nine-days-later",
+            "summary": "Two men trapped in the Trishuli 3A hydropower tunnel were rescued nine days after the August 26 flood disaster that caused the tunnel to collapse. Rescuers heard voices inside the tunnel, prompting a focused search that led to the successful extraction of the survivors. The rescue raises hope that other victims may still be alive, though the overall situation remains dire with ongoing recovery efforts after the flood that devastated parts of Nepal.",
+            "category": "world",
+            "sentiment": "mixed",
             "importance_score": 8,
-            "published_at": "2026-09-04T04:15:00+00:00",
+            "published_at": "2026-09-05T04:52:15+00:00",
+            "keywords": [
+                "flood",
+                "hydropower tunnel",
+                "rescue",
+                "Trishuli 3A",
+                "Nepal disaster",
+                "August 26"
+            ],
+            "file": "articles/2026-09-05-nepal-flood-survivors-pulled-alive-from-hydropower-tunnel-nine-days-later.md"
+        },
+        {
+            "id": 22,
+            "source": "kathmandu-post",
+            "title": "Wife says rescued husband has \u2018a second life\u2019 after nine days trapped in Nepal tunnel",
+            "slug": "2026-09-05-wife-says-rescued-husband-has-a-second-life-after-nine-days-trapped-in-nepal-tunnel",
+            "summary": "After being trapped for nine days inside the Trishuli 3A tunnel, Kabir Maharjan was rescued on Friday. His wife, Hira Shobha, expressed relief and described her husband as having a \"second life\" following the ordeal. The family had endured a painful period believing he might still be alive inside the tunnel before rescuers finally pulled him out. The incident highlights the dangers of tunnel work in Nepal and the dedication of rescue teams.",
+            "category": "world",
+            "sentiment": "mixed",
+            "importance_score": 6,
+            "published_at": "2026-09-05T04:52:15+00:00",
+            "keywords": [
+                "tunnel rescue",
+                "Kabir Maharjan",
+                "Trishuli 3A",
+                "nine days",
+                "Nepal"
+            ],
+            "file": "articles/2026-09-05-wife-says-rescued-husband-has-a-second-life-after-nine-days-trapped-in-nepal-tunnel.md"
+        },
+        {
+            "id": 21,
+            "source": "kathmandu-post",
+            "title": "Rescued tunnel worker says he stayed behind to save others",
+            "slug": "2026-09-05-rescued-tunnel-worker-says-he-stayed-behind-to-save-others",
+            "summary": "Tunnel worker Sanjay Sah was rescued after being trapped for nine days in the Trishuli 3A tunnel when a flood hit the structure. Sah told rescuers he deliberately delayed his own escape to assist fellow workers in fleeing the inundated tunnel, demonstrating self\u2011sacrifice. His rescue highlights both the dangers faced by infrastructure projects in Nepal during extreme weather and the bravery of individuals involved.",
+            "category": "world",
+            "sentiment": "mixed",
+            "importance_score": 8,
+            "published_at": "2026-09-05T04:52:15+00:00",
+            "keywords": [
+                "tunnel rescue",
+                "flood",
+                "heroism",
+                "Trishuli 3A",
+                "nine days",
+                "infrastructure"
+            ],
+            "file": "articles/2026-09-05-rescued-tunnel-worker-says-he-stayed-behind-to-save-others.md"
+        },
+        {
+            "id": 20,
+            "source": "kathmandu-post",
+            "title": "How two Nepal hydropower workers survived nine days trapped underground",
+            "slug": "2026-09-05-how-two-nepal-hydropower-workers-survived-nine-days-trapped-underground",
+            "summary": "Two workers at a Nepalese hydropower project were trapped underground for nine days after a sudden flood. One worker stayed behind to assist his colleagues in escaping the rising water, while the other had arrived for routine maintenance. Both survived the ordeal, emerging after a lengthy rescue operation that highlighted the risks faced by workers in remote infrastructure projects.",
+            "category": "business",
+            "sentiment": "mixed",
+            "importance_score": 7,
+            "published_at": "2026-09-05T04:52:15+00:00",
+            "keywords": [
+                "hydropower",
+                "flood",
+                "underground rescue",
+                "nine days",
+                "worker safety",
+                "Nepal"
+            ],
+            "file": "articles/2026-09-05-how-two-nepal-hydropower-workers-survived-nine-days-trapped-underground.md"
+        },
+        {
+            "id": 19,
+            "source": "kathmandu-post",
+            "title": "Prime Minister Balendra Shah, Australia\u2019s Anthony Albanese discuss flood response",
+            "slug": "2026-09-05-prime-minister-balendra-shah-australias-anthony-albanese-discuss-flood-response",
+            "summary": "Prime Minister Balendra Shah and Australian Prime Minister Anthony Albanese discussed Nepal's recent flood disaster, with Shah thanking Australia for its rescue and relief assistance. Shah announced that Nepal is intensifying efforts to locate Australians reported missing after the floods, highlighting ongoing bilateral cooperation in disaster response.",
+            "category": "politics",
+            "sentiment": "positive",
+            "importance_score": 8,
+            "published_at": "2026-09-05T04:52:15+00:00",
             "keywords": [
                 "flood response",
-                "children",
-                "disaster management",
-                "child rights",
-                "emergency relief",
-                "Nepal"
+                "rescue efforts",
+                "relief assistance",
+                "missing Australians",
+                "bilateral cooperation"
             ],
-            "file": "articles/2026-09-04-nepals-flood-response-must-put-children-at-its-centre.md"
+            "file": "articles/2026-09-05-prime-minister-balendra-shah-australias-anthony-albanese-discuss-flood-response.md"
         },
         {
-            "id": 33,
-            "source": "online-khabar",
-            "title": "Amid flood crisis, cooking gas price hiked by Rs 105 in Kathmandu",
-            "slug": "2026-09-04-amid-flood-crisis-cooking-gas-price-hiked-by-rs-105-in-kathmandu",
-            "summary": "Amid a flood-induced crisis in Kathmandu Valley, cooking gas (LPG) prices have risen by Rs\u202f105.38 per cylinder. Gas bottlers cite higher transportation costs after a landslide at Krishnabhir blocked the Prithvi Highway, disrupting supply routes. The Nepal Oil Corporation (NOC) has set the new LPG cylinder price at Rs\u202f2,060, affecting households across the capital during the ongoing emergency.",
-            "category": "business",
-            "sentiment": "negative",
-            "importance_score": 6,
-            "published_at": "2026-09-04T03:44:54+00:00",
-            "keywords": [
-                "cooking gas",
-                "price hike",
-                "flood crisis",
-                "landslide",
-                "Prithvi Highway",
-                "Kathmandu",
-                "Nepal Oil Corporation"
-            ],
-            "file": "articles/2026-09-04-amid-flood-crisis-cooking-gas-price-hiked-by-rs-105-in-kathmandu.md"
-        },
-        {
-            "id": 34,
-            "source": "online-khabar",
-            "title": "UPDATE: Two rescued alive from Trishuli-3A tunnel after Bhotekoshi flood",
-            "slug": "2026-09-04-update-two-rescued-alive-from-trishuli-3a-tunnel-after-bhotekoshi-flood",
-            "summary": "Two individuals trapped in the Trishuli-3A Hydropower Project tunnel in Rasuwa after the Bhotekoshi flood were rescued alive by a joint team of the Nepali Army and the Armed Police Force. The rescue operation, confirmed by an engineer involved in the effort, took place hours after the flood caused the tunnel collapse, highlighting swift emergency response in the region.",
-            "category": "world",
-            "sentiment": "positive",
-            "importance_score": 8,
-            "published_at": "2026-09-04T03:41:30+00:00",
-            "keywords": [
-                "rescue operation",
-                "Trishuli-3A tunnel",
-                "Bhotekoshi flood",
-                "Nepali Army",
-                "Armed Police Force"
-            ],
-            "file": "articles/2026-09-04-update-two-rescued-alive-from-trishuli-3a-tunnel-after-bhotekoshi-flood.md"
-        },
-        {
-            "id": 35,
-            "source": "online-khabar",
-            "title": "For every body inside, a family waits outside",
-            "slug": "2026-09-04-for-every-body-inside-a-family-waits-outside",
-            "summary": "The article describes the somber scene outside the mortuary at Tribhuvan University Teaching Hospital in Maharajgunj, Nepal, where families gather anxiously awaiting news about unidentified bodies inside. Some relatives stare at photos of missing loved ones, hoping for identification, while others already feel the weight of grief. The piece highlights the emotional toll on families forced to wait outside, often without clear information, and underscores broader challenges in the hospital\u2019s capacity to manage and identify deceased patients.",
-            "category": "health",
-            "sentiment": "negative",
-            "importance_score": 5,
-            "published_at": "2026-09-04T03:35:00+00:00",
-            "keywords": [
-                "mortuary",
-                "unidentified bodies",
-                "family grief",
-                "hospital",
-                "Tribhuvan University Teaching Hospital",
-                "Maharajgunj"
-            ],
-            "file": "articles/2026-09-04-for-every-body-inside-a-family-waits-outside.md"
-        },
-        {
-            "id": 36,
-            "source": "online-khabar",
-            "title": "Why DNA testing matters when disaster victims cannot be identified",
-            "slug": "2026-09-04-why-dna-testing-matters-when-disaster-victims-cannot-be-identified",
-            "summary": "After the catastrophic floods and landslides in Rasuwa district, Nepal, only about 100 of the 1,290 bodies recovered have been identified. The article stresses the critical role of DNA testing in confirming the identities of victims when visual identification is impossible. It outlines the challenges faced by authorities, the need for forensic labs, and the emotional relief DNA results provide to grieving families. The piece calls for improved infrastructure, faster processing, and coordinated efforts among government agencies to ensure that all victims are properly identified and returned to their relatives.",
-            "category": "world",
-            "sentiment": "neutral",
-            "importance_score": 8,
-            "published_at": "2026-09-04T03:17:15+00:00",
-            "keywords": [
-                "DNA testing",
-                "disaster victim identification",
-                "Rasuwa floods",
-                "forensic science",
-                "families",
-                "identification process"
-            ],
-            "file": "articles/2026-09-04-why-dna-testing-matters-when-disaster-victims-cannot-be-identified.md"
-        },
-        {
-            "id": 37,
-            "source": "online-khabar",
-            "title": "APF\u2019s Timure team lost 13 of its own. It never left the post",
-            "slug": "2026-09-04-apfs-timure-team-lost-13-of-its-own-it-never-left-the-post",
-            "summary": "On August 26, a sudden surge of the Bhotekoshi River caused a devastating flood in Timure, a settlement on the China\u2011Nepal border. The flash flood swept away homes, offices and infrastructure within minutes. The Armed Police Force (APF) team stationed there suffered its heaviest loss, with 13 personnel killed while remaining at their post to assist the affected area.",
+            "id": 18,
+            "source": "kathmandu-post",
+            "title": "Nepal flood death toll reaches 1,287",
+            "slug": "2026-09-05-nepal-flood-death-toll-reaches-1287",
+            "summary": "The death toll from recent floods in Nepal has risen to 1,287, with bodies recovered in eight districts. Chitwan district reported the highest number of fatalities at 359, followed by Nawalparasi East and Nawalparasi West. The disaster has caused widespread loss of life across the affected regions.",
             "category": "world",
             "sentiment": "negative",
-            "importance_score": 8,
-            "published_at": "2026-09-04T03:15:00+00:00",
+            "importance_score": 9,
+            "published_at": "2026-09-05T04:52:15+00:00",
             "keywords": [
                 "flood",
-                "Timure",
-                "Bhotekoshi",
-                "APF casualties",
-                "China\u2011Nepal border",
-                "disaster response"
-            ],
-            "file": "articles/2026-09-04-apfs-timure-team-lost-13-of-its-own-it-never-left-the-post.md"
-        },
-        {
-            "id": 38,
-            "source": "online-khabar",
-            "title": "Bangladesh provides $1 million in aid to disaster-hit Nepal",
-            "slug": "2026-09-04-bangladesh-provides-1-million-in-aid-to-disaster-hit-nepal",
-            "summary": "Bangladesh has pledged US$1\u202fmillion in financial assistance to Nepal to aid relief, recovery and humanitarian operations after severe floods and landslides struck northern Nepal last week. The funds were transferred to Nepal\u2019s Prime Minister\u2019s Disaster Relief Fund, as confirmed by the Bangladesh Embassy in Kathmandu. The aid aims to support affected communities and bolster ongoing emergency response efforts.",
-            "category": "world",
-            "sentiment": "positive",
-            "importance_score": 6,
-            "published_at": "2026-09-04T02:38:57+00:00",
-            "keywords": [
-                "Bangladesh aid",
-                "Nepal floods",
-                "disaster relief",
-                "$1 million",
-                "humanitarian assistance"
-            ],
-            "file": "articles/2026-09-04-bangladesh-provides-1-million-in-aid-to-disaster-hit-nepal.md"
-        },
-        {
-            "id": 39,
-            "source": "online-khabar",
-            "title": "Voices heard from inside Trishuli-3A tunnel, rescue operation intensified",
-            "slug": "2026-09-04-voices-heard-from-inside-trishuli-3a-tunnel-rescue-operation-intensified",
-            "summary": "Rescue teams have intensified their search at the Trishuli-3A Hydropower Project in Rasuwa after the Bhotekoshi flood on August 26 trapped workers inside a tunnel. Engineer Shriram Neupane reported that the Nepali Army, leading the operation, received reports of voices from within the tunnel, prompting a focused effort to locate and extract the survivors. The incident highlights ongoing challenges in Nepal\u2019s flood\u2011prone regions and the urgent need for coordinated emergency response.",
-            "category": "world",
-            "sentiment": "negative",
-            "importance_score": 7,
-            "published_at": "2026-09-04T01:49:19+00:00",
-            "keywords": [
-                "Trishuli-3A tunnel",
-                "Bhotekoshi flood",
-                "rescue operation",
-                "Rasuwa",
-                "voices heard",
-                "Nepali Army"
-            ],
-            "file": "articles/2026-09-04-voices-heard-from-inside-trishuli-3a-tunnel-rescue-operation-intensified.md"
-        },
-        {
-            "id": 40,
-            "source": "online-khabar",
-            "title": "Chandra Bahadur Thapa, Arika Gurung named Best Male and Female Athletes at NSJF Sports Awards",
-            "slug": "2026-09-03-chandra-bahadur-thapa-arika-gurung-named-best-male-and-female-athletes-at-nsjf-sports-awards",
-            "summary": "At the Nepal Sports Journalists Forum (NSJF) Sports Awards held in Kathmandu, boxer Chandra Bahadur Thapa was named Best Male Athlete, while karateka Arika Gurung received the Best Female Athlete award. Gurung made history by winning the female award for the third consecutive year, becoming the first athlete to achieve such a streak. The ceremony highlighted top performances across Nepal's sports, including boxing, karate and volleyball.",
-            "category": "sports",
-            "sentiment": "positive",
-            "importance_score": 7,
-            "published_at": "2026-09-03T14:34:28+00:00",
-            "keywords": [
-                "NSJF Sports Awards",
-                "Chandra Bahadur Thapa",
-                "Arika Gurung",
-                "Best Male Athlete",
-                "Best Female Athlete"
-            ],
-            "file": "articles/2026-09-03-chandra-bahadur-thapa-arika-gurung-named-best-male-and-female-athletes-at-nsjf-sports-awards.md"
-        },
-        {
-            "id": 41,
-            "source": "online-khabar",
-            "title": "217 students, 15 teachers remain unaccounted for after Bhotekoshi floods",
-            "slug": "2026-09-03-217-students-15-teachers-remain-unaccounted-for-after-bhotekoshi-floods",
-            "summary": "Heavy floods caused by the Bhotekoshi River in Rasuwa district have left at least 217 students and 15 teachers unaccounted for, according to preliminary data from Nepal's Department of Education. Nilkantha Dhakal, director of the department, said the missing individuals are linked to schools in Rasuwa, Nuwakot and Dhading districts. Rescue and relief operations are ongoing, but the full extent of the damage and the whereabouts of the missing remain unclear.",
-            "category": "world",
-            "sentiment": "negative",
-            "importance_score": 8,
-            "published_at": "2026-09-03T13:47:36+00:00",
-            "keywords": [
-                "floods",
-                "Bhotekoshi",
-                "missing students",
-                "missing teachers",
-                "Rasuwa",
+                "death toll",
+                "Chitwan",
+                "Nawalparasi",
+                "disaster",
                 "Nepal"
             ],
-            "file": "articles/2026-09-03-217-students-15-teachers-remain-unaccounted-for-after-bhotekoshi-floods.md"
+            "file": "articles/2026-09-05-nepal-flood-death-toll-reaches-1287.md"
         },
         {
-            "id": 42,
-            "source": "online-khabar",
-            "title": "Govt announces recovery package for businesses hit by Bhotekoshi floods",
-            "slug": "2026-09-03-govt-announces-recovery-package-for-businesses-hit-by-bhotekoshi-floods",
-            "summary": "The Nepalese government has unveiled a recovery package aimed at businesses impacted by the recent Bhotekoshi floods. Approved in a cabinet meeting on September 3, the plan\u2014proposed by the Ministry of Finance\u2014includes customs duty waivers, tax relief and other concessions to help affected enterprises resume operations. The measures target firms whose commercial vehicles or assets were damaged by the flooding, seeking to mitigate economic losses and support regional recovery.",
-            "category": "business",
-            "sentiment": "positive",
-            "importance_score": 7,
-            "published_at": "2026-09-03T13:38:38+00:00",
-            "keywords": [
-                "Bhotekoshi floods",
-                "recovery package",
-                "customs duty waiver",
-                "tax relief",
-                "Ministry of Finance",
-                "Nepal"
-            ],
-            "file": "articles/2026-09-03-govt-announces-recovery-package-for-businesses-hit-by-bhotekoshi-floods.md"
-        },
-        {
-            "id": 43,
-            "source": "online-khabar",
-            "title": "Flood kills up to 15,000 pigs, 150,000 chickens and 500 buffaloes in Nuwakot",
-            "slug": "2026-09-03-flood-kills-up-to-15000-pigs-150000-chickens-and-500-buffaloes-in-nuwakot",
-            "summary": "Heavy flooding in the Bhotekoshi and Trishuli rivers swept through Nuwakot district, killing an estimated 10,000\u201115,000 pigs, about 150,000 commercial chickens and roughly 500 buffaloes, according to a preliminary assessment by the Nepal Veterinary Association. The disaster has caused extensive damage to Nepal\u2019s livestock and poultry sector.",
-            "category": "business",
-            "sentiment": "negative",
-            "importance_score": 7,
-            "published_at": "2026-09-03T13:09:04+00:00",
-            "keywords": [
-                "flood",
-                "livestock loss",
-                "Nuwakot",
-                "pigs",
-                "chickens",
-                "buffaloes",
-                "Bhotekoshi River",
-                "Trishuli River"
-            ],
-            "file": "articles/2026-09-03-flood-kills-up-to-15000-pigs-150000-chickens-and-500-buffaloes-in-nuwakot.md"
-        },
-        {
-            "id": 44,
-            "source": "online-khabar",
-            "title": "Rescue teams enter Upper Trishuli 3A tunnel as search continues",
-            "slug": "2026-09-03-rescue-teams-enter-upper-trishuli-3a-tunnel-as-search-continues",
-            "summary": "Rescue teams, including personnel from the Nepali Army, have entered the tunnel of the Upper Trishuli-3A Hydropower Project in Kathmandu after clearing soil and rocks caused by severe flooding. The Ministry of Energy, Water Resources and Irrigation confirmed that search and rescue operations are ongoing at the powerhouse site to locate any missing workers and assess damage.",
-            "category": "business",
-            "sentiment": "negative",
-            "importance_score": 7,
-            "published_at": "2026-09-03T12:58:50+00:00",
-            "keywords": [
-                "Upper Trishuli-3A",
-                "flooding",
-                "rescue teams",
-                "hydropower",
-                "Nepal",
-                "Nepali Army"
-            ],
-            "file": "articles/2026-09-03-rescue-teams-enter-upper-trishuli-3a-tunnel-as-search-continues.md"
-        },
-        {
-            "id": 45,
-            "source": "online-khabar",
-            "title": "Citizen Investment Trust allowed to deposit funds in infrastructure banks",
-            "slug": "2026-09-03-citizen-investment-trust-allowed-to-deposit-funds-in-infrastructure-banks",
-            "summary": "The Nepalese Ministry of Finance has proposed an amendment to the Citizen Investment Trust Act 1991 that would permit the Citizen Investment Trust (CIT) to place its funds in infrastructure development banks and to invest in private equity and venture capital funds. The change aims to broaden CIT's investment scope, supporting the country's infrastructure projects and fostering growth in the private equity and venture capital sectors.",
-            "category": "business",
-            "sentiment": "positive",
-            "importance_score": 7,
-            "published_at": "2026-09-03T12:16:38+00:00",
-            "keywords": [
-                "Citizen Investment Trust",
-                "infrastructure banks",
-                "private equity",
-                "venture capital",
-                "legislative amendment",
-                "finance ministry",
-                "Nepal"
-            ],
-            "file": "articles/2026-09-03-citizen-investment-trust-allowed-to-deposit-funds-in-infrastructure-banks.md"
-        },
-        {
-            "id": 1,
-            "source": "nepali-times",
-            "title": "A disastrous state of affairs in Nepal",
-            "slug": "2026-09-03-a-disastrous-state-of-affairs-in-nepal",
-            "summary": "On the first anniversary of the GenZ movement, Nepal is confronting a severe flood crisis that has devastated large parts of the country. The disaster coincides with the arrival of a newly formed government, which now faces the urgent task of coordinating relief efforts, managing displaced populations, and addressing infrastructure damage. Officials are under pressure to demonstrate effective governance amidst criticism over preparedness and response capabilities. The article highlights the scale of the flooding, its impact on communities, and the political challenges the new administration must navigate to restore stability and public confidence.",
-            "category": "politics",
-            "sentiment": "negative",
-            "importance_score": 8,
-            "published_at": "2026-09-03T12:12:39+00:00",
-            "keywords": [
-                "flood crisis",
-                "GenZ movement",
-                "new government",
-                "disaster response",
-                "Nepal"
-            ],
-            "file": "articles/2026-09-03-a-disastrous-state-of-affairs-in-nepal.md"
-        },
-        {
-            "id": 46,
-            "source": "online-khabar",
-            "title": "Indian ambassador visits flood-hit hydropower project in Rasuwa",
-            "slug": "2026-09-03-indian-ambassador-visits-flood-hit-hydropower-project-in-rasuwa",
-            "summary": "Indian Ambassador to Nepal Naveen Srivastava visited the flood\u2011hit Syabrubesi area near Chilime in Rasuwa district on September 3 to inspect ongoing tunnel excavation and search operations at a hydropower project buried by the recent Bhotekoshi flood. He met with an Indian technical team deployed to the site, highlighting bilateral cooperation in disaster response and infrastructure recovery.",
-            "category": "politics",
-            "sentiment": "neutral",
-            "importance_score": 6,
-            "published_at": "2026-09-03T11:57:43+00:00",
-            "keywords": [
-                "Indian ambassador",
-                "Bhotekoshi flood",
-                "hydropower project",
-                "Rasuwa district",
-                "tunnel excavation",
-                "disaster response"
-            ],
-            "file": "articles/2026-09-03-indian-ambassador-visits-flood-hit-hydropower-project-in-rasuwa.md"
-        },
-        {
-            "id": 47,
-            "source": "online-khabar",
-            "title": "Rasuwa flood lessons: Build fewer, taller and longer bridges",
-            "slug": "2026-09-03-rasuwa-flood-lessons-build-fewer-taller-and-longer-bridges",
-            "summary": "The August 26 flood in the Bhotekoshi River, entering Nepal at Rasuwagadhi, destroyed 41 motorable bridges, washing away 35 and severing the road linking Betrawati, Mailung, Syafrubesi and Rasuwagadhi in Rasuwa. The article examines the disaster\u2019s impact and argues for a revised bridge\u2011building strategy: constructing fewer bridges that are taller and longer to better withstand future floods, thereby improving resilience of critical transport routes in the region.",
-            "category": "politics",
-            "sentiment": "neutral",
-            "importance_score": 7,
-            "published_at": "2026-09-03T11:45:44+00:00",
-            "keywords": [
-                "flood",
-                "bridge destruction",
-                "infrastructure resilience",
-                "Rasuwa district",
-                "Bhotekoshi River",
-                "disaster reconstruction",
-                "transport network"
-            ],
-            "file": "articles/2026-09-03-rasuwa-flood-lessons-build-fewer-taller-and-longer-bridges.md"
-        },
-        {
-            "id": 48,
-            "source": "online-khabar",
-            "title": "46 injured in Rasuwa flood receiving treatment at Kathmandu hospitals",
-            "slug": "2026-09-03-46-injured-in-rasuwa-flood-receiving-treatment-at-kathmandu-hospitals",
-            "summary": "Forty-six flood victims from the recent Rasuwa flash flood and landslides are being treated in Kathmandu's major hospitals. At Tribhuvan University Teaching Hospital, 30 of the 77 admitted patients remain under care, while 42 have been discharged and one patient has died. The injured were transported to the capital after the disaster, and local health facilities are managing their treatment.",
-            "category": "health",
-            "sentiment": "neutral",
-            "importance_score": 7,
-            "published_at": "2026-09-03T11:34:00+00:00",
-            "keywords": [
-                "Rasuwa flood",
-                "Kathmandu hospitals",
-                "injured victims",
-                "Tribhuvan University Teaching Hospital",
-                "flood disaster"
-            ],
-            "file": "articles/2026-09-03-46-injured-in-rasuwa-flood-receiving-treatment-at-kathmandu-hospitals.md"
-        },
-        {
-            "id": 49,
-            "source": "online-khabar",
-            "title": "Govt declares public holiday on Gen Z Martyrs\u2019 Day",
-            "slug": "2026-09-03-govt-declares-public-holiday-on-gen-z-martyrs-day",
-            "summary": "The Nepalese government announced a nationwide public holiday on September 8 (Bhadra 23, 2083) to honor the martyrs of the Gen Z movement. The decision was approved during a Cabinet meeting at the Office of the Prime Minister and Council of Ministers, with government spokesperson Sasmita Pokhrel conveying the announcement. The holiday aims to recognize the contributions of Gen Z activists who sacrificed their lives for social and political change.",
-            "category": "politics",
-            "sentiment": "neutral",
-            "importance_score": 6,
-            "published_at": "2026-09-03T11:23:27+00:00",
-            "keywords": [
-                "public holiday",
-                "Gen Z Martyrs\u2019 Day",
-                "Cabinet meeting",
-                "September 8",
-                "Nepal government"
-            ],
-            "file": "articles/2026-09-03-govt-declares-public-holiday-on-gen-z-martyrs-day.md"
-        },
-        {
-            "id": 50,
-            "source": "online-khabar",
-            "title": "Government to provide risk allowance, Rs 1 million relief to rescue personnel",
-            "slug": "2026-09-03-government-to-provide-risk-allowance-rs-1-million-relief-to-rescue-personnel",
-            "summary": "The Nepalese government announced that it will provide risk allowances and meal expenses to security personnel and government employees involved in search and rescue operations after the flooding of the Bhotekoshi River in Rasuwa. The decision, confirmed by Education Minister and government spokesperson Sasmit Pokharel, was made during a Cabinet meeting on Thursday. Additionally, each rescue worker will receive a relief payment of Rs 1\u202fmillion to support them during the emergency response.",
-            "category": "politics",
-            "sentiment": "positive",
-            "importance_score": 8,
-            "published_at": "2026-09-03T11:19:40+00:00",
-            "keywords": [
-                "risk allowance",
-                "flood relief",
-                "Bhotekoshi River",
-                "rescue personnel",
-                "government decision"
-            ],
-            "file": "articles/2026-09-03-government-to-provide-risk-allowance-rs-1-million-relief-to-rescue-personnel.md"
-        },
-        {
-            "id": 2,
-            "source": "nepali-times",
-            "title": "What is lost and damaged in Nepal",
-            "slug": "2026-09-02-what-is-lost-and-damaged-in-nepal",
-            "summary": "The article discusses the escalating climate\u2011related losses and damages Nepal is facing, highlighting the need for a domestic reckoning that matches the country's strong advocacy for global climate justice. It points out that while the Nepali government has taken a firm stance internationally, similar urgency and accountability are required at home to address the impacts on agriculture, water resources, and vulnerable communities. The piece calls for concrete policies, financial mechanisms, and community\u2011level actions to mitigate and adapt to the worsening climate threats within Nepal.",
+            "id": 17,
+            "source": "kathmandu-post",
+            "title": "Nepal home minister tells critics to focus on results, not where he works",
+            "slug": "2026-09-05-nepal-home-minister-tells-critics-to-focus-on-results-not-where-he-works",
+            "summary": "Home Minister Sudan Gurung responded to social media criticism over his involvement in the recent flood response and the rescue operation in a tunnel on Friday. While some netizens questioned why the minister was present at the site, Gurung defended his role, emphasizing that the focus should be on the outcomes of the rescue and relief efforts rather than his physical presence. He highlighted the coordination work being done by his ministry and urged critics to prioritize results over speculation about his whereabouts.",
             "category": "politics",
             "sentiment": "mixed",
             "importance_score": 7,
-            "published_at": "2026-09-02T12:52:09+00:00",
+            "published_at": "2026-09-05T04:52:15+00:00",
             "keywords": [
-                "climate justice",
-                "loss and damage",
-                "Nepal",
-                "government policy",
-                "adaptation",
-                "global warming"
+                "Sudan Gurung",
+                "flood response",
+                "tunnel rescue",
+                "social media criticism",
+                "home minister"
             ],
-            "file": "articles/2026-09-02-what-is-lost-and-damaged-in-nepal.md"
+            "file": "articles/2026-09-05-nepal-home-minister-tells-critics-to-focus-on-results-not-where-he-works.md"
         },
         {
-            "id": 3,
-            "source": "nepali-times",
-            "title": "The documentary Devi shown to MPs",
-            "slug": "2026-09-02-the-documentary-devi-shown-to-mps",
-            "summary": "The documentary \"Devi\", which chronicles sexual violence endured by victims during Nepal\u2019s decade\u2011long Maoist conflict, was screened for members of Parliament. The film highlights the continued suffering of survivors and criticises the government's apathetic response to their demands for justice and reparations. By bringing the issue to lawmakers, the documentary seeks to pressure the state into acknowledging the atrocities and implementing concrete measures to support the victims, who feel abandoned by the political establishment.",
-            "category": "politics",
+            "id": 16,
+            "source": "kathmandu-post",
+            "title": "Search and rescue team says \u2018no more survivors in Upper Trishuli 3A tunnel\u2019",
+            "slug": "2026-09-05-search-and-rescue-team-says-no-more-survivors-in-upper-trishuli-3a-tunnel",
+            "summary": "Rescue teams working in the Upper Trishuli 3A tunnel have announced that after rescuing two survivors and recovering one deceased, no additional survivors or bodies have been found. The operation, which followed a tunnel collapse, concluded that the likelihood of finding more victims is now nil. Authorities continue to assess the incident's cause and provide support to the families of those affected.",
+            "category": "world",
             "sentiment": "negative",
             "importance_score": 8,
-            "published_at": "2026-09-02T09:51:31+00:00",
+            "published_at": "2026-09-05T04:52:15+00:00",
             "keywords": [
-                "sexual violence",
-                "documentary Devi",
-                "Maoist conflict",
-                "MPs",
-                "state response",
-                "human rights",
-                "victims"
+                "tunnel collapse",
+                "Upper Trishuli",
+                "rescue operation",
+                "survivors",
+                "Nepal"
             ],
-            "file": "articles/2026-09-02-the-documentary-devi-shown-to-mps.md"
+            "file": "articles/2026-09-05-search-and-rescue-team-says-no-more-survivors-in-upper-trishuli-3a-tunnel.md"
         },
         {
-            "id": 4,
-            "source": "nepali-times",
-            "title": "Temporary burial for flood victims in Nepal",
-            "slug": "2026-09-01-temporary-burial-for-flood-victims-in-nepal",
-            "summary": "The death toll from the Nepal\u2011China floods rose to 1,050 a week after the disaster, with about 4,000 people still missing. Temporary burial sites have been set up for victims as authorities grapple with the massive humanitarian crisis. The floods, triggered by heavy monsoon rains, have devastated large areas in both Nepal and bordering regions of China, destroying homes, infrastructure, and farmland. Rescue and relief efforts are ongoing, with the Nepalese government and international agencies coordinating aid, medical assistance, and search operations. The scale of the tragedy has prompted calls for increased disaster preparedness and support for affected communities.",
+            "id": 15,
+            "source": "kathmandu-post",
+            "title": "US probes Iran wedding strike that analysis shows was likely direct hit by US munition",
+            "slug": "2026-09-05-us-probes-iran-wedding-strike-that-analysis-shows-was-likely-direct-hit-by-us-munition",
+            "summary": "Iranian state television reported that a 22\u2011year\u2011old woman died in hospital after a strike hit a home during a wedding, bringing the death toll to five. The United States has opened a probe into the incident, with analysis indicating it was likely a direct hit by U.S. munition. The investigation will examine the circumstances and accountability for the attack that occurred in Iran.",
+            "category": "world",
+            "sentiment": "negative",
+            "importance_score": 8,
+            "published_at": "2026-09-05T04:52:15+00:00",
+            "keywords": [
+                "US probe",
+                "Iran wedding strike",
+                "direct hit",
+                "munitions",
+                "death toll"
+            ],
+            "file": "articles/2026-09-05-us-probes-iran-wedding-strike-that-analysis-shows-was-likely-direct-hit-by-us-munition.md"
+        },
+        {
+            "id": 14,
+            "source": "kathmandu-post",
+            "title": "Road department begins cutting new track to reopen flood-hit Prithvi Highway",
+            "slug": "2026-09-05-road-department-begins-cutting-new-track-to-reopen-flood-hit-prithvi-highway",
+            "summary": "The Nepalese Road Department has started cutting a new 50\u2011metre temporary track to bypass the Krishnabhir landslide that blocked the Prithvi Highway after recent floods. The work involves widening a temporary route around the affected area to restore traffic flow on this crucial national artery.",
+            "category": "politics",
+            "sentiment": "positive",
+            "importance_score": 7,
+            "published_at": "2026-09-05T04:52:15+00:00",
+            "keywords": [
+                "Prithvi Highway",
+                "Krishnabhir landslide",
+                "temporary route",
+                "road department",
+                "flood recovery",
+                "infrastructure"
+            ],
+            "file": "articles/2026-09-05-road-department-begins-cutting-new-track-to-reopen-flood-hit-prithvi-highway.md"
+        },
+        {
+            "id": 13,
+            "source": "kathmandu-post",
+            "title": "The mountains have changed. Nepal must too",
+            "slug": "2026-09-05-the-mountains-have-changed-nepal-must-too",
+            "summary": "The article warns that the Himalayas are undergoing rapid transformation due to climate change, glacial retreat, and increased landslide risk. It argues that Nepal must adapt by establishing a resilient mountain monitoring system that integrates satellite data, remote\u2011sensing technology, on\u2011ground field investigations, weather forecasting, river flow monitoring, and indigenous local knowledge. Such a comprehensive approach would improve early warning capabilities, guide disaster risk reduction, and inform sustainable development policies in the mountainous regions.",
+            "category": "world",
+            "sentiment": "mixed",
+            "importance_score": 7,
+            "published_at": "2026-09-05T04:52:15+00:00",
+            "keywords": [
+                "mountain monitoring",
+                "satellite observations",
+                "remote sensing",
+                "climate change",
+                "glacial melt",
+                "river monitoring",
+                "local knowledge"
+            ],
+            "file": "articles/2026-09-05-the-mountains-have-changed-nepal-must-too.md"
+        },
+        {
+            "id": 12,
+            "source": "kathmandu-post",
+            "title": "Nvidia donates $10 million to flood recovery, one of Nepal\u2019s biggest corporate donations",
+            "slug": "2026-09-05-nvidia-donates-10-million-to-flood-recovery-one-of-nepals-biggest-corporate-donations",
+            "summary": "Nvidia has pledged a $10\u202fmillion donation to Nepal\u2019s flood recovery efforts, marking one of the largest corporate contributions in the country\u2019s history. The funds have been transferred to the Prime Minister\u2019s Disaster Relief Fund and were motivated by the initiative of over 50 Nepali employees working for the US technology firm. The donation aims to support rebuilding infrastructure, providing relief supplies, and aiding affected communities after the recent devastating floods.",
+            "category": "business",
+            "sentiment": "positive",
+            "importance_score": 8,
+            "published_at": "2026-09-05T04:52:15+00:00",
+            "keywords": [
+                "Nvidia",
+                "flood recovery",
+                "corporate donation",
+                "disaster relief",
+                "Nepal",
+                "$10 million"
+            ],
+            "file": "articles/2026-09-05-nvidia-donates-10-million-to-flood-recovery-one-of-nepals-biggest-corporate-donations.md"
+        },
+        {
+            "id": 11,
+            "source": "kathmandu-post",
+            "title": "Five of 15 drinking water sources in flood-hit Bidur contaminated with E. coli",
+            "slug": "2026-09-05-five-of-15-drinking-water-sources-in-flood-hit-bidur-contaminated-with-e-coli",
+            "summary": "In the flood\u2011stricken town of Bidur, Nepal, tests have found that five of the fifteen drinking\u2011water sources are contaminated with E.\u202fcoli. Health officials are responding by planning a cholera vaccination campaign targeting roughly 100,000 people deemed most vulnerable, and a measles immunisation drive for over 75,000 children. The contamination highlights the public\u2011health risks posed by the recent floods and the urgent need for clean water and disease prevention measures.",
             "category": "health",
             "sentiment": "negative",
-            "importance_score": 10,
-            "published_at": "2026-09-01T16:06:23+00:00",
+            "importance_score": 7,
+            "published_at": "2026-09-05T04:52:15+00:00",
             "keywords": [
-                "Nepal",
-                "China",
-                "floods",
-                "death toll",
-                "temporary burial"
+                "flood",
+                "E. coli",
+                "drinking water",
+                "cholera vaccination",
+                "measles vaccine",
+                "Bidur"
             ],
-            "file": "articles/2026-09-01-temporary-burial-for-flood-victims-in-nepal.md"
+            "file": "articles/2026-09-05-five-of-15-drinking-water-sources-in-flood-hit-bidur-contaminated-with-e-coli.md"
+        },
+        {
+            "id": 10,
+            "source": "kathmandu-post",
+            "title": "Why climate change is a threat to Nepal\u2019s hydropower sector",
+            "slug": "2026-09-05-why-climate-change-is-a-threat-to-nepals-hydropower-sector",
+            "summary": "The article warns that climate change is already endangering Nepal\u2019s hydropower industry, with the recent August monsoon disaster illustrating the severity of the threat. It explains how altered rainfall patterns, intensified floods, and glacial melt are disrupting river flows, damaging infrastructure, and jeopardizing future energy generation. Experts and officials call for urgent adaptation measures, improved dam design, and integrated water management to safeguard the sector that underpins Nepal\u2019s economic growth and energy security.",
+            "category": "world",
+            "sentiment": "negative",
+            "importance_score": 8,
+            "published_at": "2026-09-05T04:52:15+00:00",
+            "keywords": [
+                "climate change",
+                "hydropower",
+                "monsoon floods",
+                "energy security",
+                "glacial melt",
+                "adaptation"
+            ],
+            "file": "articles/2026-09-05-why-climate-change-is-a-threat-to-nepals-hydropower-sector.md"
+        },
+        {
+            "id": 9,
+            "source": "kathmandu-post",
+            "title": "Why Nepal must demand climate reparations",
+            "slug": "2026-09-05-why-nepal-must-demand-climate-reparations",
+            "summary": "Nepal demands climate reparations from the Global North for historical ecological debts.",
+            "category": "politics",
+            "sentiment": "neutral",
+            "importance_score": 6,
+            "published_at": "2026-09-05T04:52:15+00:00",
+            "keywords": [
+                "climate reparations",
+                "ecological debts",
+                "Global North"
+            ],
+            "file": "articles/2026-09-05-why-nepal-must-demand-climate-reparations.md"
+        },
+        {
+            "id": 8,
+            "source": "kathmandu-post",
+            "title": "After nine days in darkness, two men walked back into the light",
+            "slug": "2026-09-05-after-nine-days-in-darkness-two-men-walked-back-into-the-light",
+            "summary": "Rescuers have successfully retrieved Sanjay Sah and Kabir Maharjan alive from the Trishuli 3A hydropower tunnel after more than 72 hours of intensive search. The two men survived nine days in complete darkness before being brought back to the surface. While their rescue is a relief, dozens of other workers remain missing, and the full extent of the incident is still being investigated. Authorities continue to search the tunnel, and families await news on the unaccounted individuals.",
+            "category": "world",
+            "sentiment": "mixed",
+            "importance_score": 8,
+            "published_at": "2026-09-05T04:52:15+00:00",
+            "keywords": [
+                "rescue",
+                "hydropower tunnel",
+                "missing workers",
+                "Trishuli",
+                "underground accident",
+                "Nepal"
+            ],
+            "file": "articles/2026-09-05-after-nine-days-in-darkness-two-men-walked-back-into-the-light.md"
+        },
+        {
+            "id": 7,
+            "source": "kathmandu-post",
+            "title": "Can Nepal turn Himalayan vulnerability into a case for compensation?",
+            "slug": "2026-09-05-can-nepal-turn-himalayan-vulnerability-into-a-case-for-compensation",
+            "summary": "The recent Bhotekoshi flood disaster underscores the growing climate vulnerability of Nepal's Himalayan region. While the event highlights the urgent need for adaptation and compensation mechanisms, experts argue that Nepal must first gather robust scientific evidence of climate\u2011induced damages, develop a focused diplomatic approach, and craft a clear strategy to attract international climate finance and compensation grants. Without these steps, the country risks missing opportunities to secure the support needed to rebuild and protect vulnerable communities.",
+            "category": "politics",
+            "sentiment": "negative",
+            "importance_score": 7,
+            "published_at": "2026-09-05T04:52:15+00:00",
+            "keywords": [
+                "climate risk",
+                "Bhotekoshi disaster",
+                "compensation",
+                "international grants",
+                "diplomacy",
+                "Himalayan vulnerability"
+            ],
+            "file": "articles/2026-09-05-can-nepal-turn-himalayan-vulnerability-into-a-case-for-compensation.md"
+        },
+        {
+            "id": 6,
+            "source": "kathmandu-post",
+            "title": "Barely saved, he cuts mourning short to help flood survivors",
+            "slug": "2026-09-05-barely-saved-he-cuts-mourning-short-to-help-flood-survivors",
+            "summary": "Sudip Kumar Neupane survived a devastating flood on the Trishuli River that claimed the lives of his younger brother and a close colleague. After two days of mourning, he chose to cut short his period of grief to assist other flood survivors, coordinating relief efforts and providing aid. The tragedy highlights the ongoing vulnerability of communities along Nepal's rivers during the monsoon season, as rescue teams continue to search for missing persons and distribute essential supplies. Neupane's swift shift from personal loss to community service underscores the resilience and solidarity among Nepalese citizens facing natural disasters.",
+            "category": "world",
+            "sentiment": "mixed",
+            "importance_score": 8,
+            "published_at": "2026-09-05T04:52:15+00:00",
+            "keywords": [
+                "flood",
+                "Trishuli River",
+                "Sudip Kumar Neupane",
+                "survivors",
+                "relief",
+                "monsoon",
+                "Nepal"
+            ],
+            "file": "articles/2026-09-05-barely-saved-he-cuts-mourning-short-to-help-flood-survivors.md"
         },
         {
             "id": 5,
-            "source": "nepali-times",
-            "title": "Headlines on a climate deadline",
-            "slug": "2026-09-01-headlines-on-a-climate-deadline",
-            "summary": "Recent international coverage of the devastating floods in Nepal has been criticized for failing to connect the disaster to the broader climate crisis. Analysts argue that media outlets are missing an opportunity to highlight how rising temperatures and erratic weather patterns exacerbate flood risks in the Himalayas. The oversight underscores a larger issue of inadequate climate reporting, which can hinder public awareness and policy action on climate adaptation and mitigation in vulnerable regions like Nepal.",
+            "source": "kathmandu-post",
+            "title": "They stopped hoping to find him alive. Then they found a hand",
+            "slug": "2026-09-05-they-stopped-hoping-to-find-him-alive-then-they-found-a-hand",
+            "summary": "Raj Kumar Diyali disappeared along with his wife and four\u2011year\u2011old son during the devastating Bhotekoshi flood in Nepal. After days of searching, rescuers recovered a hand, raising hopes of locating the missing family members. The relatives are now awaiting DNA testing to confirm the identity of the recovered remains. The incident highlights the ongoing challenges faced by communities affected by the flood and the emotional toll on families awaiting closure.",
             "category": "world",
             "sentiment": "negative",
-            "importance_score": 7,
-            "published_at": "2026-09-01T11:02:08+00:00",
+            "importance_score": 6,
+            "published_at": "2026-09-05T04:52:15+00:00",
             "keywords": [
-                "Nepal flood",
-                "climate crisis",
-                "media coverage",
-                "climate change",
-                "disaster reporting",
-                "Himalayas"
+                "Bhotekoshi flood",
+                "missing family",
+                "DNA confirmation",
+                "hand recovered",
+                "Raj Kumar Diyali",
+                "Nepal disaster"
             ],
-            "file": "articles/2026-09-01-headlines-on-a-climate-deadline.md"
+            "file": "articles/2026-09-05-they-stopped-hoping-to-find-him-alive-then-they-found-a-hand.md"
+        },
+        {
+            "id": 4,
+            "source": "kathmandu-post",
+            "title": "Where to support flood relief in Kathmandu this week and beyond",
+            "slug": "2026-09-05-where-to-support-flood-relief-in-kathmandu-this-week-and-beyond",
+            "summary": "The article lists a series of events taking place in Kathmandu this week and beyond that aim to raise funds and awareness for communities affected by recent floods. Options include charity runs, creative workshops, art exhibitions, and donation drives organized by local NGOs, the Kathmandu Metropolitan City, and international agencies. Participants can contribute by registering for events, purchasing artwork, or making direct donations. The piece highlights how these activities not only provide immediate relief but also foster community resilience and long\u2011term recovery.",
+            "category": "other",
+            "sentiment": "positive",
+            "importance_score": 7,
+            "published_at": "2026-09-05T04:52:15+00:00",
+            "keywords": [
+                "flood relief",
+                "Kathmandu",
+                "charity run",
+                "creative workshop",
+                "donation drive",
+                "community support"
+            ],
+            "file": "articles/2026-09-05-where-to-support-flood-relief-in-kathmandu-this-week-and-beyond.md"
+        },
+        {
+            "id": 3,
+            "source": "kathmandu-post",
+            "title": "\u2018Tiniharu\u2019 lifts the fog around those at margins",
+            "slug": "2026-09-05-tiniharu-lifts-the-fog-around-those-at-margins",
+            "summary": "Abinash Bikram Shah\u2019s debut film \u201cTiniharu,\u201d which won an award at Cannes, centers on a Kinnar (transgender) family in Nepal. The narrative explores themes of belonging, othering, and the fragile limits of societal acceptance, shedding light on the lives of those living at the margins. By bringing the Kinnar experience to an international platform, the film challenges stereotypes and invites viewers to reconsider notions of identity and inclusion.",
+            "category": "culture",
+            "sentiment": "positive",
+            "importance_score": 6,
+            "published_at": "2026-09-05T04:52:15+00:00",
+            "keywords": [
+                "Tiniharu",
+                "Kinnar",
+                "transgender",
+                "Cannes",
+                "belonging",
+                "acceptance",
+                "Abinash Bikram Shah"
+            ],
+            "file": "articles/2026-09-05-tiniharu-lifts-the-fog-around-those-at-margins.md"
+        },
+        {
+            "id": 2,
+            "source": "kathmandu-post",
+            "title": "27 US lawmakers urge Rubio to expand rescue, aid efforts in Nepal",
+            "slug": "2026-09-05-27-us-lawmakers-urge-rubio-to-expand-rescue-aid-efforts-in-nepal",
+            "summary": "A group of 27 U.S. lawmakers have written to Senator Marco Rubio urging the expansion of American disaster response capabilities in Nepal following a major earthquake that left thousands missing. The letter requests the deployment of a U.S. disaster response team, high\u2011altitude search and rescue assets, and faster assistance to support Nepalese authorities. Lawmakers emphasize the urgency of coordinated international aid and highlight the humanitarian crisis unfolding in the region.",
+            "category": "politics",
+            "sentiment": "mixed",
+            "importance_score": 7,
+            "published_at": "2026-09-05T04:52:15+00:00",
+            "keywords": [
+                "U.S. lawmakers",
+                "Rubio",
+                "Nepal earthquake",
+                "disaster response",
+                "search and rescue",
+                "humanitarian aid",
+                "missing persons"
+            ],
+            "file": "articles/2026-09-05-27-us-lawmakers-urge-rubio-to-expand-rescue-aid-efforts-in-nepal.md"
+        },
+        {
+            "id": 1,
+            "source": "kathmandu-post",
+            "title": "Nepal PM Balendra Shah to address UN General Assembly on September 24",
+            "slug": "2026-09-05-nepal-pm-balendra-shah-to-address-un-general-assembly-on-september-24",
+            "summary": "Nepal PM Balendra Shah will address the UN General Assembly on September 24, his first foreign trip since taking office, as Nepal seeks international support after devastating floods.",
+            "category": "politics",
+            "sentiment": "neutral",
+            "importance_score": 8,
+            "published_at": "2026-09-05T04:52:15+00:00",
+            "keywords": [
+                "Nepal",
+                "UN General Assembly",
+                "Floods"
+            ],
+            "file": "articles/2026-09-05-nepal-pm-balendra-shah-to-address-un-general-assembly-on-september-24.md"
         }
     ],
     "count": 25,
-    "last_updated": "2026-09-04T05:01:27+00:00"
+    "last_updated": "2026-09-05T04:53:46+00:00"
 }
