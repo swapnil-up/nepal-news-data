@@ -1,25 +1,22 @@
 ---
-id: 1
+id: 3
 source: nepali-times
 source_url: "https://nepalitimes.com/nepal-tells-tourists-your-visit-matters"
 title: "Nepal tells tourists: ‘Your Visit Matters’"
 published_at: "2026-09-07T09:38:14+00:00"
-category: business
+category: culture
 sentiment: positive
 importance_score: 7
 keywords:
   - tourism
   - reconstruction
   - economic recovery
-  - travel
-  - Nepal
-  - visitor spending
-  - infrastructure
+  - visit Nepal
+  - tourist arrivals
 entities:
   - {"type":"LOCATION","name":"Nepal"}
-  - {"type":"ORG","name":"Ministry of Tourism"}
-  - {"type":"PERSON","name":"Prime Minister Pushpa Kamal Dahal"}
-summary: The Nepalese government is urging international tourists to visit the country, emphasizing that each visitor directly contributes to the nation’s reconstruction and economic recovery. Officials highlight tourism’s role in generating revenue, creating jobs, and supporting infrastructure projects that were stalled after recent crises. The campaign aims to restore confidence among travelers by showcasing Nepal’s natural and cultural attractions while positioning tourism as a vital component of the nation’s post‑disaster rebuilding strategy.
+  - {"type":"ORG","name":"Government of Nepal"}
+summary: The Nepalese government is urging tourists to visit the country as a direct way to support its reconstruction efforts. By increasing tourist arrivals, Nepal hopes to boost its economy, generate revenue for rebuilding infrastructure, and showcase its cultural and natural attractions. The campaign emphasizes that each visitor’s presence contributes to the nation’s recovery and long‑term development.
 ---
 
 <p><img src="https://media.nepalitimes.com/cover/20251214091216_2fea6bc873eed2de1ddf4d129a771bcefcb0e67c3526838b718b7f409b01c4d5.jpg" alt="Nepal tells tourists: ‘Your Visit Matters’" /></p><p>The most direct way tourists can help Nepal now is by visiting the country and helping it rebuild</p>
