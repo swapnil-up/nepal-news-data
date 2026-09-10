@@ -1,12 +1,12 @@
 ---
-id: 2
+id: 3
 source: nepali-times
 source_url: "https://nepalitimes.com/gripping-drama-of-the-transgender-community"
 title: Gripping drama of the transgender community
 published_at: "2026-09-08T07:22:15+00:00"
 category: culture
 sentiment: positive
-importance_score: 6
+importance_score: 7
 keywords:
   - transgender community
   - Nepali cinema
@@ -15,11 +15,10 @@ keywords:
   - Kathmandu screening
 entities:
   - {"type":"ORG","name":"Elephants in the Fog"}
-  - {"type":"ORG","name":"Cannes Film Festival"}
   - {"type":"LOCATION","name":"Kathmandu"}
-  - {"type":"LOCATION","name":"Nepal"}
   - {"type":"LOCATION","name":"Cannes"}
-summary: The Nepali film "Elephants in the Fog," a gripping drama centered on the transgender community, has garnered international acclaim after winning accolades at the Cannes Film Festival. The movie was recently screened in Kathmandu, drawing attention to both its artistic merit and its social themes. The screening highlights the growing prominence of Nepali cinema on the global stage and sparks conversations about transgender rights and representation in Nepal.
+  - {"type":"LOCATION","name":"Nepal"}
+summary: The Nepali film "Elephants in the Fog," which highlights the struggles and resilience of the transgender community, has garnered international acclaim after winning awards at the Cannes Film Festival. The movie was recently screened in Kathmandu, drawing large audiences and sparking conversations about LGBTQ+ rights and representation in Nepalese cinema. Critics praised its poignant storytelling, strong performances, and the director’s bold approach to a marginalized subject. The screening is seen as a milestone for both the country's film industry and the visibility of transgender narratives, encouraging broader societal acceptance and inspiring local filmmakers to explore diverse stories.
 ---
 
 <p><img src="https://media.nepalitimes.com/cover/Still%20from%20Elephants%20in%20the%20Fog.jpg" alt="Gripping drama of the transgender community" /></p><p>Elephants in the Fog, the Nepali movie that stole the show at Cannes this year, screened in Kathmandu</p>
