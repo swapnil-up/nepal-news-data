@@ -3,501 +3,490 @@
         {
             "id": 25,
             "source": "kathmandu-post",
-            "title": "Nature doesn\u2019t care about your climate conference speech",
-            "slug": "2026-09-14-nature-doesnt-care-about-your-climate-conference-speech",
-            "summary": "The article argues that Nepal faces a massive multi\u2011billion\u2011dollar adaptation shortfall as climate impacts worsen, while affluent countries continue to offer only rhetorical sympathy at international climate conferences. It criticizes the gap between lofty speeches and concrete financial support, highlighting how Nepal\u2019s communities are already drowning in floods and landslides. The piece calls for urgent, tangible aid rather than empty promises, emphasizing the disparity between the needs of vulnerable nations and the limited assistance from wealthier states.",
+            "title": "Nepal tunnel survivor finds solace in village homecoming",
+            "slug": "2026-09-15-nepal-tunnel-survivor-finds-solace-in-village-homecoming",
+            "summary": "After being trapped for nine days in a hydropower tunnel collapse, Sanjay Sah was rescued and returned to his village, where his family welcomed him. His homecoming brings a moment of relief amid the ongoing grief in the community, which is still mourning the workers who remain missing from the same disaster that occurred last month. The incident highlights the dangers faced by laborers in Nepal\u2019s expanding hydro\u2011energy projects and the emotional toll on families awaiting news of their loved ones.",
             "category": "world",
-            "sentiment": "negative",
+            "sentiment": "mixed",
             "importance_score": 8,
-            "published_at": "2026-09-14T05:20:46+00:00",
+            "published_at": "2026-09-15T05:11:33+00:00",
             "keywords": [
-                "climate adaptation gap",
-                "financial aid",
-                "wealthy nations",
-                "climate conference",
-                "floods",
-                "Nepal"
+                "hydropower tunnel",
+                "Sanjay Sah",
+                "rescue",
+                "missing workers",
+                "village homecoming",
+                "disaster"
             ],
-            "file": "articles/2026-09-14-nature-doesnt-care-about-your-climate-conference-speech.md"
+            "file": "articles/2026-09-15-nepal-tunnel-survivor-finds-solace-in-village-homecoming.md"
         },
         {
             "id": 24,
             "source": "kathmandu-post",
-            "title": "Farmers face dire consequences as floods devastate Nepal\u2019s harvest",
-            "slug": "2026-09-14-farmers-face-dire-consequences-as-floods-devastate-nepals-harvest",
-            "summary": "Severe flooding across Nepal has ruined large swaths of the country's agricultural fields, threatening the upcoming harvest and jeopardizing food supplies. The disaster hits the very farmers who sustain the nation\u2019s food security, leaving them with lost crops, damaged equipment, and uncertain incomes. Authorities warn that the loss could lead to higher food prices and increased hardship for rural households already vulnerable to climate shocks. Relief efforts are being mobilised, but the scale of damage underscores the urgent need for improved flood management and support for the farming community.",
-            "category": "health",
-            "sentiment": "negative",
-            "importance_score": 8,
-            "published_at": "2026-09-14T05:20:46+00:00",
-            "keywords": [
-                "floods",
-                "harvest",
-                "farmers",
-                "agriculture",
-                "food security",
-                "Nepal"
-            ],
-            "file": "articles/2026-09-14-farmers-face-dire-consequences-as-floods-devastate-nepals-harvest.md"
-        },
-        {
-            "id": 23,
-            "source": "kathmandu-post",
-            "title": "\u2018Bir Ganeshman\u2019: A theatrical tribute to a freedom fighter",
-            "slug": "2026-09-14-bir-ganeshman-a-theatrical-tribute-to-a-freedom-fighter",
-            "summary": "A new theatrical production honors Bir Ganeshman, a dedicated politician and freedom fighter, portraying his life and contributions at a time when Nepal is undergoing significant historical change. The play is described as a meaningful act of karma, reflecting the nation\u2019s evolving identity and reverence for its past heroes.",
-            "category": "culture",
-            "sentiment": "positive",
-            "importance_score": 6,
-            "published_at": "2026-09-14T05:20:46+00:00",
-            "keywords": [
-                "theatrical tribute",
-                "freedom fighter",
-                "Bir Ganeshman",
-                "play",
-                "historical transformation"
-            ],
-            "file": "articles/2026-09-14-bir-ganeshman-a-theatrical-tribute-to-a-freedom-fighter.md"
-        },
-        {
-            "id": 22,
-            "source": "kathmandu-post",
-            "title": "Flood damage leaves Rasuwagadhi road facing long repairs",
-            "slug": "2026-09-14-flood-damage-leaves-rasuwagadhi-road-facing-long-repairs",
-            "summary": "Heavy rains caused the Bhotekoshi flood to wash away roughly 40 km of the Rasuwagadhi road, a crucial link to the Chinese border. The Department of Roads is responding by opening temporary tracks and planning the construction of Bailey bridges to restore connectivity. Officials aim to complete the repairs before the upcoming Dashain festival, emphasizing the road\u2019s importance for trade and travel. The extensive damage suggests a prolonged reconstruction period, highlighting challenges in Nepal\u2019s infrastructure resilience.",
-            "category": "politics",
-            "sentiment": "mixed",
-            "importance_score": 7,
-            "published_at": "2026-09-14T05:20:46+00:00",
-            "keywords": [
-                "flood",
-                "Rasuwagadhi road",
-                "Bhotekoshi",
-                "temporary tracks",
-                "Bailey bridges",
-                "Chinese border",
-                "Dashain"
-            ],
-            "file": "articles/2026-09-14-flood-damage-leaves-rasuwagadhi-road-facing-long-repairs.md"
-        },
-        {
-            "id": 21,
-            "source": "kathmandu-post",
-            "title": "Trapped nine days in a dark tunnel, Nepali man tells his survival story",
-            "slug": "2026-09-14-trapped-nine-days-in-a-dark-tunnel-nepali-man-tells-his-survival-story",
-            "summary": "Sanjay Sah, a Nepali man, survived being trapped for nine days in a dark tunnel after a collapse. He endured extreme darkness, hunger, injuries and isolation, relying on prayer, hope and thoughts of his family to stay alive. Rescue teams finally located and freed him after ten days underground. Sah recounted his ordeal, emphasizing the mental strength that helped him survive the harsh conditions.",
-            "category": "culture",
-            "sentiment": "mixed",
-            "importance_score": 5,
-            "published_at": "2026-09-14T05:20:46+00:00",
-            "keywords": [
-                "tunnel",
-                "survival",
-                "rescue",
-                "prayer",
-                "hunger",
-                "injuries",
-                "family"
-            ],
-            "file": "articles/2026-09-14-trapped-nine-days-in-a-dark-tunnel-nepali-man-tells-his-survival-story.md"
-        },
-        {
-            "id": 20,
-            "source": "kathmandu-post",
-            "title": "Two killed, four seriously injured in Rukum West jeep crash",
-            "slug": "2026-09-14-two-killed-four-seriously-injured-in-rukum-west-jeep-crash",
-            "summary": "A jeep traveling from Kotgaun to Khalanga in Rukum West district crashed into the Deuta Khola river within Sanibheri Rural Municipality-6. The accident resulted in two fatalities and four people sustaining serious injuries. Local authorities have been alerted to the incident, and emergency services are responding to the scene.",
-            "category": "world",
-            "sentiment": "negative",
-            "importance_score": 4,
-            "published_at": "2026-09-14T05:20:46+00:00",
-            "keywords": [
-                "jeep crash",
-                "Rukum West",
-                "Deuta Khola",
-                "fatalities",
-                "injuries"
-            ],
-            "file": "articles/2026-09-14-two-killed-four-seriously-injured-in-rukum-west-jeep-crash.md"
-        },
-        {
-            "id": 19,
-            "source": "kathmandu-post",
-            "title": "India sends three Bailey bridges to restore flood-hit connectivity",
-            "slug": "2026-09-14-india-sends-three-bailey-bridges-to-restore-flood-hit-connectivity",
-            "summary": "India has dispatched three Bailey bridge components to Nepal to restore road connectivity after severe flooding in Nuwakot. The first shipment, containing parts for a 70\u2011metre bridge, arrived in Hetauda and will be assembled to re\u2011establish vital transport links disrupted by the disaster. The aid underscores ongoing cooperation between the two neighboring countries in disaster response and infrastructure recovery.",
-            "category": "world",
-            "sentiment": "positive",
-            "importance_score": 7,
-            "published_at": "2026-09-14T05:20:46+00:00",
-            "keywords": [
-                "flood",
-                "Bailey bridges",
-                "Hetauda",
-                "Nuwakot",
-                "India",
-                "Nepal",
-                "connectivity",
-                "disaster relief"
-            ],
-            "file": "articles/2026-09-14-india-sends-three-bailey-bridges-to-restore-flood-hit-connectivity.md"
-        },
-        {
-            "id": 18,
-            "source": "kathmandu-post",
-            "title": "Rescuers searching for 140 people from Indonesia passenger ship, official says",
-            "slug": "2026-09-14-rescuers-searching-for-140-people-from-indonesia-passenger-ship-official-says",
-            "summary": "Rescuers are conducting a large-scale search for about 140 passengers missing from an Indonesian passenger ship after it encountered rough seas. Authorities report that the adverse weather conditions are hampering rescue efforts, and many passengers remain unaccounted for. The situation is being closely monitored as teams continue to locate survivors and recover bodies.",
-            "category": "world",
-            "sentiment": "negative",
-            "importance_score": 7,
-            "published_at": "2026-09-14T05:20:46+00:00",
-            "keywords": [
-                "rescue operation",
-                "passenger ship",
-                "rough seas",
-                "missing passengers",
-                "Indonesia"
-            ],
-            "file": "articles/2026-09-14-rescuers-searching-for-140-people-from-indonesia-passenger-ship-official-says.md"
-        },
-        {
-            "id": 17,
-            "source": "kathmandu-post",
-            "title": "The search dog helping find bodies buried by Nepal\u2019s floods",
-            "slug": "2026-09-14-the-search-dog-helping-find-bodies-buried-by-nepals-floods",
-            "summary": "A Labrador named Samba, trained to detect human remains, has assisted rescue teams in Rasuwa, Nepal, locating approximately 20 bodies buried under mud and debris after recent floods. The canine's work highlights the ongoing challenges of flood recovery and the role of specialized search dogs in disaster response.",
-            "category": "world",
-            "sentiment": "mixed",
-            "importance_score": 7,
-            "published_at": "2026-09-14T05:20:46+00:00",
-            "keywords": [
-                "flood",
-                "search dog",
-                "Rasuwa",
-                "rescue",
-                "human remains",
-                "Labrador"
-            ],
-            "file": "articles/2026-09-14-the-search-dog-helping-find-bodies-buried-by-nepals-floods.md"
-        },
-        {
-            "id": 16,
-            "source": "kathmandu-post",
-            "title": "18-km cross-border transmission line under MCC completed",
-            "slug": "2026-09-14-18-km-cross-border-transmission-line-under-mcc-completed",
-            "summary": "The Nepalese segment of a 18\u2011km, 400\u202fkV cross\u2011border transmission line connecting the New Butwal Substation to the Nepal\u2011India border has been completed. The line is now awaiting regulatory approvals and final procedures before it can be energized, marking a key step in enhancing bilateral power trade and grid stability between the two countries.",
-            "category": "business",
-            "sentiment": "neutral",
-            "importance_score": 6,
-            "published_at": "2026-09-14T05:20:46+00:00",
-            "keywords": [
-                "cross-border transmission line",
-                "400 kV",
-                "New Butwal Substation",
-                "Nepal\u2011India border",
-                "MCC",
-                "energy infrastructure"
-            ],
-            "file": "articles/2026-09-14-18-km-cross-border-transmission-line-under-mcc-completed.md"
-        },
-        {
-            "id": 15,
-            "source": "kathmandu-post",
-            "title": "Why can\u2019t consumers exchange other brands\u2019 LPG cylinders amid the shortage",
-            "slug": "2026-09-14-why-cant-consumers-exchange-other-brands-lpg-cylinders-amid-the-shortage",
-            "summary": "The Nepalese government issued a directive permitting consumers to exchange LPG cylinders of different brands to alleviate a nationwide shortage. However, major gas distributors have reported that the policy cannot be implemented due to legal ambiguities, technical incompatibilities between cylinder types, and insurance liabilities. The stalemate leaves households without a viable solution, intensifying public frustration and highlighting gaps in regulatory coordination.",
-            "category": "politics",
-            "sentiment": "negative",
-            "importance_score": 7,
-            "published_at": "2026-09-14T05:20:46+00:00",
-            "keywords": [
-                "LPG shortage",
-                "cylinder exchange",
-                "government directive",
-                "legal complications",
-                "insurance issues",
-                "energy market"
-            ],
-            "file": "articles/2026-09-14-why-cant-consumers-exchange-other-brands-lpg-cylinders-amid-the-shortage.md"
-        },
-        {
-            "id": 14,
-            "source": "kathmandu-post",
-            "title": "At least 129 missing after Indonesian passenger ship capsizes",
-            "slug": "2026-09-14-at-least-129-missing-after-indonesian-passenger-ship-capsizes",
-            "summary": "A passenger vessel named Virgo Transport 8 capsized off Indonesia, leaving at least 129 people missing. Rescue teams have so far saved 108 individuals and continue to search for additional survivors. The incident has prompted a large-scale rescue operation by local authorities and agencies.",
-            "category": "world",
-            "sentiment": "negative",
-            "importance_score": 8,
-            "published_at": "2026-09-14T05:20:46+00:00",
-            "keywords": [
-                "capsized ship",
-                "missing passengers",
-                "rescue operation",
-                "Indonesia",
-                "Virgo Transport 8"
-            ],
-            "file": "articles/2026-09-14-at-least-129-missing-after-indonesian-passenger-ship-capsizes.md"
-        },
-        {
-            "id": 13,
-            "source": "kathmandu-post",
-            "title": "Vehicles cross Krishnabhir on Sunday in trial run after 11 days",
-            "slug": "2026-09-14-vehicles-cross-krishnabhir-on-sunday-in-trial-run-after-11-days",
-            "summary": "After an 11\u2011day closure, about 20 vehicles\u2014including a stranded gas tanker and several heavy trucks\u2014were permitted to cross the temporary track at Krishnabhir on Sunday as part of a trial run. Authorities said the test shows the route is usable, but full regular traffic is expected to resume only after several more days of work.",
-            "category": "business",
-            "sentiment": "positive",
-            "importance_score": 5,
-            "published_at": "2026-09-14T05:20:46+00:00",
-            "keywords": [
-                "Krishnabhir",
-                "trial run",
-                "temporary track",
-                "vehicles",
-                "gas tanker",
-                "heavy trucks"
-            ],
-            "file": "articles/2026-09-14-vehicles-cross-krishnabhir-on-sunday-in-trial-run-after-11-days.md"
-        },
-        {
-            "id": 12,
-            "source": "kathmandu-post",
-            "title": "Nepalis cut back on food as \u2018hyperinflation\u2019 and shortages bite",
-            "slug": "2026-09-14-nepalis-cut-back-on-food-as-hyperinflation-and-shortages-bite",
-            "summary": "Consumers in Kathmandu Valley are reducing food purchases and scaling back festive preparations as supply disruptions, soaring transport costs, and hyperinflation drive up the prices of daily essentials.",
-            "category": "business",
-            "sentiment": "negative",
-            "importance_score": 8,
-            "published_at": "2026-09-14T05:20:46+00:00",
-            "keywords": [
-                "hyperinflation",
-                "food shortages",
-                "transport costs",
-                "price hikes",
-                "Kathmandu Valley",
-                "Nepal"
-            ],
-            "file": "articles/2026-09-14-nepalis-cut-back-on-food-as-hyperinflation-and-shortages-bite.md"
-        },
-        {
-            "id": 11,
-            "source": "kathmandu-post",
-            "title": "Lawmakers want a shorter governor term. Experts fear instability in central bank",
-            "slug": "2026-09-14-lawmakers-want-a-shorter-governor-term-experts-fear-instability-in-central-bank",
-            "summary": "Lawmakers in Nepal are proposing to shorten the term of the Nepal Rastra Bank governor. Former governors and monetary experts warn that such a change could erode the central bank\u2019s independence, lead to frequent leadership turnover, and disrupt policy continuity, potentially destabilising the country\u2019s monetary policy and economic stability.",
-            "category": "politics",
-            "sentiment": "negative",
-            "importance_score": 8,
-            "published_at": "2026-09-14T05:20:46+00:00",
-            "keywords": [
-                "governor term",
-                "central bank independence",
-                "policy continuity",
-                "legislative amendment",
-                "monetary policy",
-                "political interference"
-            ],
-            "file": "articles/2026-09-14-lawmakers-want-a-shorter-governor-term-experts-fear-instability-in-central-bank.md"
-        },
-        {
-            "id": 10,
-            "source": "kathmandu-post",
-            "title": "What should Balendra Shah tell the world in New York?",
-            "slug": "2026-09-14-what-should-balendra-shah-tell-the-world-in-new-york",
-            "summary": "Ahead of Nepal's prime minister's inaugural UN General Assembly speech, the article gathers perspectives from experts, leaders and activists on how the country should present its climate crisis on the global stage. It highlights the urgency of Nepal's environmental challenges, the need for international support, and suggestions for framing the narrative to attract attention and aid. Balendra Shah, Kathmandu's mayor, is asked what message he would convey in New York, emphasizing the country's vulnerability and potential contributions to climate solutions.",
-            "category": "politics",
-            "sentiment": "neutral",
-            "importance_score": 8,
-            "published_at": "2026-09-14T05:20:46+00:00",
-            "keywords": [
-                "climate crisis",
-                "UN General Assembly",
-                "Nepal",
-                "Balendra Shah",
-                "international support",
-                "environmental challenges"
-            ],
-            "file": "articles/2026-09-14-what-should-balendra-shah-tell-the-world-in-new-york.md"
-        },
-        {
-            "id": 9,
-            "source": "kathmandu-post",
-            "title": "Why Nepal\u2019s climate crisis is also a public-health emergency",
-            "slug": "2026-09-14-why-nepals-climate-crisis-is-also-a-public-health-emergency",
-            "summary": "Nepal's climate crisis is also a public-health emergency, as seen in the Bhotekoshi flood.",
-            "category": "health",
-            "sentiment": "negative",
-            "importance_score": 8,
-            "published_at": "2026-09-14T05:20:46+00:00",
-            "keywords": [
-                "climate crisis",
-                "public health",
-                "flood",
-                "Nepal",
-                "Bhotekoshi"
-            ],
-            "file": "articles/2026-09-14-why-nepals-climate-crisis-is-also-a-public-health-emergency.md"
-        },
-        {
-            "id": 8,
-            "source": "kathmandu-post",
-            "title": "Nepal fell in love with EVs. It forgot to regulate them",
-            "slug": "2026-09-14-nepal-fell-in-love-with-evs-it-forgot-to-regulate-them",
-            "summary": "Nepal's enthusiasm for electric vehicles has outpaced its regulatory framework. While imports of EVs and charging stations are rising, the country lacks a systematic certification process for the vehicles and especially their lithium\u2011ion batteries, exposing consumers to safety risks and undermining market confidence. Officials acknowledge the gap and call for a legal framework to test, approve, and monitor EVs, citing models from other nations where batteries are certified before sale.",
-            "category": "technology",
-            "sentiment": "neutral",
-            "importance_score": 6,
-            "published_at": "2026-09-14T05:20:46+00:00",
-            "keywords": [
-                "electric vehicles",
-                "regulation",
-                "battery certification",
-                "safety",
-                "market confidence",
-                "Nepal"
-            ],
-            "file": "articles/2026-09-14-nepal-fell-in-love-with-evs-it-forgot-to-regulate-them.md"
-        },
-        {
-            "id": 7,
-            "source": "kathmandu-post",
-            "title": "Infrastructure Minister Sunil Lamsal on rebuilding after the Bhotekoshi floods",
-            "slug": "2026-09-14-infrastructure-minister-sunil-lamsal-on-rebuilding-after-the-bhotekoshi-floods",
-            "summary": "Infrastructure Development Minister Sunil Lamsal outlined the government's plan to rebuild communities affected by the Bhotekoshi floods. The strategy includes resettling displaced families, repairing and upgrading damaged roads and bridges, improving the China\u2011border crossing, and constructing safer settlements for disaster\u2011prone areas.",
-            "category": "politics",
-            "sentiment": "neutral",
-            "importance_score": 6,
-            "published_at": "2026-09-14T05:20:46+00:00",
-            "keywords": [
-                "Bhotekoshi floods",
-                "resettlement",
-                "infrastructure repair",
-                "border crossing",
-                "disaster\u2011prone settlements"
-            ],
-            "file": "articles/2026-09-14-infrastructure-minister-sunil-lamsal-on-rebuilding-after-the-bhotekoshi-floods.md"
-        },
-        {
-            "id": 6,
-            "source": "kathmandu-post",
-            "title": "Beijing signals support for rebuilding flood-ravaged Rasuwagadhi route",
-            "slug": "2026-09-14-beijing-signals-support-for-rebuilding-flood-ravaged-rasuwagadhi-route",
-            "summary": "Nepal has requested Chinese assistance to rebuild the 16\u2011km Syaphrubesi\u2011Rasuwagadhi road damaged by floods, while the government prepares a temporary track to maintain access to the border crossing. Beijing has signaled support for the reconstruction, underscoring ongoing cooperation between the neighboring countries.",
-            "category": "politics",
-            "sentiment": "neutral",
-            "importance_score": 6,
-            "published_at": "2026-09-14T05:20:46+00:00",
-            "keywords": [
-                "Nepal",
-                "China",
-                "flood",
-                "Rasuwagadhi",
-                "road reconstruction",
-                "border crossing"
-            ],
-            "file": "articles/2026-09-14-beijing-signals-support-for-rebuilding-flood-ravaged-rasuwagadhi-route.md"
-        },
-        {
-            "id": 5,
-            "source": "kathmandu-post",
-            "title": "A year later, the Gen Z movement lives on in art",
-            "slug": "2026-09-14-a-year-later-the-gen-z-movement-lives-on-in-art",
-            "summary": "A year after the Gen Z protests reshaped Nepal\u2019s politics, artists across the country are using songs, theatre, photography and visual art to record, mourn and interpret the movement. The piece highlights how creative expression has become a means for young Nepalis to process the upheaval, preserve its memory and critique ongoing political developments. Through murals in Kathmandu, protest songs, stage performances and photo essays, the article shows how the spirit of the movement lives on in cultural spaces, influencing public discourse and offering a hopeful lens on future change.",
-            "category": "culture",
-            "sentiment": "mixed",
-            "importance_score": 6,
-            "published_at": "2026-09-14T05:20:46+00:00",
-            "keywords": [
-                "Gen Z movement",
-                "art",
-                "political protests",
-                "Nepal",
-                "photography",
-                "theatre",
-                "song"
-            ],
-            "file": "articles/2026-09-14-a-year-later-the-gen-z-movement-lives-on-in-art.md"
-        },
-        {
-            "id": 4,
-            "source": "kathmandu-post",
-            "title": "Booker-winning translator Deepa Bhasthi on why she has \u2018nothing kind to say about AI\u2019",
-            "slug": "2026-09-14-booker-winning-translator-deepa-bhasthi-on-why-she-has-nothing-kind-to-say-about-ai",
-            "summary": "Booker-winning translator Deepa Bhasthi discusses the importance of preserving the soul, musicality, and rhythm of a language in translation, criticizing AI's role in erasing cultural roots.",
-            "category": "culture",
-            "sentiment": "negative",
-            "importance_score": 6,
-            "published_at": "2026-09-14T05:20:46+00:00",
-            "keywords": [
-                "translation",
-                "AI",
-                "culture",
-                "language"
-            ],
-            "file": "articles/2026-09-14-booker-winning-translator-deepa-bhasthi-on-why-she-has-nothing-kind-to-say-about-ai.md"
-        },
-        {
-            "id": 3,
-            "source": "kathmandu-post",
-            "title": "Sweden\u2019s centre-left bloc leads close election against right-wing government",
-            "slug": "2026-09-14-swedens-centre-left-bloc-leads-close-election-against-right-wing-government",
-            "summary": "Sweden's centre-left coalition, led by former prime minister Magdalena Andersson, has taken a narrow early lead in the upcoming election, challenging the incumbent right\u2011wing government of Ulf Kristersson. If the centre-left wins, it could end Kristersson's four\u2011year rule and prompt a reassessment of Sweden's increasingly strict migration policies. The race remains tight as votes are still being counted.",
-            "category": "politics",
-            "sentiment": "neutral",
-            "importance_score": 6,
-            "published_at": "2026-09-14T05:20:46+00:00",
-            "keywords": [
-                "Sweden election",
-                "centre-left bloc",
-                "Magdalena Andersson",
-                "Ulf Kristersson",
-                "migration policies",
-                "right-wing government"
-            ],
-            "file": "articles/2026-09-14-swedens-centre-left-bloc-leads-close-election-against-right-wing-government.md"
-        },
-        {
-            "id": 2,
-            "source": "kathmandu-post",
-            "title": "Nepal tunnel survivor finds solace in village homecoming",
-            "slug": "2026-09-14-nepal-tunnel-survivor-finds-solace-in-village-homecoming",
-            "summary": "After being rescued following nine days trapped in a hydropower tunnel collapse, Sanjay Sah returned to his village, where his family welcomed him. While his homecoming brings a moment of relief, the community continues to mourn the workers still missing from the disaster that occurred last month. The incident highlights ongoing safety concerns in Nepal's expanding hydropower sector and the emotional toll on affected families.",
-            "category": "world",
-            "sentiment": "mixed",
-            "importance_score": 6,
-            "published_at": "2026-09-14T05:20:46+00:00",
-            "keywords": [
-                "hydropower tunnel disaster",
-                "survivor homecoming",
-                "missing workers",
-                "village mourning",
-                "Sanjay Sah"
-            ],
-            "file": "articles/2026-09-14-nepal-tunnel-survivor-finds-solace-in-village-homecoming.md"
-        },
-        {
-            "id": 1,
-            "source": "kathmandu-post",
             "title": "Flood blocks Jajarkot-Dolpa road, sweeps away homes and shops",
-            "slug": "2026-09-14-flood-blocks-jajarkot-dolpa-road-sweeps-away-homes-and-shops",
-            "summary": "Heavy torrential rain caused severe flooding in the Nalgad area of Jajarkot district, Nepal, blocking the Jajarkot\u2011Dolpa road along the Bheri Corridor. The flood swept away homes, shops and other structures, disrupting transport and leaving residents displaced.",
+            "slug": "2026-09-15-flood-blocks-jajarkot-dolpa-road-sweeps-away-homes-and-shops",
+            "summary": "Heavy torrential rain caused severe flooding in the Nalgad area of Jajarkot district, Nepal. The flood inundated the Bheri Corridor, blocking the Jajarkot\u2011Dolpa road and halting transport along this vital route. Numerous homes, shops and other structures were swept away or heavily damaged, displacing residents and disrupting local commerce. Relief efforts are being mobilised as authorities assess the extent of the damage and plan for reconstruction of the road and affected properties.",
             "category": "world",
             "sentiment": "negative",
-            "importance_score": 7,
-            "published_at": "2026-09-14T05:20:46+00:00",
+            "importance_score": 6,
+            "published_at": "2026-09-15T05:11:33+00:00",
             "keywords": [
                 "flood",
                 "Jajarkot",
                 "Nalgad",
-                "Bheri Corridor",
                 "road blockage",
                 "homes destroyed",
-                "torrential rain"
+                "Bheri Corridor"
             ],
-            "file": "articles/2026-09-14-flood-blocks-jajarkot-dolpa-road-sweeps-away-homes-and-shops.md"
+            "file": "articles/2026-09-15-flood-blocks-jajarkot-dolpa-road-sweeps-away-homes-and-shops.md"
+        },
+        {
+            "id": 23,
+            "source": "kathmandu-post",
+            "title": "Nepal Airlines jet grounded in Japan, disrupting international flights",
+            "slug": "2026-09-15-nepal-airlines-jet-grounded-in-japan-disrupting-international-flights",
+            "summary": "A Nepal Airlines wide\u2011body jet was forced to remain at Narita Airport in Japan after an engine problem forced the aircraft, carrying 226 passengers, to be grounded. The incident has halted the airline\u2019s only operational wide\u2011body aircraft, disrupting its scheduled international services, including flights to Doha, which are now at risk of cancellation. Nepal Airlines is working with authorities to resolve the issue and arrange alternative transport for passengers.",
+            "category": "business",
+            "sentiment": "negative",
+            "importance_score": 7,
+            "published_at": "2026-09-15T05:11:33+00:00",
+            "keywords": [
+                "engine problem",
+                "widebody jet",
+                "Narita",
+                "Doha flights",
+                "international disruption",
+                "226 passengers"
+            ],
+            "file": "articles/2026-09-15-nepal-airlines-jet-grounded-in-japan-disrupting-international-flights.md"
+        },
+        {
+            "id": 22,
+            "source": "kathmandu-post",
+            "title": "Beijing to ban drone possession, storage from November 15",
+            "slug": "2026-09-15-beijing-to-ban-drone-possession-storage-from-november-15",
+            "summary": "Beijing announced that from November 15 it will prohibit the possession and storage of drones, aiming to strengthen airspace security. The regulation allows limited exemptions for emergency services, research, industrial activities and other authorized operations. The move reflects a broader effort by Chinese authorities to tighten control over unmanned aerial vehicles.",
+            "category": "technology",
+            "sentiment": "neutral",
+            "importance_score": 6,
+            "published_at": "2026-09-15T05:11:33+00:00",
+            "keywords": [
+                "drone ban",
+                "airspace security",
+                "Beijing",
+                "November 15",
+                "exemptions",
+                "regulation"
+            ],
+            "file": "articles/2026-09-15-beijing-to-ban-drone-possession-storage-from-november-15.md"
+        },
+        {
+            "id": 21,
+            "source": "kathmandu-post",
+            "title": "US approves $1m forensic support for Nepal flood victim identification",
+            "slug": "2026-09-15-us-approves-1m-forensic-support-for-nepal-flood-victim-identification",
+            "summary": "The United States has approved an additional $1\u202fmillion to support forensic efforts for identifying victims of recent floods in Nepal. This new allocation brings total U.S. humanitarian, health, and forensic assistance for flood relief in Nepal to over $5\u202fmillion, aiming to improve victim identification and support affected communities.",
+            "category": "world",
+            "sentiment": "positive",
+            "importance_score": 7,
+            "published_at": "2026-09-15T05:11:33+00:00",
+            "keywords": [
+                "US aid",
+                "forensic support",
+                "flood victim identification",
+                "Nepal floods",
+                "humanitarian assistance"
+            ],
+            "file": "articles/2026-09-15-us-approves-1m-forensic-support-for-nepal-flood-victim-identification.md"
+        },
+        {
+            "id": 20,
+            "source": "kathmandu-post",
+            "title": "Himalayas approaching tipping point, millions of livelihoods at stake: Report",
+            "slug": "2026-09-15-himalayas-approaching-tipping-point-millions-of-livelihoods-at-stake-report",
+            "summary": "A new report warns that accelerating glacier melt in the Hindu Kush-Himalaya region is pushing the Himalayas toward a tipping point. The rapid loss of ice threatens water security for millions downstream and raises the risk of catastrophic glacial lake outburst floods, endangering livelihoods across Nepal, India, Bhutan, Pakistan and China. The findings call for urgent climate mitigation and adaptation measures to protect vulnerable communities and preserve the region\u2019s water resources.",
+            "category": "world",
+            "sentiment": "negative",
+            "importance_score": 8,
+            "published_at": "2026-09-15T05:11:33+00:00",
+            "keywords": [
+                "glacier melt",
+                "water security",
+                "glacial lake floods",
+                "Himalayas",
+                "livelihoods",
+                "climate risk"
+            ],
+            "file": "articles/2026-09-15-himalayas-approaching-tipping-point-millions-of-livelihoods-at-stake-report.md"
+        },
+        {
+            "id": 19,
+            "source": "kathmandu-post",
+            "title": "Diplomacy stumbles with postponement of meeting on Strait of Hormuz proposal",
+            "slug": "2026-09-15-diplomacy-stumbles-with-postponement-of-meeting-on-strait-of-hormuz-proposal",
+            "summary": "A meeting on the Strait of Hormuz proposal was postponed at the request of some regional countries, following a joint decision by Tehran and Muscat, according to Iran\u2019s Fars news agency citing a foreign ministry official.",
+            "category": "world",
+            "sentiment": "neutral",
+            "importance_score": 6,
+            "published_at": "2026-09-15T05:11:33+00:00",
+            "keywords": [
+                "Iran",
+                "Oman",
+                "Strait of Hormuz",
+                "diplomacy",
+                "proposal"
+            ],
+            "file": "articles/2026-09-15-diplomacy-stumbles-with-postponement-of-meeting-on-strait-of-hormuz-proposal.md"
+        },
+        {
+            "id": 18,
+            "source": "kathmandu-post",
+            "title": "Deuba faction cracks as 31 leaders line up behind Thapa",
+            "slug": "2026-09-15-deuba-faction-cracks-as-31-leaders-line-up-behind-thapa",
+            "summary": "31 leaders from the Deuba faction have defected to support Gagan Thapa, dealing a blow to Sher Bahadur Deuba's push for a parallel convention.",
+            "category": "politics",
+            "sentiment": "neutral",
+            "importance_score": 6,
+            "published_at": "2026-09-15T05:11:33+00:00",
+            "keywords": [
+                "Nepali Congress",
+                "Deuba faction",
+                "Gagan Thapa"
+            ],
+            "file": "articles/2026-09-15-deuba-faction-cracks-as-31-leaders-line-up-behind-thapa.md"
+        },
+        {
+            "id": 17,
+            "source": "kathmandu-post",
+            "title": "Finance Minister Wagle to visit India on September 17-18",
+            "slug": "2026-09-15-finance-minister-wagle-to-visit-india-on-september-17-18",
+            "summary": "Finance Minister Wagle will travel to India on September 17-18, marking the first high\u2011level Nepal\u2011India visit since the devastating floods that struck Nepal on August 26.",
+            "category": "politics",
+            "sentiment": "neutral",
+            "importance_score": 6,
+            "published_at": "2026-09-15T05:11:33+00:00",
+            "keywords": [
+                "Nepal",
+                "India",
+                "Finance Minister",
+                "floods",
+                "high-level visit"
+            ],
+            "file": "articles/2026-09-15-finance-minister-wagle-to-visit-india-on-september-17-18.md"
+        },
+        {
+            "id": 16,
+            "source": "kathmandu-post",
+            "title": "India approves additional 654 MW power exports to Nepal",
+            "slug": "2026-09-15-india-approves-additional-654-mw-power-exports-to-nepal",
+            "summary": "India has approved an additional 654 megawatts of electricity exports to Nepal to alleviate the latter's winter power shortages. The extra supply comes after recent floods damaged Nepal's hydropower plants and transmission lines, leaving the country vulnerable to energy deficits during the colder months. The increased import is expected to stabilize Nepal's grid and support households and businesses until repairs are completed.",
+            "category": "business",
+            "sentiment": "positive",
+            "importance_score": 8,
+            "published_at": "2026-09-15T05:11:33+00:00",
+            "keywords": [
+                "power export",
+                "654 MW",
+                "winter shortage",
+                "flood damage",
+                "hydropower",
+                "India-Nepal energy trade"
+            ],
+            "file": "articles/2026-09-15-india-approves-additional-654-mw-power-exports-to-nepal.md"
+        },
+        {
+            "id": 15,
+            "source": "kathmandu-post",
+            "title": "Nepal begins overhaul of school curriculum, with AI and indigenous knowledge in focus",
+            "slug": "2026-09-15-nepal-begins-overhaul-of-school-curriculum-with-ai-and-indigenous-knowledge-in-focus",
+            "summary": "The Nepalese government has launched a nationwide consultation to revamp the school curriculum, aiming to incorporate artificial intelligence, disaster preparedness, entrepreneurship, and indigenous knowledge. The initiative seeks input from educators, experts, and local communities to create a modern, resilient education system that reflects both technological advancement and cultural heritage. The overhaul is positioned as a step toward preparing students for future challenges while preserving Nepal's diverse traditions.",
+            "category": "politics",
+            "sentiment": "positive",
+            "importance_score": 8,
+            "published_at": "2026-09-15T05:11:33+00:00",
+            "keywords": [
+                "curriculum overhaul",
+                "artificial intelligence",
+                "indigenous knowledge",
+                "disaster preparedness",
+                "entrepreneurship",
+                "education reform"
+            ],
+            "file": "articles/2026-09-15-nepal-begins-overhaul-of-school-curriculum-with-ai-and-indigenous-knowledge-in-focus.md"
+        },
+        {
+            "id": 14,
+            "source": "kathmandu-post",
+            "title": "Flood survivors face water shortages, disease risk in crowded holding centres",
+            "slug": "2026-09-15-flood-survivors-face-water-shortages-disease-risk-in-crowded-holding-centres",
+            "summary": "Over 3,600 flood survivors are staying in 37 holding centres across Rasuwa, Nuwakot and Dhading districts, facing water shortages and disease risk.",
+            "category": "health",
+            "sentiment": "negative",
+            "importance_score": 8,
+            "published_at": "2026-09-15T05:11:33+00:00",
+            "keywords": [
+                "flood",
+                "survivors",
+                "water shortages",
+                "disease risk",
+                "Nepal"
+            ],
+            "file": "articles/2026-09-15-flood-survivors-face-water-shortages-disease-risk-in-crowded-holding-centres.md"
+        },
+        {
+            "id": 13,
+            "source": "kathmandu-post",
+            "title": "Why fixing Nepal\u2019s government takes more than just copying the rulebook",
+            "slug": "2026-09-15-why-fixing-nepals-government-takes-more-than-just-copying-the-rulebook",
+            "summary": "The article argues that Nepal's attempts to reform its bureaucracy are insufficient as public problems become more complex and citizens expect quicker, more transparent services. Simply copying existing rulebooks cannot address the systemic issues, and deeper, innovative changes are needed to meet modern governance demands.",
+            "category": "politics",
+            "sentiment": "negative",
+            "importance_score": 6,
+            "published_at": "2026-09-15T05:11:33+00:00",
+            "keywords": [
+                "administrative reforms",
+                "government services",
+                "transparency",
+                "public issues",
+                "policy innovation"
+            ],
+            "file": "articles/2026-09-15-why-fixing-nepals-government-takes-more-than-just-copying-the-rulebook.md"
+        },
+        {
+            "id": 12,
+            "source": "kathmandu-post",
+            "title": "How Nepal can take the global lead on Himalayan climate strategy",
+            "slug": "2026-09-15-how-nepal-can-take-the-global-lead-on-himalayan-climate-strategy",
+            "summary": "The article argues that Nepal can become a global leader in Himalayan climate strategy by adopting predictive monitoring, resilient engineering, and managed retreat rather than relying on compensation schemes. By leveraging its unique mountainous terrain and vulnerable communities, Nepal can showcase innovative approaches that protect ecosystems, safeguard livelihoods, and influence international climate negotiations. The piece highlights the potential for Nepal\u2019s policies to serve as a model for other vulnerable mountain nations, urging collaboration with global bodies such as the UNFCCC and development partners to scale these solutions.",
+            "category": "world",
+            "sentiment": "positive",
+            "importance_score": 8,
+            "published_at": "2026-09-15T05:11:33+00:00",
+            "keywords": [
+                "Himalayan climate strategy",
+                "predictive monitoring",
+                "resilient engineering",
+                "managed retreat",
+                "mountainous nations",
+                "global climate policy"
+            ],
+            "file": "articles/2026-09-15-how-nepal-can-take-the-global-lead-on-himalayan-climate-strategy.md"
+        },
+        {
+            "id": 11,
+            "source": "kathmandu-post",
+            "title": "Why the government must be stopped from chaining the central bank governor",
+            "slug": "2026-09-15-why-the-government-must-be-stopped-from-chaining-the-central-bank-governor",
+            "summary": "The article warns that recent amendments to the Nepal Rastra Bank (NRB) Bill could undermine the country's monetary stability and erode the regulatory independence of the central bank. It argues that the government's proposed powers to chain or control the central bank governor threaten the credibility of monetary policy, risk inflationary pressures, and may deter foreign investment. The piece calls for immediate opposition to the bill, emphasizing the need to preserve the central bank\u2019s autonomy to safeguard the economy.",
+            "category": "politics",
+            "sentiment": "negative",
+            "importance_score": 8,
+            "published_at": "2026-09-15T05:11:33+00:00",
+            "keywords": [
+                "NRB Bill",
+                "monetary stability",
+                "regulatory independence",
+                "central bank governor",
+                "government control"
+            ],
+            "file": "articles/2026-09-15-why-the-government-must-be-stopped-from-chaining-the-central-bank-governor.md"
+        },
+        {
+            "id": 10,
+            "source": "kathmandu-post",
+            "title": "Private sector bears bulk of Bhotekoshi flood losses",
+            "slug": "2026-09-15-private-sector-bears-bulk-of-bhotekoshi-flood-losses",
+            "summary": "A preliminary government assessment of the recent Bhotekoshi River flood estimates total damage and economic losses at roughly Rs408\u202fbillion. The disaster affected nearly 4,800 private\u2011sector businesses and 7,570 homes, while also damaging 13 hydropower projects and five solar power plants. The report highlights that the private sector is bearing the majority of the financial burden from the flood.",
+            "category": "business",
+            "sentiment": "negative",
+            "importance_score": 8,
+            "published_at": "2026-09-15T05:11:33+00:00",
+            "keywords": [
+                "Bhotekoshi flood",
+                "private sector losses",
+                "economic damage",
+                "hydropower projects",
+                "solar plants",
+                "Rs408 billion"
+            ],
+            "file": "articles/2026-09-15-private-sector-bears-bulk-of-bhotekoshi-flood-losses.md"
+        },
+        {
+            "id": 9,
+            "source": "kathmandu-post",
+            "title": "The \u201980s are trending. But AI nostalgia comes with a hidden environmental cost",
+            "slug": "2026-09-15-the-80s-are-trending-but-ai-nostalgia-comes-with-a-hidden-environmental-cost",
+            "summary": "A new wave of AI\u2011generated images styled after the 1980s is sweeping social media, but each picture consumes significant computing power, electricity and cooling. Experts warn that the cumulative energy demand of these seemingly innocuous posts adds to AI\u2019s already sizable carbon footprint. The article cites data from major AI image generators such as OpenAI\u2019s DALL\u00b7E, Midjourney and Google\u2019s Imagen, highlighting how the surge in demand for retro\u2011styled visuals could increase emissions unless greener hardware or renewable energy sources are adopted. Environmental groups and technologists call for transparency about the hidden cost and for developers to optimise models for efficiency. While the trend fuels creativity, the piece underscores the need to balance digital culture with climate responsibility.",
+            "category": "technology",
+            "sentiment": "mixed",
+            "importance_score": 6,
+            "published_at": "2026-09-15T05:11:33+00:00",
+            "keywords": [
+                "AI-generated images",
+                "80s aesthetic",
+                "energy consumption",
+                "carbon footprint",
+                "digital art trend",
+                "climate impact"
+            ],
+            "file": "articles/2026-09-15-the-80s-are-trending-but-ai-nostalgia-comes-with-a-hidden-environmental-cost.md"
+        },
+        {
+            "id": 8,
+            "source": "kathmandu-post",
+            "title": "After the floods, Nepal\u2019s survivors face the uncertainty of starting over",
+            "slug": "2026-09-15-after-the-floods-nepals-survivors-face-the-uncertainty-of-starting-over",
+            "summary": "Thousands of displaced people in Nepal are struggling to start over after floods destroyed homes and shelters, with winter approaching.",
+            "category": "health",
+            "sentiment": "negative",
+            "importance_score": 8,
+            "published_at": "2026-09-15T05:11:33+00:00",
+            "keywords": [
+                "floods",
+                "Nepal",
+                "displaced people"
+            ],
+            "file": "articles/2026-09-15-after-the-floods-nepals-survivors-face-the-uncertainty-of-starting-over.md"
+        },
+        {
+            "id": 7,
+            "source": "kathmandu-post",
+            "title": "472 undocumented workers, including Nepalis, detained in Kuala Lumpur raids",
+            "slug": "2026-09-15-472-undocumented-workers-including-nepalis-detained-in-kuala-lumpur-raids",
+            "summary": "472 undocumented workers, including Nepalis, were detained in Kuala Lumpur raids as part of an extended migrant repatriation programme.",
+            "category": "world",
+            "sentiment": "neutral",
+            "importance_score": 6,
+            "published_at": "2026-09-15T05:11:33+00:00",
+            "keywords": [
+                "migrant",
+                "repatriation",
+                "raids"
+            ],
+            "file": "articles/2026-09-15-472-undocumented-workers-including-nepalis-detained-in-kuala-lumpur-raids.md"
+        },
+        {
+            "id": 6,
+            "source": "kathmandu-post",
+            "title": "Foreign stars raise the bar for Nepal\u2019s volleyball league",
+            "slug": "2026-09-15-foreign-stars-raise-the-bar-for-nepals-volleyball-league",
+            "summary": "The Nepal Volleyball League has attracted foreign athletes who dominated individual awards, highlighting a noticeable skill gap between them and local players. Rather than viewing this as a disadvantage, coaches and players see the presence of overseas talent as a catalyst for professionalising the sport in Nepal, offering local athletes exposure to higher standards and encouraging the development of training infrastructure.",
+            "category": "sports",
+            "sentiment": "positive",
+            "importance_score": 6,
+            "published_at": "2026-09-15T05:11:33+00:00",
+            "keywords": [
+                "volleyball",
+                "foreign players",
+                "skill gap",
+                "professionalisation",
+                "sports development",
+                "national game"
+            ],
+            "file": "articles/2026-09-15-foreign-stars-raise-the-bar-for-nepals-volleyball-league.md"
+        },
+        {
+            "id": 5,
+            "source": "kathmandu-post",
+            "title": "Houthis strike Saudi targets anew as talks over Strait of Hormuz stall",
+            "slug": "2026-09-15-houthis-strike-saudi-targets-anew-as-talks-over-strait-of-hormuz-stall",
+            "summary": "The Houthi movement resumed attacks on Saudi Arabian targets while negotiations to reopen the Strait of Hormuz have stalled, heightening concerns that the ongoing Middle East conflict could further threaten global oil supplies.",
+            "category": "world",
+            "sentiment": "negative",
+            "importance_score": 8,
+            "published_at": "2026-09-15T05:11:33+00:00",
+            "keywords": [
+                "Houthi",
+                "Saudi Arabia",
+                "Strait of Hormuz",
+                "oil supplies",
+                "Middle East conflict"
+            ],
+            "file": "articles/2026-09-15-houthis-strike-saudi-targets-anew-as-talks-over-strait-of-hormuz-stall.md"
+        },
+        {
+            "id": 4,
+            "source": "kathmandu-post",
+            "title": "\u2018Last Man In Tower\u2019: Ben Rekhi\u2019s film dilutes its source material\u2019s amused cynicism",
+            "slug": "2026-09-15-last-man-in-tower-ben-rekhis-film-dilutes-its-source-materials-amused-cynicism",
+            "summary": "The Kathmandu Post reviews Ben Rekhi\u2019s film adaptation of Aravind Adiga\u2019s novel \u201cLast Man In Tower.\u201d While the movie is technically competent, the reviewer argues it loses the novel\u2019s sharp, amused cynicism, resulting in a passable but ultimately unsatisfying experience, especially toward the ending.",
+            "category": "culture",
+            "sentiment": "mixed",
+            "importance_score": 4,
+            "published_at": "2026-09-15T05:11:33+00:00",
+            "keywords": [
+                "film adaptation",
+                "Ben Rekhi",
+                "Aravind Adiga",
+                "Last Man In Tower",
+                "cynicism",
+                "movie review",
+                "novel"
+            ],
+            "file": "articles/2026-09-15-last-man-in-tower-ben-rekhis-film-dilutes-its-source-materials-amused-cynicism.md"
+        },
+        {
+            "id": 3,
+            "source": "kathmandu-post",
+            "title": "Government rolls out sweeping capital market reform plan",
+            "slug": "2026-09-15-government-rolls-out-sweeping-capital-market-reform-plan",
+            "summary": "The Nepalese government has unveiled a comprehensive 21-point reform package for the capital market. The plan aims to simplify IPO regulations, restructure the Nepal Stock Exchange (NEPSE), broaden the scope of bond and margin trading, and reduce capital gains tax. These measures are intended to attract more investment, improve market liquidity, and modernize the country's financial infrastructure.",
+            "category": "business",
+            "sentiment": "positive",
+            "importance_score": 8,
+            "published_at": "2026-09-15T05:11:33+00:00",
+            "keywords": [
+                "capital market reform",
+                "IPO rules",
+                "bond trading",
+                "margin trading",
+                "capital gains tax",
+                "NEPSE"
+            ],
+            "file": "articles/2026-09-15-government-rolls-out-sweeping-capital-market-reform-plan.md"
+        },
+        {
+            "id": 2,
+            "source": "kathmandu-post",
+            "title": "Weeks after the Nepal flood disaster, families of the missing hold out hope",
+            "slug": "2026-09-15-weeks-after-the-nepal-flood-disaster-families-of-the-missing-hold-out-hope",
+            "summary": "Weeks after the devastating floods that struck Nepal, more than 5,130 people remain missing, with hundreds also unaccounted for in neighboring China. Families are tirelessly searching hospitals, contacting authorities, and monitoring online platforms for any sign that their loved ones survived. The article highlights the ongoing anguish, the community's resilience, and the challenges faced by relief agencies as they try to locate and identify the missing amid the lingering aftermath of the disaster.",
+            "category": "world",
+            "sentiment": "mixed",
+            "importance_score": 8,
+            "published_at": "2026-09-15T05:11:33+00:00",
+            "keywords": [
+                "flood disaster",
+                "missing persons",
+                "families",
+                "humanitarian crisis",
+                "search and rescue",
+                "Nepal floods"
+            ],
+            "file": "articles/2026-09-15-weeks-after-the-nepal-flood-disaster-families-of-the-missing-hold-out-hope.md"
+        },
+        {
+            "id": 1,
+            "source": "kathmandu-post",
+            "title": "Footbridges rise again from flood wreckage",
+            "slug": "2026-09-15-footbridges-rise-again-from-flood-wreckage",
+            "summary": "Repairs and reconstruction have begun on 53 footbridges that were damaged by the August 26 flood along Nepal's Trishuli corridor. The work aims to restore essential connections for local communities, enabling access to markets, schools, health services, and employment opportunities.",
+            "category": "world",
+            "sentiment": "positive",
+            "importance_score": 7,
+            "published_at": "2026-09-15T05:11:33+00:00",
+            "keywords": [
+                "footbridges",
+                "flood",
+                "Trishuli corridor",
+                "reconstruction",
+                "markets",
+                "schools",
+                "health services"
+            ],
+            "file": "articles/2026-09-15-footbridges-rise-again-from-flood-wreckage.md"
         }
     ],
     "count": 25,
-    "last_updated": "2026-09-14T05:22:31+00:00"
+    "last_updated": "2026-09-15T05:13:17+00:00"
 }
