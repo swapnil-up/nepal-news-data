@@ -3,434 +3,13 @@
         {
             "id": 25,
             "source": "kathmandu-post",
-            "title": "Why did the Supreme Court block the \u2018easier\u2019 route to constitutional amendment?",
-            "slug": "2026-09-18-why-did-the-supreme-court-block-the-easier-route-to-constitutional-amendment",
-            "summary": "The Supreme Court of Nepal issued an order suspending two provisions of the House of Representatives' rules that would have created a faster pathway for amending the constitution. The court halted the \u2018easier\u2019 route after raising five key constitutional questions concerning procedural legitimacy, separation of powers, the scope of parliamentary authority, the protection of fundamental rights, and the potential for political instability. Legal experts and lawmakers are debating the implications of the ruling, which underscores the judiciary\u2019s role in safeguarding constitutional integrity while highlighting tensions between the legislative agenda and judicial oversight.",
-            "category": "politics",
-            "sentiment": "neutral",
-            "importance_score": 9,
-            "published_at": "2026-09-18T05:05:29+00:00",
-            "keywords": [
-                "constitutional amendment",
-                "Supreme Court",
-                "House rules",
-                "judicial review",
-                "parliamentary procedure",
-                "Nepal politics"
-            ],
-            "file": "articles/2026-09-18-why-did-the-supreme-court-block-the-easier-route-to-constitutional-amendment.md"
-        },
-        {
-            "id": 24,
-            "source": "kathmandu-post",
-            "title": "Australia cracks down on student and backpacker visas to curb migration",
-            "slug": "2026-09-18-australia-cracks-down-on-student-and-backpacker-visas-to-curb-migration",
-            "summary": "The Australian government announced stricter rules for international student and backpacker visas as part of a broader effort to lower net migration. The policy aims to reduce annual net migration from roughly 300,000 to 225,000 by 2028, tightening eligibility and stay conditions for these visa categories.",
-            "category": "politics",
-            "sentiment": "neutral",
-            "importance_score": 6,
-            "published_at": "2026-09-18T05:05:29+00:00",
-            "keywords": [
-                "student visas",
-                "backpacker visas",
-                "migration policy",
-                "Australia",
-                "net migration target",
-                "2028"
-            ],
-            "file": "articles/2026-09-18-australia-cracks-down-on-student-and-backpacker-visas-to-curb-migration.md"
-        },
-        {
-            "id": 23,
-            "source": "kathmandu-post",
-            "title": "Foreign secretary says Nepal will press climate justice case at UN",
-            "slug": "2026-09-18-foreign-secretary-says-nepal-will-press-climate-justice-case-at-un",
-            "summary": "Foreign Secretary Amrit Bahadur Rai announced that Nepal will advance a climate\u2011justice case at the United Nations, seeking loss\u2011and\u2011damage funding and enhanced adaptation support for the Himalayas. He called for greater international attention to the region\u2019s vulnerability and urged the UN and donor nations to address the climate impacts threatening Nepal\u2019s ecosystems and communities.",
-            "category": "politics",
-            "sentiment": "neutral",
-            "importance_score": 7,
-            "published_at": "2026-09-18T05:05:29+00:00",
-            "keywords": [
-                "climate justice",
-                "loss and damage",
-                "adaptation support",
-                "UN",
-                "Himalayas",
-                "Nepal"
-            ],
-            "file": "articles/2026-09-18-foreign-secretary-says-nepal-will-press-climate-justice-case-at-un.md"
-        },
-        {
-            "id": 22,
-            "source": "kathmandu-post",
-            "title": "Nepal Electricity Authority offers relief to families of flood-missing workers",
-            "slug": "2026-09-18-nepal-electricity-authority-offers-relief-to-families-of-flood-missing-workers",
-            "summary": "The Nepal Electricity Authority (NEA) announced financial assistance for families of employees who went missing during recent floods. A one-time payment of Rs 50,000 will be given to families of missing workers, while relatives of permanent staff will receive half of the employee's starting salary for up to six months. The relief aims to support affected households while the NEA assesses the broader impact of the disaster on its workforce.",
-            "category": "politics",
-            "sentiment": "mixed",
-            "importance_score": 7,
-            "published_at": "2026-09-18T05:05:29+00:00",
-            "keywords": [
-                "flood",
-                "relief",
-                "families",
-                "missing workers",
-                "compensation",
-                "disaster response",
-                "public utility"
-            ],
-            "file": "articles/2026-09-18-nepal-electricity-authority-offers-relief-to-families-of-flood-missing-workers.md"
-        },
-        {
-            "id": 21,
-            "source": "kathmandu-post",
-            "title": "India warns new US tariffs over Russian oil could hit ties, vows to protect energy security",
-            "slug": "2026-09-18-india-warns-new-us-tariffs-over-russian-oil-could-hit-ties-vows-to-protect-energy-security",
-            "summary": "India warned that new U.S. tariffs on Russian oil could strain bilateral ties and pledged to safeguard its energy security. The warning may complicate ongoing trade negotiations with Washington, as Indian refiners seek relief to manage existing Russian oil purchases.",
-            "category": "business",
-            "sentiment": "negative",
-            "importance_score": 8,
-            "published_at": "2026-09-18T05:05:29+00:00",
-            "keywords": [
-                "US tariffs",
-                "Russian oil",
-                "India",
-                "energy security",
-                "trade negotiations"
-            ],
-            "file": "articles/2026-09-18-india-warns-new-us-tariffs-over-russian-oil-could-hit-ties-vows-to-protect-energy-security.md"
-        },
-        {
-            "id": 20,
-            "source": "kathmandu-post",
-            "title": "Agriculture exports from Karnali top Rs3.64 billion, but livestock imports drain Rs951 million",
-            "slug": "2026-09-18-agriculture-exports-from-karnali-top-rs364-billion-but-livestock-imports-drain-rs951-million",
-            "summary": "Karnali Province recorded agricultural exports worth Rs3.64\u202fbillion, shipping 77,495\u202ftonnes of crops and other farm produce. Despite this export growth, the province continued to import livestock products, spending Rs951\u202fmillion, indicating that local livestock production remains insufficient to meet demand. The disparity highlights both the province's strength in crop trade and ongoing challenges in the livestock sector.",
-            "category": "business",
-            "sentiment": "mixed",
-            "importance_score": 7,
-            "published_at": "2026-09-18T05:05:29+00:00",
-            "keywords": [
-                "agriculture exports",
-                "livestock imports",
-                "Karnali",
-                "trade balance",
-                "Rs3.64 billion",
-                "Rs951 million"
-            ],
-            "file": "articles/2026-09-18-agriculture-exports-from-karnali-top-rs364-billion-but-livestock-imports-drain-rs951-million.md"
-        },
-        {
-            "id": 19,
-            "source": "kathmandu-post",
-            "title": "Federal affairs ministry tops list of ministries with most corruption complaints",
-            "slug": "2026-09-18-federal-affairs-ministry-tops-list-of-ministries-with-most-corruption-complaints",
-            "summary": "The Federal Affairs Ministry has emerged as the top recipient of corruption complaints in Nepal, with over 3,000 cases filed with the anti\u2011graft agency during the last fiscal year. The surge highlights growing concerns over governance and accountability within the ministry and its regional offices, prompting calls for stricter oversight and reforms.",
-            "category": "politics",
-            "sentiment": "negative",
-            "importance_score": 8,
-            "published_at": "2026-09-18T05:05:29+00:00",
-            "keywords": [
-                "corruption complaints",
-                "Federal Affairs Ministry",
-                "anti\u2011graft agency",
-                "governance",
-                "accountability",
-                "Nepal"
-            ],
-            "file": "articles/2026-09-18-federal-affairs-ministry-tops-list-of-ministries-with-most-corruption-complaints.md"
-        },
-        {
-            "id": 18,
-            "source": "kathmandu-post",
-            "title": "Bridges gone, roads damaged, villages cut off from relief",
-            "slug": "2026-09-18-bridges-gone-roads-damaged-villages-cut-off-from-relief",
-            "summary": "Severe damage to bridges and roads in Nepal's Rasuwa and Nuwakot districts has isolated villages, hindering relief efforts. Helicopters and temporary crossings are currently being used to deliver food and essential supplies to the cut\u2011off communities. Officials emphasize that restoring the damaged infrastructure must be an immediate priority to ensure long\u2011term access and recovery.",
-            "category": "world",
-            "sentiment": "mixed",
-            "importance_score": 8,
-            "published_at": "2026-09-18T05:05:29+00:00",
-            "keywords": [
-                "bridges",
-                "roads",
-                "relief",
-                "helicopters",
-                "temporary crossings",
-                "Rasuwa",
-                "Nuwakot",
-                "disaster"
-            ],
-            "file": "articles/2026-09-18-bridges-gone-roads-damaged-villages-cut-off-from-relief.md"
-        },
-        {
-            "id": 17,
-            "source": "kathmandu-post",
-            "title": "Nepal lost a para taekwondo star. Australia just won gold",
-            "slug": "2026-09-18-nepal-lost-a-para-taekwondo-star-australia-just-won-gold",
-            "summary": "Former Nepali para\u2011taekwondo world champion Shrijana Ghising has obtained Australian citizenship ahead of the 2028 Los Angeles Paralympics and has already secured a gold medal for Australia. Her switch highlights a growing trend of Nepali athletes seeking better support abroad, prompting coaches in Nepal to warn that she may not be the last to leave. While Australia celebrates her success, Nepal mourns the loss of a top talent and faces concerns over retaining elite sportspeople.",
-            "category": "sports",
-            "sentiment": "mixed",
-            "importance_score": 6,
-            "published_at": "2026-09-18T05:05:29+00:00",
-            "keywords": [
-                "para taekwondo",
-                "Shrijana Ghising",
-                "Australian citizenship",
-                "LA28",
-                "athlete migration",
-                "Nepal sports"
-            ],
-            "file": "articles/2026-09-18-nepal-lost-a-para-taekwondo-star-australia-just-won-gold.md"
-        },
-        {
-            "id": 16,
-            "source": "kathmandu-post",
-            "title": "Tatopani reopening unlikely before festive season. Traders urge Beijing talks",
-            "slug": "2026-09-18-tatopani-reopening-unlikely-before-festive-season-traders-urge-beijing-talks",
-            "summary": "The Tatopani border crossing with China is unlikely to reopen before Nepal's Dashain festival, causing traders to press the government for talks with Beijing. With two northern crossings disrupted, cargo is being rerouted through the Korala pass, where high transport costs and inadequate infrastructure are further delaying shipments. The situation threatens supply chains ahead of the major festive season.",
-            "category": "business",
-            "sentiment": "negative",
-            "importance_score": 7,
-            "published_at": "2026-09-18T05:05:29+00:00",
-            "keywords": [
-                "Tatopani crossing",
-                "Korala route",
-                "trade delays",
-                "Dashain festival",
-                "Beijing talks",
-                "Nepal-China border"
-            ],
-            "file": "articles/2026-09-18-tatopani-reopening-unlikely-before-festive-season-traders-urge-beijing-talks.md"
-        },
-        {
-            "id": 15,
-            "source": "kathmandu-post",
-            "title": "Nepal\u2019s next big MMA star Yuki is fighting in China\u2019s JCK on Saturday",
-            "slug": "2026-09-18-nepals-next-big-mma-star-yuki-is-fighting-in-chinas-jck-on-saturday",
-            "summary": "Nepalese mixed martial artist Angdembe, known as \u2018The Gurkha\u2019 and popularly called Yuki, will compete in a high\u2011stakes bantamweight bout against Chinese fighter Buhuogubu at the JCK\u2011123 event in L\u00fcliang, Shanxi, China on Saturday.",
-            "category": "sports",
-            "sentiment": "neutral",
-            "importance_score": 6,
-            "published_at": "2026-09-18T05:05:29+00:00",
-            "keywords": [
-                "MMA",
-                "Yuki",
-                "The Gurkha",
-                "JCK",
-                "bantamweight",
-                "China",
-                "Nepal"
-            ],
-            "file": "articles/2026-09-18-nepals-next-big-mma-star-yuki-is-fighting-in-chinas-jck-on-saturday.md"
-        },
-        {
-            "id": 14,
-            "source": "kathmandu-post",
-            "title": "Government\u2019s \u2018ego\u2019 holding football hostage, ANFA says as crisis deepens",
-            "slug": "2026-09-18-governments-ego-holding-football-hostage-anfa-says-as-crisis-deepens",
-            "summary": "The All Nepal Football Association (ANFA) has accused Nepal's sports ministry and the National Sports Council (NSC) of letting personal ego impede the sport, warning that the crisis is worsening as the Men\u2019s SAFF Championship deadline of September 30 approaches. ANFA says the football federation is burdened with over Rs100\u202fmillion in debt, and government inaction threatens the country's participation in the regional tournament. The dispute highlights tensions between football administrators and government bodies over funding and management.",
-            "category": "sports",
-            "sentiment": "negative",
-            "importance_score": 7,
-            "published_at": "2026-09-18T05:05:29+00:00",
-            "keywords": [
-                "football",
-                "ANFA",
-                "sports ministry",
-                "NSC",
-                "SAFF Championship",
-                "debt",
-                "government ego"
-            ],
-            "file": "articles/2026-09-18-governments-ego-holding-football-hostage-anfa-says-as-crisis-deepens.md"
-        },
-        {
-            "id": 13,
-            "source": "kathmandu-post",
-            "title": "Answer the mountain\u2019s call",
-            "slug": "2026-09-18-answer-the-mountains-call",
-            "summary": "Nepal government needs to respond to disasters with greater accountability and leadership.",
-            "category": "politics",
-            "sentiment": "neutral",
-            "importance_score": 6,
-            "published_at": "2026-09-18T05:05:29+00:00",
-            "keywords": [
-                "Nepal",
-                "government",
-                "disasters"
-            ],
-            "file": "articles/2026-09-18-answer-the-mountains-call.md"
-        },
-        {
-            "id": 12,
-            "source": "kathmandu-post",
-            "title": "Why Nepal\u2019s youth-led government inherited the toughest job in Asia",
-            "slug": "2026-09-18-why-nepals-youth-led-government-inherited-the-toughest-job-in-asia",
-            "summary": "Nepal\u2019s newly formed youth\u2011led government has inherited what analysts call the toughest portfolio in Asia. Sandwiched between nuclear powers India and China, the administration must navigate delicate diplomatic balances while confronting severe domestic challenges. Rapid glacier melt and other climate impacts threaten water supplies, agriculture, and tourism, demanding urgent adaptation policies. Economic recovery, infrastructure rebuilding after recent earthquakes, and rising unemployment add to the pressure on the inexperienced leaders. The article argues that the government's survival will hinge on its ability to manage external geopolitical tensions and internal climate\u2011driven crises simultaneously.",
-            "category": "politics",
-            "sentiment": "negative",
-            "importance_score": 9,
-            "published_at": "2026-09-18T05:05:29+00:00",
-            "keywords": [
-                "Nepal",
-                "youth\u2011led government",
-                "nuclear giants",
-                "melting glaciers",
-                "climate change",
-                "geopolitics"
-            ],
-            "file": "articles/2026-09-18-why-nepals-youth-led-government-inherited-the-toughest-job-in-asia.md"
-        },
-        {
-            "id": 11,
-            "source": "kathmandu-post",
-            "title": "Why the RSP must heed the Supreme Court\u2019s interim order",
-            "slug": "2026-09-18-why-the-rsp-must-heed-the-supreme-courts-interim-order",
-            "summary": "The ruling Rastriya Swatantra Party (RSP) is urged to comply with the Supreme Court's interim order, avoid political overreach, learn from past mistakes, and respect judicial authority.",
-            "category": "politics",
-            "sentiment": "neutral",
-            "importance_score": 7,
-            "published_at": "2026-09-18T05:05:29+00:00",
-            "keywords": [
-                "RSP",
-                "Supreme Court",
-                "interim order",
-                "political overreach",
-                "judiciary"
-            ],
-            "file": "articles/2026-09-18-why-the-rsp-must-heed-the-supreme-courts-interim-order.md"
-        },
-        {
-            "id": 10,
-            "source": "kathmandu-post",
-            "title": "JE is killing more adults in Nepal as vaccination only covers children",
-            "slug": "2026-09-18-je-is-killing-more-adults-in-nepal-as-vaccination-only-covers-children",
-            "summary": "Japanese Encephalitis (JE) is increasingly causing deaths among adults in Nepal, as the current immunisation program only targets children. Health experts warn that people over 30 are now at higher risk and face a high fatality rate if unvaccinated. They are urging the government to expand the JE vaccination programme to include adults, especially those above 30, to curb the rising mortality.",
-            "category": "health",
-            "sentiment": "negative",
-            "importance_score": 8,
-            "published_at": "2026-09-18T05:05:29+00:00",
-            "keywords": [
-                "Japanese Encephalitis",
-                "adult mortality",
-                "vaccination",
-                "immunisation",
-                "age group",
-                "Nepal"
-            ],
-            "file": "articles/2026-09-18-je-is-killing-more-adults-in-nepal-as-vaccination-only-covers-children.md"
-        },
-        {
-            "id": 9,
-            "source": "kathmandu-post",
-            "title": "Bhotekoshi floods disrupt schooling for 14,500 children in three districts",
-            "slug": "2026-09-18-bhotekoshi-floods-disrupt-schooling-for-14500-children-in-three-districts",
-            "summary": "Heavy rains caused the Bhotekoshi River to flood, inundating villages in three Nepalese districts and forcing schools to serve as emergency shelters. As a result, schooling for about 14,500 children has been disrupted, with more than 9,400 students directly affected by the disaster. The use of school buildings for temporary housing has delayed the resumption of classes for thousands of learners, highlighting the broader impact of the floods on education and community recovery efforts.",
-            "category": "world",
-            "sentiment": "negative",
-            "importance_score": 7,
-            "published_at": "2026-09-18T05:05:29+00:00",
-            "keywords": [
-                "floods",
-                "Bhotekoshi",
-                "school disruption",
-                "children",
-                "shelters",
-                "Nepal"
-            ],
-            "file": "articles/2026-09-18-bhotekoshi-floods-disrupt-schooling-for-14500-children-in-three-districts.md"
-        },
-        {
-            "id": 8,
-            "source": "kathmandu-post",
-            "title": "Exhibit review: When thoughts, memories and emotions step out of the mind",
-            "slug": "2026-09-18-exhibit-review-when-thoughts-memories-and-emotions-step-out-of-the-mind",
-            "summary": "The exhibition showcases works by fifteen artists who translate their inner thoughts, memories, and emotions into tangible pieces. The diverse installations explore personal struggles, recollections, and broader themes such as politics, power dynamics, and aspirations for a better future. By turning intangible mental experiences into visual forms, the show invites viewers to reflect on their own inner worlds and the societal forces that shape them.",
-            "category": "culture",
-            "sentiment": "positive",
-            "importance_score": 4,
-            "published_at": "2026-09-18T05:05:29+00:00",
-            "keywords": [
-                "art exhibition",
-                "inner world",
-                "memory",
-                "politics",
-                "emotions",
-                "future",
-                "artists"
-            ],
-            "file": "articles/2026-09-18-exhibit-review-when-thoughts-memories-and-emotions-step-out-of-the-mind.md"
-        },
-        {
-            "id": 7,
-            "source": "kathmandu-post",
-            "title": "More complaints, fewer wins for CIAA in corruption cases",
-            "slug": "2026-09-18-more-complaints-fewer-wins-for-ciaa-in-corruption-cases",
-            "summary": "The anti-graft agency CIAA received over 40,500 complaints in the last fiscal year, but its conviction rate at the Special Court dropped to 51.92%, indicating fewer successful prosecutions despite more complaints.",
-            "category": "politics",
-            "sentiment": "negative",
-            "importance_score": 6,
-            "published_at": "2026-09-18T05:05:29+00:00",
-            "keywords": [
-                "CIAA",
-                "corruption",
-                "complaints",
-                "conviction rate",
-                "Special Court"
-            ],
-            "file": "articles/2026-09-18-more-complaints-fewer-wins-for-ciaa-in-corruption-cases.md"
-        },
-        {
-            "id": 6,
-            "source": "kathmandu-post",
-            "title": "Wagle seeks India\u2019s support for post-flood reconstruction",
-            "slug": "2026-09-18-wagle-seeks-indias-support-for-post-flood-reconstruction",
-            "summary": "During his inaugural overseas trip as Nepal's finance minister, Wagle met with Indian Finance Minister Nirmala Sitharaman to request assistance for rebuilding infrastructure devastated by the Bhotekoshi floods. The discussions also covered enhancing trade, attracting investment, and improving connectivity between the two nations. Wagle emphasized the urgency of post\u2011flood reconstruction and sought India's technical and financial support to accelerate recovery efforts.",
-            "category": "politics",
-            "sentiment": "positive",
-            "importance_score": 8,
-            "published_at": "2026-09-18T05:05:29+00:00",
-            "keywords": [
-                "flood reconstruction",
-                "India support",
-                "trade",
-                "investment",
-                "connectivity",
-                "Bhotekoshi floods"
-            ],
-            "file": "articles/2026-09-18-wagle-seeks-indias-support-for-post-flood-reconstruction.md"
-        },
-        {
-            "id": 5,
-            "source": "kathmandu-post",
-            "title": "How Deuba lost his own inner circle to Thapa",
-            "slug": "2026-09-18-how-deuba-lost-his-own-inner-circle-to-thapa",
-            "summary": "Senior leader Purna Bahadur Khadka opted for dialogue instead of a party split, prompting dozens of Prime Minister Deuba\u2019s loyalists to shift to Sanepa for the upcoming general convention. The move has effectively stripped Deuba of his inner circle, with many aligning behind Thapa, signaling a significant realignment within the party ahead of the convention.",
-            "category": "politics",
-            "sentiment": "negative",
-            "importance_score": 7,
-            "published_at": "2026-09-18T05:05:29+00:00",
-            "keywords": [
-                "Deuba",
-                "Purna Bahadur Khadka",
-                "Thapa",
-                "party split",
-                "dialogue",
-                "Sanepa",
-                "general convention"
-            ],
-            "file": "articles/2026-09-18-how-deuba-lost-his-own-inner-circle-to-thapa.md"
-        },
-        {
-            "id": 4,
-            "source": "kathmandu-post",
             "title": "China presses Iran to help rein in Houthis after Saudi appeal",
-            "slug": "2026-09-18-china-presses-iran-to-help-rein-in-houthis-after-saudi-appeal",
-            "summary": "China is urging Iran to assist in restraining Houthi attacks in the Red Sea after Saudi Arabia appealed for help, as the assaults threaten key shipping lanes and oil routes vital to China's economic interests.",
+            "slug": "2026-09-19-china-presses-iran-to-help-rein-in-houthis-after-saudi-appeal",
+            "summary": "Beijing has asked Tehran to intervene with the Houthi rebels in the Red Sea after Saudi Arabia appealed for help. China\u2019s request aims to curb the Houthi attacks that are disrupting key shipping lanes and oil routes, which threaten Chinese economic interests in the region. The move reflects China\u2019s growing diplomatic engagement in Middle\u2011East security issues and its reliance on stable maritime trade routes for energy imports.",
             "category": "world",
             "sentiment": "neutral",
             "importance_score": 8,
-            "published_at": "2026-09-18T05:05:29+00:00",
+            "published_at": "2026-09-19T04:55:26+00:00",
             "keywords": [
                 "China",
                 "Iran",
@@ -440,71 +19,489 @@
                 "shipping",
                 "oil routes"
             ],
-            "file": "articles/2026-09-18-china-presses-iran-to-help-rein-in-houthis-after-saudi-appeal.md"
+            "file": "articles/2026-09-19-china-presses-iran-to-help-rein-in-houthis-after-saudi-appeal.md"
         },
         {
-            "id": 3,
+            "id": 24,
             "source": "kathmandu-post",
             "title": "Wagle set for high-level talks in New Delhi",
-            "slug": "2026-09-18-wagle-set-for-high-level-talks-in-new-delhi",
-            "summary": "Nepal's Finance Minister Wagle is on a three\u2011day visit to India. On the second day in New Delhi, he will hold high\u2011level talks with the Indian Foreign Minister to discuss bilateral relations and issues of mutual interest, including economic cooperation, trade, and regional security.",
+            "slug": "2026-09-19-wagle-set-for-high-level-talks-in-new-delhi",
+            "summary": "Nepal's finance minister, Wagle, is scheduled to hold high\u2011level talks in New Delhi on the second day of his three\u2011day visit. He will meet with India's foreign minister to discuss bilateral relations and issues of mutual interest, aiming to strengthen economic and diplomatic ties between the two neighboring countries.",
             "category": "politics",
             "sentiment": "neutral",
-            "importance_score": 6,
-            "published_at": "2026-09-18T05:05:29+00:00",
+            "importance_score": 7,
+            "published_at": "2026-09-19T04:55:26+00:00",
             "keywords": [
-                "high-level talks",
-                "bilateral relations",
-                "Finance Minister",
-                "India-Nepal",
+                "Wagle",
                 "New Delhi",
-                "economic cooperation"
+                "bilateral talks",
+                "finance minister",
+                "India",
+                "mutual interest"
             ],
-            "file": "articles/2026-09-18-wagle-set-for-high-level-talks-in-new-delhi.md"
+            "file": "articles/2026-09-19-wagle-set-for-high-level-talks-in-new-delhi.md"
         },
         {
-            "id": 2,
+            "id": 23,
             "source": "kathmandu-post",
             "title": "Two teenage girls rescued while being taken to India on false job promise",
-            "slug": "2026-09-18-two-teenage-girls-rescued-while-being-taken-to-india-on-false-job-promise",
-            "summary": "Two 16\u2011year\u2011old girls from Bardiya district were intercepted in Banke district after authorities received a tip about a suspected human\u2011trafficking scheme that intended to move them to India under a false job promise. Police halted the girls at the Suiya border point, rescuing them before they could be taken across the border. The incident highlights ongoing cross\u2011border trafficking concerns and the effectiveness of local tip\u2011offs and law\u2011enforcement coordination.",
+            "slug": "2026-09-19-two-teenage-girls-rescued-while-being-taken-to-india-on-false-job-promise",
+            "summary": "Two 16\u2011year\u2011old girls from Bardiya district were rescued after being intercepted in Banke district. Authorities acted on a tip\u2011off about a suspected human\u2011trafficking operation that intended to move the girls across the Suiya border into India under the pretense of a job opportunity. The prompt police response prevented the illegal crossing and highlighted ongoing cross\u2011border trafficking concerns.",
             "category": "world",
             "sentiment": "mixed",
-            "importance_score": 6,
-            "published_at": "2026-09-18T05:05:29+00:00",
+            "importance_score": 7,
+            "published_at": "2026-09-19T04:55:26+00:00",
             "keywords": [
                 "human trafficking",
                 "teenage girls",
-                "Bardiya",
-                "Banke",
-                "India",
                 "rescue",
-                "Suiya border"
+                "false job promise",
+                "border crossing",
+                "India"
             ],
-            "file": "articles/2026-09-18-two-teenage-girls-rescued-while-being-taken-to-india-on-false-job-promise.md"
+            "file": "articles/2026-09-19-two-teenage-girls-rescued-while-being-taken-to-india-on-false-job-promise.md"
         },
         {
-            "id": 1,
+            "id": 22,
             "source": "kathmandu-post",
             "title": "Jute harvest keeps Sunsari farmers busy",
-            "slug": "2026-09-18-jute-harvest-keeps-sunsari-farmers-busy",
-            "summary": "In Sunsari district, Nepal, the jute harvest is in full swing as farmers dedicate weeks to cutting, retting, stripping and drying the fibre before it reaches market. The article outlines the labor\u2011intensive steps involved and underscores jute\u2019s role as a key cash crop for local agricultural livelihoods.",
+            "slug": "2026-09-19-jute-harvest-keeps-sunsari-farmers-busy",
+            "summary": "Farmers in Sunsari district, Nepal, are occupied with the jute harvest, spending weeks cutting, retting, stripping and drying the fibre before taking it to market. The article outlines the labor\u2011intensive steps involved and highlights the crop\u2019s importance for local livelihoods and the regional economy.",
             "category": "business",
             "sentiment": "neutral",
-            "importance_score": 4,
-            "published_at": "2026-09-18T05:05:29+00:00",
+            "importance_score": 3,
+            "published_at": "2026-09-19T04:55:26+00:00",
             "keywords": [
                 "jute",
                 "harvest",
                 "Sunsari",
                 "farmers",
-                "agriculture",
-                "fibre",
+                "retting",
+                "drying",
                 "market"
             ],
-            "file": "articles/2026-09-18-jute-harvest-keeps-sunsari-farmers-busy.md"
+            "file": "articles/2026-09-19-jute-harvest-keeps-sunsari-farmers-busy.md"
+        },
+        {
+            "id": 21,
+            "source": "kathmandu-post",
+            "title": "Government likely to recommend 13 envoys today",
+            "slug": "2026-09-19-government-likely-to-recommend-13-envoys-today",
+            "summary": "The Nepali cabinet is expected to recommend 13 diplomatic envoys today, filling long\u2011standing vacancies. Key postings include missions in India, China and the United States, among others. The move follows months of delays in appointing ambassadors and aims to strengthen Nepal\u2019s foreign relations.",
+            "category": "politics",
+            "sentiment": "neutral",
+            "importance_score": 6,
+            "published_at": "2026-09-19T04:55:26+00:00",
+            "keywords": [
+                "envoys",
+                "diplomatic appointments",
+                "Nepal",
+                "India",
+                "China",
+                "United States",
+                "cabinet"
+            ],
+            "file": "articles/2026-09-19-government-likely-to-recommend-13-envoys-today.md"
+        },
+        {
+            "id": 20,
+            "source": "kathmandu-post",
+            "title": "If the Constitution were to be amended today, what rule would be used?",
+            "slug": "2026-09-19-if-the-constitution-were-to-be-amended-today-what-rule-would-be-used",
+            "summary": "The Supreme Court has issued an interim order that suspends the operative rule governing how a constitutional amendment can be passed in Nepal. As a result, Parliament is currently unable to move forward with any amendment procedures and remains in a state of procedural limbo. The article discusses the implications of this legal halt and what rule would be applied if an amendment were attempted today.",
+            "category": "politics",
+            "sentiment": "neutral",
+            "importance_score": 8,
+            "published_at": "2026-09-19T04:55:26+00:00",
+            "keywords": [
+                "constitutional amendment",
+                "interim order",
+                "Supreme Court",
+                "Parliament",
+                "procedural limbo",
+                "rule"
+            ],
+            "file": "articles/2026-09-19-if-the-constitution-were-to-be-amended-today-what-rule-would-be-used.md"
+        },
+        {
+            "id": 19,
+            "source": "kathmandu-post",
+            "title": "Six bodies recovered from Upper Trishuli-1 tunnel",
+            "slug": "2026-09-19-six-bodies-recovered-from-upper-trishuli-1-tunnel",
+            "summary": "Rescue teams have recovered six bodies from the Upper Trishuli-1 tunnel, belonging to people who went missing during the devastating Bhotekoshi floods on August 26. The operation continues as authorities search the tunnel for any additional victims, highlighting ongoing relief efforts after the flood disaster in Nepal.",
+            "category": "world",
+            "sentiment": "negative",
+            "importance_score": 7,
+            "published_at": "2026-09-19T04:55:26+00:00",
+            "keywords": [
+                "Upper Trishuli-1 tunnel",
+                "Bhotekoshi floods",
+                "body recovery",
+                "rescue operation",
+                "August 26",
+                "search for victims"
+            ],
+            "file": "articles/2026-09-19-six-bodies-recovered-from-upper-trishuli-1-tunnel.md"
+        },
+        {
+            "id": 18,
+            "source": "kathmandu-post",
+            "title": "Five cross-border clashes headline Gorkha Boxing Championship Season 2",
+            "slug": "2026-09-19-five-cross-border-clashes-headline-gorkha-boxing-championship-season-2",
+            "summary": "The second season of the Gorkha Boxing Championship kicked off in Kathmandu with weigh\u2011ins completed and five Nepal\u2011India match\u2011ups set. The event features a headline bout between Nepalese boxer Poonam Pun and her Indian counterpart, while Milan Sharki promises a knockout in another marquee fight. The cross\u2011border clashes add excitement and highlight the growing rivalry between the two nations in the sport.",
+            "category": "sports",
+            "sentiment": "positive",
+            "importance_score": 6,
+            "published_at": "2026-09-19T04:55:26+00:00",
+            "keywords": [
+                "boxing",
+                "cross-border clashes",
+                "Nepal vs India",
+                "Gorkha Championship",
+                "Poonam Pun",
+                "Milan Sharki",
+                "Kathmandu"
+            ],
+            "file": "articles/2026-09-19-five-cross-border-clashes-headline-gorkha-boxing-championship-season-2.md"
+        },
+        {
+            "id": 17,
+            "source": "kathmandu-post",
+            "title": "Government recommends ambassadors to India, US, China and 10 other countries",
+            "slug": "2026-09-19-government-recommends-ambassadors-to-india-us-china-and-10-other-countries",
+            "summary": "The Nepalese Cabinet has proposed ambassadors to 13 countries, including India, US, and China.",
+            "category": "politics",
+            "sentiment": "neutral",
+            "importance_score": 6,
+            "published_at": "2026-09-19T04:55:26+00:00",
+            "keywords": [
+                "Nepal",
+                "ambassadors",
+                "India",
+                "US",
+                "China"
+            ],
+            "file": "articles/2026-09-19-government-recommends-ambassadors-to-india-us-china-and-10-other-countries.md"
+        },
+        {
+            "id": 16,
+            "source": "kathmandu-post",
+            "title": "PM Shah tells Gen Z lawmakers to offer solutions, not just question government",
+            "slug": "2026-09-19-pm-shah-tells-gen-z-lawmakers-to-offer-solutions-not-just-question-government",
+            "summary": "Prime Minister Shah urged younger members of parliament, particularly Gen Z lawmakers, to move beyond questioning the government and instead propose concrete solutions, emphasizing that their distinct generational perspective is vital for addressing issues affecting their peers.",
+            "category": "politics",
+            "sentiment": "neutral",
+            "importance_score": 6,
+            "published_at": "2026-09-19T04:55:26+00:00",
+            "keywords": [
+                "PM Shah",
+                "Gen Z lawmakers",
+                "Parliament",
+                "solutions",
+                "government",
+                "youth perspective"
+            ],
+            "file": "articles/2026-09-19-pm-shah-tells-gen-z-lawmakers-to-offer-solutions-not-just-question-government.md"
+        },
+        {
+            "id": 15,
+            "source": "kathmandu-post",
+            "title": "24 days after flood, hunger grips three Rasuwa wards",
+            "slug": "2026-09-19-24-days-after-flood-hunger-grips-three-rasuwa-wards",
+            "summary": "Twenty-four days after the Bhotekoshi flood, three wards in Rasuwa district remain isolated as washed\u2011away bridges have cut off villages from aid. Food stocks are rapidly depleting, and residents are experiencing severe hunger. Local authorities and NGOs are struggling to deliver relief because damaged infrastructure hampers access, highlighting the ongoing humanitarian crisis in the region.",
+            "category": "health",
+            "sentiment": "negative",
+            "importance_score": 8,
+            "published_at": "2026-09-19T04:55:26+00:00",
+            "keywords": [
+                "Bhotekoshi flood",
+                "hunger",
+                "Rasuwa wards",
+                "bridge collapse",
+                "relief efforts"
+            ],
+            "file": "articles/2026-09-19-24-days-after-flood-hunger-grips-three-rasuwa-wards.md"
+        },
+        {
+            "id": 14,
+            "source": "kathmandu-post",
+            "title": "The gas shortage is changing what\u2019s on the menu",
+            "slug": "2026-09-19-the-gas-shortage-is-changing-whats-on-the-menu",
+            "summary": "A severe gas shortage in Kathmandu is forcing restaurants to cut menu items that require high gas consumption, such as tandoori roti and fried dishes. Chefs report difficulty maintaining kitchen operations, leading to menu revisions and higher prices for remaining dishes. The scarcity is attributed to supply chain disruptions and rising demand, prompting owners to seek alternative cooking methods or reduce operating hours. The trend highlights broader energy challenges in Nepal\u2019s capital and its impact on the hospitality sector, with potential ripple effects on employment and consumer spending.",
+            "category": "business",
+            "sentiment": "negative",
+            "importance_score": 6,
+            "published_at": "2026-09-19T04:55:26+00:00",
+            "keywords": [
+                "gas shortage",
+                "Kathmandu restaurants",
+                "menu changes",
+                "tandoori roti",
+                "fried dishes",
+                "energy crisis"
+            ],
+            "file": "articles/2026-09-19-the-gas-shortage-is-changing-whats-on-the-menu.md"
+        },
+        {
+            "id": 13,
+            "source": "kathmandu-post",
+            "title": "Russians vote in election that Putin sees as gauge of support for his war",
+            "slug": "2026-09-19-russians-vote-in-election-that-putin-sees-as-gauge-of-support-for-his-war",
+            "summary": "Russia's State Duma election, the first since the full\u2011scale invasion of Ukraine in February 2022, is being framed by President Vladimir Putin as a gauge of public support for the war. Analysts expect the ruling United Russia party, which backs Putin, to retain its dominant position in the tightly controlled political system.",
+            "category": "politics",
+            "sentiment": "neutral",
+            "importance_score": 8,
+            "published_at": "2026-09-19T04:55:26+00:00",
+            "keywords": [
+                "Russia",
+                "State Duma election",
+                "United Russia",
+                "Putin",
+                "Ukraine war",
+                "election"
+            ],
+            "file": "articles/2026-09-19-russians-vote-in-election-that-putin-sees-as-gauge-of-support-for-his-war.md"
+        },
+        {
+            "id": 12,
+            "source": "kathmandu-post",
+            "title": "Nepal youths begin hunger strike at 4,900 metres over glacial lake risks",
+            "slug": "2026-09-19-nepal-youths-begin-hunger-strike-at-4900-metres-over-glacial-lake-risks",
+            "summary": "A group of Nepalese youths have started a hunger strike at the Manaslu base camp, situated at 4,900 metres, to demand systematic monitoring of glacial lakes and concrete measures to mitigate climate\u2011related hazards. The protest highlights growing concerns over the risk of glacial lake outburst floods (GLOFs) in the Himalayas, urging the government and relevant agencies to implement early\u2011warning systems and lake\u2011level controls. The activists aim to draw national and international attention to the urgency of climate adaptation strategies in Nepal\u2019s high\u2011altitude regions.",
+            "category": "world",
+            "sentiment": "negative",
+            "importance_score": 6,
+            "published_at": "2026-09-19T04:55:26+00:00",
+            "keywords": [
+                "hunger strike",
+                "glacial lake",
+                "Manaslu base camp",
+                "climate risk",
+                "youth protest",
+                "GLOF",
+                "Nepal"
+            ],
+            "file": "articles/2026-09-19-nepal-youths-begin-hunger-strike-at-4900-metres-over-glacial-lake-risks.md"
+        },
+        {
+            "id": 11,
+            "source": "kathmandu-post",
+            "title": "The police chief who objects, delays\u2014and ultimately complies",
+            "slug": "2026-09-19-the-police-chief-who-objects-delays-and-ultimately-complies",
+            "summary": "The article examines IGP Dan Bahadur Karki\u2019s attempts to safeguard the Nepal Police\u2019s operational autonomy. While Karki initially objects to political interference and delays implementing controversial directives, he ultimately yields to government pressure. The piece highlights the tension between the police force\u2019s independence and the expectations of the ruling administration, illustrating how Karki\u2019s resistance often ends in reluctant compliance.",
+            "category": "politics",
+            "sentiment": "mixed",
+            "importance_score": 7,
+            "published_at": "2026-09-19T04:55:26+00:00",
+            "keywords": [
+                "police autonomy",
+                "IGP",
+                "political pressure",
+                "compliance",
+                "law enforcement",
+                "Nepal"
+            ],
+            "file": "articles/2026-09-19-the-police-chief-who-objects-delays-and-ultimately-complies.md"
+        },
+        {
+            "id": 10,
+            "source": "kathmandu-post",
+            "title": "Why Constitution Day is still Madhesh\u2019s \u2018Black Day\u2019",
+            "slug": "2026-09-19-why-constitution-day-is-still-madheshs-black-day",
+            "summary": "The 2015 Constitution of Nepal systematically fractured Madheshi political representation and civil service access, making Constitution Day a 'Black Day' for Madhesh.",
+            "category": "politics",
+            "sentiment": "negative",
+            "importance_score": 6,
+            "published_at": "2026-09-19T04:55:26+00:00",
+            "keywords": [
+                "Constitution Day",
+                "Madhesh",
+                "Nepal",
+                "political representation",
+                "civil service"
+            ],
+            "file": "articles/2026-09-19-why-constitution-day-is-still-madheshs-black-day.md"
+        },
+        {
+            "id": 9,
+            "source": "kathmandu-post",
+            "title": "Cabinet selects 13 ambassadors from 4,400 applicants",
+            "slug": "2026-09-19-cabinet-selects-13-ambassadors-from-4400-applicants",
+            "summary": "The Nepalese cabinet announced the appointment of 13 new ambassadors chosen from a pool of 4,400 applicants. The selected candidates include specialists in foreign policy, security, academia, development and other fields, reflecting a merit\u2011based approach to diplomatic postings. The appointments are expected to strengthen Nepal's representation abroad and align with the government's emphasis on professional expertise in its foreign service.",
+            "category": "politics",
+            "sentiment": "neutral",
+            "importance_score": 7,
+            "published_at": "2026-09-19T04:55:26+00:00",
+            "keywords": [
+                "ambassadors",
+                "selection",
+                "applicants",
+                "foreign policy",
+                "Nepal",
+                "diplomacy"
+            ],
+            "file": "articles/2026-09-19-cabinet-selects-13-ambassadors-from-4400-applicants.md"
+        },
+        {
+            "id": 8,
+            "source": "kathmandu-post",
+            "title": "Jumla waits for its young men who left to earn and never returned",
+            "slug": "2026-09-19-jumla-waits-for-its-young-men-who-left-to-earn-and-never-returned",
+            "summary": "Since the Bhotekoshi floods, 49 residents of Patarasi Rural Municipality in Jumla district remain missing, including 15 young men from the village of Lamri who had traveled to Rasuwa for work. Families are still waiting for news, highlighting the ongoing impact of the disaster on remote communities.",
+            "category": "world",
+            "sentiment": "negative",
+            "importance_score": 6,
+            "published_at": "2026-09-19T04:55:26+00:00",
+            "keywords": [
+                "Bhotekoshi floods",
+                "missing persons",
+                "Jumla",
+                "Lamri",
+                "Rasuwa",
+                "young men"
+            ],
+            "file": "articles/2026-09-19-jumla-waits-for-its-young-men-who-left-to-earn-and-never-returned.md"
+        },
+        {
+            "id": 7,
+            "source": "kathmandu-post",
+            "title": "Poor rains, poor harvests drive Sudurpaschim Dalits from their villages",
+            "slug": "2026-09-19-poor-rains-poor-harvests-drive-sudurpaschim-dalits-from-their-villages",
+            "summary": "Severe drought and inadequate rainfall have led to widespread crop failures and landslides in Nepal's Sudurpaschim Province, forcing many Dalit families to abandon their villages and seek work in India and other regions. The out\u2011migration is not only a response to immediate food insecurity but also threatens the preservation of traditional skills, cultural practices, and community cohesion that have long defined these rural settlements.",
+            "category": "politics",
+            "sentiment": "negative",
+            "importance_score": 7,
+            "published_at": "2026-09-19T04:55:26+00:00",
+            "keywords": [
+                "poor rains",
+                "crop failures",
+                "landslides",
+                "Dalit migration",
+                "Sudurpaschim",
+                "tradition erosion"
+            ],
+            "file": "articles/2026-09-19-poor-rains-poor-harvests-drive-sudurpaschim-dalits-from-their-villages.md"
+        },
+        {
+            "id": 6,
+            "source": "kathmandu-post",
+            "title": "Finance Minister Swarnim Wagle takes post-disaster reconstruction, climate justice push to global forums",
+            "slug": "2026-09-19-finance-minister-swarnim-wagle-takes-post-disaster-reconstruction-climate-justice-push-to-global-forums",
+            "summary": "Finance Minister Swarnim Wagle, after discussions in New Delhi, is preparing to advocate Nepal\u2019s post\u2011disaster reconstruction needs and climate vulnerability at upcoming international meetings in Doha and Bangkok, with a possible visit to the United States under consideration. The minister aims to secure financial and technical support, highlight climate justice, and integrate Nepal\u2019s reconstruction agenda into global climate and development platforms.",
+            "category": "politics",
+            "sentiment": "positive",
+            "importance_score": 8,
+            "published_at": "2026-09-19T04:55:26+00:00",
+            "keywords": [
+                "post-disaster reconstruction",
+                "climate justice",
+                "international forums",
+                "financial support",
+                "Swarnim Wagle",
+                "Nepal"
+            ],
+            "file": "articles/2026-09-19-finance-minister-swarnim-wagle-takes-post-disaster-reconstruction-climate-justice-push-to-global-forums.md"
+        },
+        {
+            "id": 5,
+            "source": "kathmandu-post",
+            "title": "Small Nepali contingent has big hopes in 20th Asian Games",
+            "slug": "2026-09-19-small-nepali-contingent-has-big-hopes-in-20th-asian-games",
+            "summary": "Nepal is participating in the 20th Asian Games with a reduced squad of 135 athletes, aiming to win medals in double figures.",
+            "category": "sports",
+            "sentiment": "neutral",
+            "importance_score": 6,
+            "published_at": "2026-09-19T04:55:26+00:00",
+            "keywords": [
+                "Asian Games",
+                "Nepal",
+                "athletes",
+                "medals",
+                "sports"
+            ],
+            "file": "articles/2026-09-19-small-nepali-contingent-has-big-hopes-in-20th-asian-games.md"
+        },
+        {
+            "id": 4,
+            "source": "kathmandu-post",
+            "title": "Sandeep Lamichhane on Nepal\u2019s rise and the road to Test cricket",
+            "slug": "2026-09-19-sandeep-lamichhane-on-nepals-rise-and-the-road-to-test-cricket",
+            "summary": "In an interview, Nepal cricket captain Sandeep Lamichhane reflects on the team\u2019s recent Asia Cup performance, highlighting the growing pool of talent and the strategic steps being taken to secure Test\u2011status. He notes that the squad\u2019s depth has improved, with younger players contributing alongside seasoned stars, and stresses that the next few months are pivotal for building consistency, securing bilateral series, and meeting ICC criteria for full membership. Lamichhane expresses optimism about Nepal\u2019s rise on the international stage and outlines the need for stronger domestic structures and more exposure to high\u2011level competition.",
+            "category": "sports",
+            "sentiment": "positive",
+            "importance_score": 7,
+            "published_at": "2026-09-19T04:55:26+00:00",
+            "keywords": [
+                "Sandeep Lamichhane",
+                "Nepal cricket",
+                "Asia Cup success",
+                "Test cricket ambition",
+                "team depth",
+                "upcoming months"
+            ],
+            "file": "articles/2026-09-19-sandeep-lamichhane-on-nepals-rise-and-the-road-to-test-cricket.md"
+        },
+        {
+            "id": 3,
+            "source": "kathmandu-post",
+            "title": "What\u2019s on in Kathmandu Valley and beyond this week",
+            "slug": "2026-09-19-whats-on-in-kathmandu-valley-and-beyond-this-week",
+            "summary": "The article lists a variety of cultural and social events happening this week in Kathmandu Valley, including movie screenings, art exhibitions, social gatherings, and fundraisers. It serves as a guide for readers interested in attending local activities and supporting community initiatives.",
+            "category": "culture",
+            "sentiment": "neutral",
+            "importance_score": 3,
+            "published_at": "2026-09-19T04:55:26+00:00",
+            "keywords": [
+                "Kathmandu",
+                "events",
+                "movie screenings",
+                "art exhibitions",
+                "fundraisers",
+                "social gatherings"
+            ],
+            "file": "articles/2026-09-19-whats-on-in-kathmandu-valley-and-beyond-this-week.md"
+        },
+        {
+            "id": 2,
+            "source": "kathmandu-post",
+            "title": "Can Nepal protect Yomari?",
+            "slug": "2026-09-19-can-nepal-protect-yomari",
+            "summary": "The article examines why Nepal lacks a legal framework to protect Yomari, the iconic Newari sweet that symbolizes the nation\u2019s intangible cultural heritage. Despite its recognition by UNESCO and its deep roots in Nepali identity, there is no specific legislation granting the state ownership or protection rights over Yomari. Experts argue that a dedicated heritage law, stronger enforcement mechanisms, and community involvement are essential to safeguard the tradition from commercialization and loss. The piece highlights ongoing discussions within the Ministry of Culture, Tourism and Civil Aviation, calls for collaboration with UNESCO, and urges civil society groups to push for policy reforms that would formally recognize and protect Yomari as a national treasure.",
+            "category": "culture",
+            "sentiment": "mixed",
+            "importance_score": 7,
+            "published_at": "2026-09-19T04:55:26+00:00",
+            "keywords": [
+                "Yomari",
+                "intangible cultural heritage",
+                "heritage law",
+                "UNESCO",
+                "Newari tradition",
+                "cultural protection"
+            ],
+            "file": "articles/2026-09-19-can-nepal-protect-yomari.md"
+        },
+        {
+            "id": 1,
+            "source": "kathmandu-post",
+            "title": "Ronaldo, Chitwan\u2019s famed wild elephant, found dead",
+            "slug": "2026-09-19-ronaldo-chitwans-famed-wild-elephant-found-dead",
+            "summary": "Ronaldo, a well-known wild bull elephant in Nepal's Chitwan National Park, was found dead. The animal was a crucial breeding partner for captive female elephants, having sired 38 calves. His death raises concerns among wildlife officials and conservationists about the impact on the local elephant population and breeding programs.",
+            "category": "other",
+            "sentiment": "negative",
+            "importance_score": 6,
+            "published_at": "2026-09-19T04:55:26+00:00",
+            "keywords": [
+                "Ronaldo",
+                "wild elephant",
+                "Chitwan National Park",
+                "breeding partner",
+                "calves",
+                "wildlife conservation"
+            ],
+            "file": "articles/2026-09-19-ronaldo-chitwans-famed-wild-elephant-found-dead.md"
         }
     ],
     "count": 25,
-    "last_updated": "2026-09-18T05:07:12+00:00"
+    "last_updated": "2026-09-19T04:57:18+00:00"
 }
