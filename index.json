@@ -1,506 +1,493 @@
 {
     "articles": [
         {
-            "id": 25,
-            "source": "kathmandu-post",
-            "title": "Can Nepal protect Yomari?",
-            "slug": "2026-09-20-can-nepal-protect-yomari",
-            "summary": "The article examines why Nepal lacks a legal framework to safeguard Yomari, a beloved Newari sweet that symbolizes the nation\u2019s intangible cultural heritage. It outlines the gaps in existing heritage laws, the absence of specific protection for traditional foods, and the challenges of recognizing such items under UNESCO conventions. Experts and community leaders argue that legislation, documentation, and public awareness are needed to prevent commercial exploitation and cultural erosion. The piece calls for coordinated action among the Ministry of Culture, Tourism and Civil Aviation, local cultural bodies, and policymakers to establish protective measures that honor Nepal\u2019s culinary legacy.",
-            "category": "culture",
-            "sentiment": "mixed",
-            "importance_score": 6,
-            "published_at": "2026-09-20T05:16:47+00:00",
-            "keywords": [
-                "Yomari",
-                "cultural heritage",
-                "legal protection",
-                "Nepal",
-                "UNESCO",
-                "intangible heritage",
-                "preservation"
-            ],
-            "file": "articles/2026-09-20-can-nepal-protect-yomari.md"
-        },
-        {
-            "id": 24,
-            "source": "kathmandu-post",
-            "title": "Ronaldo, Chitwan\u2019s famed wild elephant, found dead",
-            "slug": "2026-09-20-ronaldo-chitwans-famed-wild-elephant-found-dead",
-            "summary": "Ronaldo, a celebrated wild bull elephant in Chitwan, Nepal, was found dead. The animal was a crucial breeding partner for captive female elephants, having sired 38 calves. His death raises concerns for local elephant conservation and breeding programs.",
-            "category": "other",
-            "sentiment": "negative",
-            "importance_score": 5,
-            "published_at": "2026-09-20T05:16:47+00:00",
-            "keywords": [
-                "Ronaldo",
-                "wild elephant",
-                "Chitwan",
-                "breeding partner",
-                "elephant conservation",
-                "calves",
-                "death"
-            ],
-            "file": "articles/2026-09-20-ronaldo-chitwans-famed-wild-elephant-found-dead.md"
-        },
-        {
-            "id": 23,
-            "source": "kathmandu-post",
-            "title": "Nepal leaders call for stronger governance, inclusion on Constitution Day",
-            "slug": "2026-09-20-nepal-leaders-call-for-stronger-governance-inclusion-on-constitution-day",
-            "summary": "Nepal's leaders emphasized the importance of stronger governance and inclusion on Constitution Day, stressing social justice and constitutional implementation.",
-            "category": "politics",
-            "sentiment": "neutral",
-            "importance_score": 6,
-            "published_at": "2026-09-20T05:16:47+00:00",
-            "keywords": [
-                "Constitution Day",
-                "Nepal",
-                "governance"
-            ],
-            "file": "articles/2026-09-20-nepal-leaders-call-for-stronger-governance-inclusion-on-constitution-day.md"
-        },
-        {
-            "id": 22,
-            "source": "kathmandu-post",
-            "title": "Women\u2019s struggles, social movements brought together in new book",
-            "slug": "2026-09-20-womens-struggles-social-movements-brought-together-in-new-book",
-            "summary": "The newly released book 'Shared Dreams Woven by Struggle' chronicles the lives of 13 Nepali women leaders who have championed rights, dignity, and social justice. Through personal narratives and historical context, the volume highlights the challenges these women faced and the collective movements that emerged from their struggles, underscoring the ongoing fight for gender equality in Nepal.",
-            "category": "culture",
-            "sentiment": "positive",
-            "importance_score": 7,
-            "published_at": "2026-09-20T05:16:47+00:00",
-            "keywords": [
-                "women leaders",
-                "social justice",
-                "women's rights",
-                "book",
-                "Nepal",
-                "activism"
-            ],
-            "file": "articles/2026-09-20-womens-struggles-social-movements-brought-together-in-new-book.md"
-        },
-        {
-            "id": 21,
-            "source": "kathmandu-post",
-            "title": "Trump says he is banning media outlets CNN, MS NOW, Politico from White House",
-            "slug": "2026-09-20-trump-says-he-is-banning-media-outlets-cnn-ms-now-politico-from-white-house",
-            "summary": "President Donald Trump announced plans to bar several media outlets\u2014including CNN, MSNBC (referred to as MS NOW) and Politico\u2014from White House premises, accusing them of spreading \"fake news.\" The move has sparked fresh concerns over First Amendment rights and press freedom, drawing criticism from journalists and civil\u2011liberties groups.",
-            "category": "politics",
-            "sentiment": "negative",
-            "importance_score": 8,
-            "published_at": "2026-09-20T05:16:47+00:00",
-            "keywords": [
-                "Trump",
-                "media ban",
-                "CNN",
-                "Politico",
-                "First Amendment",
-                "fake news"
-            ],
-            "file": "articles/2026-09-20-trump-says-he-is-banning-media-outlets-cnn-ms-now-politico-from-white-house.md"
-        },
-        {
-            "id": 20,
-            "source": "kathmandu-post",
-            "title": "Nepal begins probe into what triggered Bhotekoshi disaster",
-            "slug": "2026-09-20-nepal-begins-probe-into-what-triggered-bhotekoshi-disaster",
-            "summary": "The Nepalese government has formed a seven\u2011member expert panel to investigate the causes of the Bhotekoshi disaster that occurred on August 26. The panel will examine the event from its origin to downstream impacts, assessing geological, glacial and hydrological hazards and exploring any contribution from climate change. The investigation aims to identify triggers and improve future disaster risk management.",
+            "id": 1,
+            "source": "nepali-times",
+            "title": "How Ghunsa tragedy was turned into triumph",
+            "slug": "2026-09-21-how-ghunsa-tragedy-was-turned-into-triumph",
+            "summary": "Twenty years after a helicopter crash in Ghunsa, Taplejung that claimed the lives of Nepal's leading conservationists, including Dr. Chandra Gurung, the community commemorates the tragedy by highlighting the lasting impact of their work. The memorial event honors their contributions to protecting the Himalaya's biodiversity and showcases how local forest management, community-based conservation projects, and eco\u2011tourism initiatives have flourished, turning a sorrowful loss into a catalyst for environmental stewardship. Officials, NGOs, and residents reflected on the progress made in wildlife protection, sustainable livelihoods, and the establishment of protected areas that were championed by the fallen experts, underscoring a narrative of resilience and hope.",
             "category": "world",
-            "sentiment": "neutral",
-            "importance_score": 7,
-            "published_at": "2026-09-20T05:16:47+00:00",
-            "keywords": [
-                "Bhotekoshi disaster",
-                "expert panel investigation",
-                "geological hazards",
-                "glacial hazards",
-                "hydrological hazards",
-                "climate change"
-            ],
-            "file": "articles/2026-09-20-nepal-begins-probe-into-what-triggered-bhotekoshi-disaster.md"
-        },
-        {
-            "id": 19,
-            "source": "kathmandu-post",
-            "title": "Princess Diana through her brother\u2019s eyes",
-            "slug": "2026-09-20-princess-diana-through-her-brothers-eyes",
-            "summary": "British author Charles Spencer, Princess Diana\u2019s brother, is set to release a new memoir that revisits Diana\u2019s life and legacy ahead of the 30th anniversary of her death. The book promises personal insights, family anecdotes, and reflections on Diana\u2019s impact on the royal family and the public. Spencer aims to portray his sister beyond the media\u2019s portrayal, highlighting her humanitarian work and personal struggles. The memoir arrives at a time when interest in Diana\u2019s story remains strong, offering readers a fresh perspective from someone who knew her intimately.",
-            "category": "culture",
-            "sentiment": "positive",
-            "importance_score": 4,
-            "published_at": "2026-09-20T05:16:47+00:00",
-            "keywords": [
-                "Princess Diana",
-                "Charles Spencer",
-                "memoir",
-                "anniversary",
-                "royal family",
-                "legacy"
-            ],
-            "file": "articles/2026-09-20-princess-diana-through-her-brothers-eyes.md"
-        },
-        {
-            "id": 18,
-            "source": "kathmandu-post",
-            "title": "Defending the constitution, changing it too",
-            "slug": "2026-09-20-defending-the-constitution-changing-it-too",
-            "summary": "On Constitution Day, Nepal marked the adoption of the 2015 charter with official ceremonies and speeches praising its role in ending monarchy and establishing federalism. However, journalists and civil\u2011society leaders highlighted that the same document leaves many groups\u2014particularly Madhesis, Dalits, women and other minorities\u2014still facing exclusion from political representation, land rights and public services. Critics argued that while the constitution enshrines fundamental rights, its implementation mechanisms are weak and the federal boundaries favour dominant groups. The government pledged to address these gaps through amendments and inclusive policies, but opposition parties warned that without genuine power\u2011sharing the promise of a unified, democratic Nepal remains unfulfilled.",
-            "category": "politics",
-            "sentiment": "mixed",
-            "importance_score": 8,
-            "published_at": "2026-09-20T05:16:47+00:00",
-            "keywords": [
-                "Constitution Day",
-                "2015 Constitution",
-                "marginalized groups",
-                "federalism",
-                "inclusion",
-                "political reform"
-            ],
-            "file": "articles/2026-09-20-defending-the-constitution-changing-it-too.md"
-        },
-        {
-            "id": 17,
-            "source": "kathmandu-post",
-            "title": "Mud and steep cliffs hamper efforts to reopen flood-hit roads",
-            "slug": "2026-09-20-mud-and-steep-cliffs-hamper-efforts-to-reopen-flood-hit-roads",
-            "summary": "More than three weeks after the Bhotekoshi River floods, heavy mud and steep cliffs continue to block road repairs in central Nepal. The districts of Rasuwa and Nuwakot remain isolated from each other, and the headquarters of Dhading district still lacks a direct road connection. Authorities are struggling to clear debris and stabilize slopes, delaying the reopening of critical transport links that are essential for relief supplies and local economies.",
-            "category": "politics",
-            "sentiment": "negative",
-            "importance_score": 6,
-            "published_at": "2026-09-20T05:16:47+00:00",
-            "keywords": [
-                "flood",
-                "roads",
-                "mud",
-                "steep cliffs",
-                "Bhotekoshi",
-                "Rasuwa",
-                "Nuwakot",
-                "Dhading"
-            ],
-            "file": "articles/2026-09-20-mud-and-steep-cliffs-hamper-efforts-to-reopen-flood-hit-roads.md"
-        },
-        {
-            "id": 16,
-            "source": "kathmandu-post",
-            "title": "Greenland, Denmark say US deal will not cede sovereignty",
-            "slug": "2026-09-20-greenland-denmark-say-us-deal-will-not-cede-sovereignty",
-            "summary": "Greenland and Denmark have clarified that a recently announced agreement with the United States will not transfer sovereignty over the self\u2011governed Danish territory. Details of the deal, including the extent of U.S. military presence and any potential influence on Greenland's foreign policy or resource management, remain undisclosed.",
-            "category": "world",
-            "sentiment": "neutral",
-            "importance_score": 6,
-            "published_at": "2026-09-20T05:16:47+00:00",
-            "keywords": [
-                "Greenland",
-                "Denmark",
-                "United States",
-                "sovereignty",
-                "military presence",
-                "foreign policy"
-            ],
-            "file": "articles/2026-09-20-greenland-denmark-say-us-deal-will-not-cede-sovereignty.md"
-        },
-        {
-            "id": 15,
-            "source": "kathmandu-post",
-            "title": "Why Constitution Day is still Madhesh\u2019s \u2018Black Day\u2019",
-            "slug": "2026-09-20-why-constitution-day-is-still-madheshs-black-day",
-            "summary": "The 2015 Constitution of Nepal is still seen as a 'Black Day' by the Madheshi people due to policy choices that limited their political representation and access to civil service.",
-            "category": "politics",
-            "sentiment": "negative",
-            "importance_score": 6,
-            "published_at": "2026-09-20T05:16:47+00:00",
-            "keywords": [
-                "Constitution Day",
-                "Madhesh",
-                "Nepal",
-                "political representation",
-                "civil service"
-            ],
-            "file": "articles/2026-09-20-why-constitution-day-is-still-madheshs-black-day.md"
-        },
-        {
-            "id": 14,
-            "source": "kathmandu-post",
-            "title": "Man Kumar and Ram Maya win at Vietnam Mountain Marathon",
-            "slug": "2026-09-20-man-kumar-and-ram-maya-win-at-vietnam-mountain-marathon",
-            "summary": "Man Kumar Roka Magar secured first place in the 100km race and Ram Maya Budha won the 50km category at the Vietnam Mountain Marathon, an event that forms part of the World Trail Majors series, highlighting Nepal's strength in ultra\u2011distance trail running.",
-            "category": "sports",
-            "sentiment": "positive",
-            "importance_score": 5,
-            "published_at": "2026-09-20T05:16:47+00:00",
-            "keywords": [
-                "mountain marathon",
-                "ultra\u2011distance running",
-                "Vietnam",
-                "World Trail Majors",
-                "Man Kumar Roka Magar",
-                "Ram Maya Budha"
-            ],
-            "file": "articles/2026-09-20-man-kumar-and-ram-maya-win-at-vietnam-mountain-marathon.md"
-        },
-        {
-            "id": 13,
-            "source": "kathmandu-post",
-            "title": "Nepali MMA star Yuki Angdembe beats China\u2019s Buhuogubu in JCK-123",
-            "slug": "2026-09-20-nepali-mma-star-yuki-angdembe-beats-chinas-buhuogubu-in-jck-123",
-            "summary": "In the JCK-123 event held in Luliang, Nepali mixed martial arts star Yuki Angdembe secured his ninth professional win by defeating China's Buhuogubu. Angdembe dominated the bout with superior grappling and wrestling control, sweeping all three judges' scorecards.",
-            "category": "sports",
-            "sentiment": "positive",
-            "importance_score": 5,
-            "published_at": "2026-09-20T05:16:47+00:00",
-            "keywords": [
-                "Yuki Angdembe",
-                "Buhuogubu",
-                "JCK-123",
-                "Luliang",
-                "MMA",
-                "grappling",
-                "victory"
-            ],
-            "file": "articles/2026-09-20-nepali-mma-star-yuki-angdembe-beats-chinas-buhuogubu-in-jck-123.md"
-        },
-        {
-            "id": 12,
-            "source": "kathmandu-post",
-            "title": "Wagle to tour US, Doha and Bangkok seeking help after climate-triggered Rasuwa floods",
-            "slug": "2026-09-20-wagle-to-tour-us-doha-and-bangkok-seeking-help-after-climate-triggered-rasuwa-floods",
-            "summary": "Deputy Prime Minister and Finance Minister Janak Raj Wagle will travel to the United States, Doha and Bangkok to solicit international assistance for the recovery from the climate\u2011triggered floods that devastated Rasuwa district. The mission aims to secure financial aid, technical expertise and humanitarian support. Prime Minister Balendra Shah is also set to raise the issue of climate justice at the 81st United Nations General Assembly in New York, urging global cooperation on climate\u2011related disasters affecting Nepal.",
-            "category": "politics",
-            "sentiment": "neutral",
-            "importance_score": 7,
-            "published_at": "2026-09-20T05:16:47+00:00",
-            "keywords": [
-                "climate justice",
-                "Rasuwa floods",
-                "international aid",
-                "UN General Assembly",
-                "Nepal"
-            ],
-            "file": "articles/2026-09-20-wagle-to-tour-us-doha-and-bangkok-seeking-help-after-climate-triggered-rasuwa-floods.md"
-        },
-        {
-            "id": 11,
-            "source": "kathmandu-post",
-            "title": "Fees keep Nepal-Israel farm, care worker deals on hold",
-            "slug": "2026-09-20-fees-keep-nepal-israel-farm-care-worker-deals-on-hold",
-            "summary": "Negotiations on Nepal\u2011Israel agreements to send Nepali farm and care workers to Israel have stalled because of a dispute over recruitment fees. Israeli authorities argue that private recruitment agencies have the legal right to charge workers for placement, while the Nepali government insists that recruitment should be free or at least worker\u2011friendly, warning that high fees exploit migrants. The deadlock threatens to delay the deployment of thousands of Nepali workers seeking higher wages abroad and raises concerns about labor rights, remittances, and bilateral ties.",
-            "category": "politics",
-            "sentiment": "mixed",
-            "importance_score": 7,
-            "published_at": "2026-09-20T05:16:47+00:00",
-            "keywords": [
-                "recruitment fees",
-                "farm workers",
-                "care workers",
-                "labor migration",
-                "Nepal\u2011Israel agreement",
-                "worker exploitation"
-            ],
-            "file": "articles/2026-09-20-fees-keep-nepal-israel-farm-care-worker-deals-on-hold.md"
-        },
-        {
-            "id": 10,
-            "source": "kathmandu-post",
-            "title": "Constitution Day puts Nepal\u2019s constitutional future in focus",
-            "slug": "2026-09-20-constitution-day-puts-nepals-constitutional-future-in-focus",
-            "summary": "On Constitution Day, Nepal's political leaders praised the achievements of the 2015 constitution but diverged on the next steps. The ruling coalition argues that full implementation of existing provisions should be the priority, while opposition parties call for a comprehensive review and possible amendments to address lingering gaps. Debates focus on issues such as federal restructuring, minority rights, and the balance of power between the executive and legislature. The discourse highlights both consensus on the charter's core values and deep divisions over how to adapt it to evolving political realities, underscoring the constitutional future as a central theme in Nepal's governance agenda.",
-            "category": "politics",
-            "sentiment": "mixed",
-            "importance_score": 8,
-            "published_at": "2026-09-20T05:16:47+00:00",
-            "keywords": [
-                "Constitution Day",
-                "Nepal",
-                "constitutional amendment",
-                "implementation",
-                "review",
-                "federal restructuring",
-                "political leadership"
-            ],
-            "file": "articles/2026-09-20-constitution-day-puts-nepals-constitutional-future-in-focus.md"
-        },
-        {
-            "id": 9,
-            "source": "kathmandu-post",
-            "title": "Constitution review mired in political debate as parties fail to agree on scope of amendment",
-            "slug": "2026-09-20-constitution-review-mired-in-political-debate-as-parties-fail-to-agree-on-scope-of-amendment",
-            "summary": "The Kathmandu Post reports that the constitutional review process in Nepal has stalled due to intense political disagreement. The Balendra Shah-led government formed a panel to draft proposed amendments, but key political parties have not endorsed the panel's mandate or the scope of changes. The lack of consensus has turned the review into a contentious debate, raising doubts about the timeline and feasibility of any constitutional reform.",
-            "category": "politics",
-            "sentiment": "negative",
-            "importance_score": 8,
-            "published_at": "2026-09-20T05:16:47+00:00",
-            "keywords": [
-                "constitutional amendment",
-                "political debate",
-                "review panel",
-                "Balendra Shah",
-                "Nepal politics",
-                "consensus"
-            ],
-            "file": "articles/2026-09-20-constitution-review-mired-in-political-debate-as-parties-fail-to-agree-on-scope-of-amendment.md"
-        },
-        {
-            "id": 8,
-            "source": "kathmandu-post",
-            "title": "Can \u2018Mission 2026\u2019 finally deliver Nepal its first Asian Games gold?",
-            "slug": "2026-09-20-can-mission-2026-finally-deliver-nepal-its-first-asian-games-gold",
-            "summary": "After three years of preparation hindered by funding challenges, Nepal's streamlined team of 135 athletes has arrived at the Asian Games with the goal of securing double\u2011digit medals and, for the first time, a gold medal. The initiative, dubbed \u201cMission 2026,\u201d aims to elevate Nepal\u2019s sporting performance on the continental stage and bring national pride. While financial constraints have limited resources, the contingent remains optimistic about achieving historic success.",
-            "category": "sports",
             "sentiment": "positive",
             "importance_score": 7,
-            "published_at": "2026-09-20T05:16:47+00:00",
+            "published_at": "2026-09-21T01:58:10+00:00",
             "keywords": [
-                "Mission 2026",
-                "Asian Games",
-                "Nepal",
-                "gold medal",
-                "funding",
-                "athletes"
+                "helicopter crash",
+                "conservation",
+                "Ghunsa memorial",
+                "Taplejung",
+                "environmental stewardship",
+                "community forest"
             ],
-            "file": "articles/2026-09-20-can-mission-2026-finally-deliver-nepal-its-first-asian-games-gold.md"
-        },
-        {
-            "id": 7,
-            "source": "kathmandu-post",
-            "title": "Lumbini Lions to face Sudurpaschim Royals in NPL opener",
-            "slug": "2026-09-20-lumbini-lions-to-face-sudurpaschim-royals-in-npl-opener",
-            "summary": "Reigning champions Lumbini Lions will begin their title defence in the Nepal Premier League (NPL) against Sudurpaschim Royals at Kirtipur. The opening match starts a 27\u2011day schedule that includes 21 league fixtures and four playoff games.",
-            "category": "sports",
-            "sentiment": "neutral",
-            "importance_score": 6,
-            "published_at": "2026-09-20T05:16:47+00:00",
-            "keywords": [
-                "Lumbini Lions",
-                "Sudurpaschim Royals",
-                "NPL",
-                "Kirtipur",
-                "title defence",
-                "opener"
-            ],
-            "file": "articles/2026-09-20-lumbini-lions-to-face-sudurpaschim-royals-in-npl-opener.md"
-        },
-        {
-            "id": 6,
-            "source": "kathmandu-post",
-            "title": "Fiction: The making of a revolution",
-            "slug": "2026-09-20-fiction-the-making-of-a-revolution",
-            "summary": "The fictional piece titled \u201cThe making of a revolution\u201d portrays a society spiraling into chaos after a brutal crackdown on dissent. As the movement gains momentum, widespread anger, personal ambition, and political opportunism drive the narrative forward, illustrating how a once\u2011unified cause fragments under pressure. The story follows the rise of Deshbhumi, a region caught between the desire for change and the destabilising forces that threaten to undermine it, highlighting the volatile interplay of power, fear, and hope in a revolutionary context.",
-            "category": "culture",
-            "sentiment": "mixed",
-            "importance_score": 2,
-            "published_at": "2026-09-20T05:16:47+00:00",
-            "keywords": [
-                "revolution",
-                "crackdown",
-                "movement",
-                "chaos",
-                "ambition",
-                "anger"
-            ],
-            "file": "articles/2026-09-20-fiction-the-making-of-a-revolution.md"
-        },
-        {
-            "id": 5,
-            "source": "kathmandu-post",
-            "title": "Ed Sheeran says he made \u2018mistakes\u2019 amid Macklemore controversy",
-            "slug": "2026-09-20-ed-sheeran-says-he-made-mistakes-amid-macklemore-controversy",
-            "summary": "British singer Ed Sheeran admitted he made \"mistakes\" after becoming entangled in a controversy sparked by rapper Macklemore's comments on free speech and the Israel\u2011Palestine conflict. Sheeran said the debate was political and far beyond the music scene, and he did not intend to take a side. He expressed regret for any misunderstanding and clarified his stance, emphasizing that he prefers to stay out of political disputes.",
-            "category": "culture",
-            "sentiment": "mixed",
-            "importance_score": 6,
-            "published_at": "2026-09-20T05:16:47+00:00",
-            "keywords": [
-                "Ed Sheeran",
-                "Macklemore",
-                "free speech",
-                "Palestine",
-                "controversy"
-            ],
-            "file": "articles/2026-09-20-ed-sheeran-says-he-made-mistakes-amid-macklemore-controversy.md"
-        },
-        {
-            "id": 4,
-            "source": "kathmandu-post",
-            "title": "Flames, smoke seen near Riyadh airport; Houthis claim attacks on Saudi capital",
-            "slug": "2026-09-20-flames-smoke-seen-near-riyadh-airport-houthis-claim-attacks-on-saudi-capital",
-            "summary": "Flames and smoke were observed near Riyadh airport as the Houthis claimed to have launched an attack on Saudi Arabia's capital. The incident occurred amid a recent surge in Houthi strikes against Saudi targets. Riyadh authorities warned residents of potential aerial threats, and Saudi air defenses reported intercepting a missile aimed at the city.",
-            "category": "world",
-            "sentiment": "negative",
-            "importance_score": 8,
-            "published_at": "2026-09-20T05:16:47+00:00",
-            "keywords": [
-                "Houthis",
-                "Riyadh airport",
-                "Saudi Arabia",
-                "missile interception",
-                "aerial threats"
-            ],
-            "file": "articles/2026-09-20-flames-smoke-seen-near-riyadh-airport-houthis-claim-attacks-on-saudi-capital.md"
-        },
-        {
-            "id": 3,
-            "source": "kathmandu-post",
-            "title": "Nepal\u2019s Sanu Maya Thing knocked out in Asian Games karate",
-            "slug": "2026-09-20-nepals-sanu-maya-thing-knocked-out-in-asian-games-karate",
-            "summary": "Two Nepalese athletes were eliminated in the opening stages of the Asian Games. Karateka Sanu Maya Thing was knocked out of her event, and wushu competitor Vijay Singhjali also lost in his first round. The early exits highlight challenges faced by Nepal's contingent at the multi\u2011sport event.",
-            "category": "sports",
-            "sentiment": "negative",
-            "importance_score": 6,
-            "published_at": "2026-09-20T05:16:47+00:00",
-            "keywords": [
-                "Asian Games",
-                "Karate",
-                "Wushu",
-                "Sanu Maya Thing",
-                "Vijay Singhjali",
-                "knockout",
-                "sports"
-            ],
-            "file": "articles/2026-09-20-nepals-sanu-maya-thing-knocked-out-in-asian-games-karate.md"
+            "file": "articles/2026-09-21-how-ghunsa-tragedy-was-turned-into-triumph.md"
         },
         {
             "id": 2,
-            "source": "kathmandu-post",
-            "title": "Udayapur Hospital gets services moving again",
-            "slug": "2026-09-20-udayapur-hospital-gets-services-moving-again",
-            "summary": "Udayapur Hospital in Nepal, after years of unreliable service, is restoring key medical units to full operation. The hospital is addressing chronic staffing shortages and financial constraints to improve patient care and service continuity. While the revival of services marks a positive step for the community, ongoing challenges remain as administrators work to secure sustainable funding and recruit qualified personnel.",
-            "category": "health",
+            "source": "nepali-times",
+            "title": "The Mary Slusser expose",
+            "slug": "2026-09-20-the-mary-slusser-expose",
+            "summary": "The article examines the archives of American scholar Mary Slusser, revealing that her collections contain evidence of illicit removal of Nepalese cultural artifacts. While the archives document the extent of theft, they also provide detailed provenance information that could aid in the restitution of these items to Nepal. The piece highlights the paradox of scholarly work that both preserves and exposes wrongdoing, and discusses ongoing efforts by Nepalese authorities and international bodies to recover the stolen heritage.",
+            "category": "culture",
             "sentiment": "mixed",
-            "importance_score": 6,
-            "published_at": "2026-09-20T05:16:47+00:00",
+            "importance_score": 7,
+            "published_at": "2026-09-20T11:51:32+00:00",
             "keywords": [
-                "Udayapur Hospital",
-                "healthcare services",
-                "staffing shortage",
-                "financial challenges",
-                "hospital restoration",
+                "theft",
+                "archives",
+                "restitution",
+                "cultural heritage",
+                "Mary Slusser",
                 "Nepal"
             ],
-            "file": "articles/2026-09-20-udayapur-hospital-gets-services-moving-again.md"
+            "file": "articles/2026-09-20-the-mary-slusser-expose.md"
         },
         {
-            "id": 1,
-            "source": "kathmandu-post",
-            "title": "Heavy rain threat looms from Thursday",
-            "slug": "2026-09-20-heavy-rain-threat-looms-from-thursday",
-            "summary": "Meteorological agencies warn that weather systems forming over the Andaman Sea and the Bay of Bengal could trigger prolonged heavy rain across Nepal from September 24 to 28. The western and central regions are expected to receive the most intense downpours, raising concerns about flooding and landslides. Residents are advised to stay alert and prepare for possible disruptions.",
+            "id": 3,
+            "source": "nepali-times",
+            "title": "Turkish Airlines Named Europe's Best Airline",
+            "slug": "2026-09-20-turkish-airlines-named-europes-best-airline",
+            "summary": "Turkish Airlines has been awarded the title of Best Airline in Europe for the 11th time at the Skytrax World Airline Awards 2026. The airline was recognized for its service quality, safety standards, and overall passenger experience, beating other major European carriers. The accolade highlights Turkish Airlines' continued focus on expanding its network and improving customer satisfaction, reinforcing its position as a leading carrier in the region.",
+            "category": "business",
+            "sentiment": "positive",
+            "importance_score": 6,
+            "published_at": "2026-09-20T07:16:19+00:00",
+            "keywords": [
+                "Turkish Airlines",
+                "Best Airline Europe",
+                "Skytrax Awards",
+                "2026",
+                "aviation",
+                "airline industry"
+            ],
+            "file": "articles/2026-09-20-turkish-airlines-named-europes-best-airline.md"
+        },
+        {
+            "id": 4,
+            "source": "nepali-times",
+            "title": "Nepal takes its message to the world",
+            "slug": "2026-09-20-nepal-takes-its-message-to-the-world",
+            "summary": "Nepal's Prime Minister Balendra Shah will address the UN, highlighting the country's flood as a global warning.",
+            "category": "politics",
+            "sentiment": "neutral",
+            "importance_score": 8,
+            "published_at": "2026-09-20T03:18:10+00:00",
+            "keywords": [
+                "Nepal",
+                "UN",
+                "flood",
+                "global warning"
+            ],
+            "file": "articles/2026-09-20-nepal-takes-its-message-to-the-world.md"
+        },
+        {
+            "id": 5,
+            "source": "nepali-times",
+            "title": "Nepal appoints non-political figures as ambassadors",
+            "slug": "2026-09-19-nepal-appoints-non-political-figures-as-ambassadors",
+            "summary": "The Nepalese government has appointed thirteen new ambassadors drawn from academic, economic, security and development sectors, as well as a senior military officer, rather than career politicians. The move signals a shift toward professional expertise in diplomatic postings, aiming to enhance Nepal's international representation and policy effectiveness.",
+            "category": "politics",
+            "sentiment": "positive",
+            "importance_score": 7,
+            "published_at": "2026-09-19T06:16:30+00:00",
+            "keywords": [
+                "ambassadors",
+                "non-political appointments",
+                "diplomacy",
+                "expertise",
+                "Nepal",
+                "foreign service"
+            ],
+            "file": "articles/2026-09-19-nepal-appoints-non-political-figures-as-ambassadors.md"
+        },
+        {
+            "id": 6,
+            "source": "nepali-times",
+            "title": "FUTURE SHOCKS",
+            "slug": "2026-09-19-future-shocks",
+            "summary": "The recent Bhote Kosi\u2011Trisuli flood underscored the vulnerability of riverside towns across Nepal. The disaster caused significant damage and loss of life, prompting calls for improved flood\u2011risk management, early warning systems, and stronger infrastructure in vulnerable settlements. Experts say the event serves as a stark lesson for other communities situated along Nepal\u2019s rivers, urging authorities to prioritize disaster preparedness and climate\u2011adaptation measures.",
+            "category": "other",
+            "sentiment": "negative",
+            "importance_score": 7,
+            "published_at": "2026-09-19T01:55:19+00:00",
+            "keywords": [
+                "flood",
+                "Bhote Kosi",
+                "Trisuli",
+                "riverside towns",
+                "disaster preparedness",
+                "climate change"
+            ],
+            "file": "articles/2026-09-19-future-shocks.md"
+        },
+        {
+            "id": 7,
+            "source": "nepali-times",
+            "title": "Glacier melting is black and white",
+            "slug": "2026-09-18-glacier-melting-is-black-and-white",
+            "summary": "The article warns that rapid glacier melt in the Himalayas is a stark indicator of climate change, describing the phenomenon as both 'black and white' \u2013 a clear sign of environmental crisis. It argues that reducing air pollution, particularly black carbon emissions, is the most immediate and effective measure to protect the Himalayan icecap and slow glacier retreat. The piece emphasizes the urgency for Nepal and neighboring countries to adopt stricter pollution controls and invest in clean energy to safeguard water resources and ecosystems dependent on the glaciers.",
             "category": "world",
+            "sentiment": "negative",
+            "importance_score": 6,
+            "published_at": "2026-09-18T12:14:40+00:00",
+            "keywords": [
+                "glacier melting",
+                "air pollution",
+                "Himalayan icecap",
+                "climate change",
+                "black carbon",
+                "environmental policy"
+            ],
+            "file": "articles/2026-09-18-glacier-melting-is-black-and-white.md"
+        },
+        {
+            "id": 8,
+            "source": "nepali-times",
+            "title": "Death toll rises in Nepal flood",
+            "slug": "2026-09-18-death-toll-rises-in-nepal-flood",
+            "summary": "A severe flood in Nepal has caused the death toll to rise, with many casualties including children. At least 102 children have been left orphaned, highlighting the humanitarian crisis. Relief agencies are mobilizing to provide aid and support to the affected families.",
+            "category": "world",
+            "sentiment": "negative",
+            "importance_score": 8,
+            "published_at": "2026-09-18T04:12:39+00:00",
+            "keywords": [
+                "flood",
+                "death toll",
+                "children",
+                "orphaned",
+                "Nepal",
+                "relief"
+            ],
+            "file": "articles/2026-09-18-death-toll-rises-in-nepal-flood.md"
+        },
+        {
+            "id": 9,
+            "source": "nepali-times",
+            "title": "Climate warming\u00a0set off\u00a0Nepal disaster: Report",
+            "slug": "2026-09-17-climate-warming-set-off-nepal-disaster-report",
+            "summary": "Scientists conclude global warming influenced catastrophic mountain collapse in Nepal.",
+            "category": "health",
+            "sentiment": "negative",
+            "importance_score": 8,
+            "published_at": "2026-09-17T09:22:36+00:00",
+            "keywords": [
+                "climate warming",
+                "Nepal",
+                "disaster"
+            ],
+            "file": "articles/2026-09-17-climate-warming-set-off-nepal-disaster-report.md"
+        },
+        {
+            "id": 10,
+            "source": "nepali-times",
+            "title": "Even gods were not spared by the flood",
+            "slug": "2026-09-17-even-gods-were-not-spared-by-the-flood",
+            "summary": "Heavy rains caused a severe flood in Nepal's Trisuli Valley, a region revered for its sacred geography. The same natural features that made the valley a spiritual hub also rendered it highly vulnerable to the deluge, leading to damage of temples and cultural sites. Residents and authorities are grappling with the aftermath, assessing the impact on both the local community and the region's religious heritage.",
+            "category": "world",
+            "sentiment": "negative",
+            "importance_score": 6,
+            "published_at": "2026-09-17T03:23:00+00:00",
+            "keywords": [
+                "flood",
+                "Trisuli Valley",
+                "sacred sites",
+                "geography",
+                "disaster",
+                "Nepal"
+            ],
+            "file": "articles/2026-09-17-even-gods-were-not-spared-by-the-flood.md"
+        },
+        {
+            "id": 11,
+            "source": "nepali-times",
+            "title": "FlyDubai to PHH",
+            "slug": "2026-09-17-flydubai-to-phh",
+            "summary": "FlyDubai will start direct flights from Pokhara to Dubai on 23 September, potentially boosting tourism in the city.",
+            "category": "business",
+            "sentiment": "positive",
+            "importance_score": 6,
+            "published_at": "2026-09-17T02:03:27+00:00",
+            "keywords": [
+                "FlyDubai",
+                "Pokhara",
+                "Dubai",
+                "tourism"
+            ],
+            "file": "articles/2026-09-17-flydubai-to-phh.md"
+        },
+        {
+            "id": 12,
+            "source": "nepali-times",
+            "title": "Power import",
+            "slug": "2026-09-17-power-import",
+            "summary": "India has increased its daily electricity export to Nepal, supplying up to 654\u202fMW for 18\u202fhours each day to help meet Nepal's energy needs after recent shortages. The boost aims to stabilize Nepal's power grid and support its recovery from the recent energy shortfall.",
+            "category": "business",
             "sentiment": "neutral",
             "importance_score": 6,
-            "published_at": "2026-09-20T05:16:47+00:00",
+            "published_at": "2026-09-17T02:03:02+00:00",
             "keywords": [
-                "heavy rain",
-                "Andaman Sea",
-                "Bay of Bengal",
-                "September 24-28",
-                "flood risk",
-                "Nepal weather"
+                "power import",
+                "electricity export",
+                "India",
+                "Nepal",
+                "energy shortage"
             ],
-            "file": "articles/2026-09-20-heavy-rain-threat-looms-from-thursday.md"
+            "file": "articles/2026-09-17-power-import.md"
+        },
+        {
+            "id": 13,
+            "source": "nepali-times",
+            "title": "Prithvi Highway",
+            "slug": "2026-09-17-prithvi-highway",
+            "summary": "The Prithvi Highway, a main highway artery to Kathmandu, has been reopened after being blocked by landslides for nearly 18 days.",
+            "category": "other",
+            "sentiment": "neutral",
+            "importance_score": 6,
+            "published_at": "2026-09-17T02:02:40+00:00",
+            "keywords": [
+                "Prithvi Highway",
+                "Kathmandu",
+                "Landslides"
+            ],
+            "file": "articles/2026-09-17-prithvi-highway.md"
+        },
+        {
+            "id": 14,
+            "source": "nepali-times",
+            "title": "Tiger sanctuary",
+            "slug": "2026-09-17-tiger-sanctuary",
+            "summary": "The Nepalese government plans to establish a 50\u2011hectare tiger sanctuary in Devnagar, located in the buffer zone of Chitwan National Park. The sanctuary will provide a natural habitat for problem tigers that have come into conflict with humans, aiming to reduce human\u2011wildlife clashes while preserving the species. The initiative reflects ongoing conservation efforts to protect Nepal\u2019s tiger population and manage wildlife\u2011human interactions more sustainably.",
+            "category": "world",
+            "sentiment": "positive",
+            "importance_score": 6,
+            "published_at": "2026-09-17T02:02:21+00:00",
+            "keywords": [
+                "tiger sanctuary",
+                "problem tigers",
+                "Chitwan National Park",
+                "Devnagar",
+                "conservation",
+                "human-wildlife conflict"
+            ],
+            "file": "articles/2026-09-17-tiger-sanctuary.md"
+        },
+        {
+            "id": 15,
+            "source": "nepali-times",
+            "title": "EV registration",
+            "slug": "2026-09-17-ev-registration",
+            "summary": "The Nepalese government has resumed the registration process for public electric vehicles after a four\u2011month suspension. The move aims to facilitate the entry of electric buses and other public transport into the market, supporting the country's green mobility goals. Officials indicated that the pause was due to administrative and technical adjustments, and the reopening will allow operators to complete necessary paperwork and obtain registration plates for their electric fleets.",
+            "category": "politics",
+            "sentiment": "neutral",
+            "importance_score": 6,
+            "published_at": "2026-09-17T02:01:55+00:00",
+            "keywords": [
+                "electric vehicles",
+                "public transport registration",
+                "government policy",
+                "green mobility",
+                "Nepal"
+            ],
+            "file": "articles/2026-09-17-ev-registration.md"
+        },
+        {
+            "id": 16,
+            "source": "nepali-times",
+            "title": "Maternity Bill",
+            "slug": "2026-09-17-maternity-bill",
+            "summary": "The Ministry for Law, Justice and Parliamentary Affairs in Nepal has drafted an amendment to the Safe Motherhood and Reproductive Health Rights Act of 2018. The proposed changes aim to strengthen legal protections for pregnant women and new mothers, potentially expanding maternity leave, improving workplace accommodations, and enhancing access to reproductive health services. The draft will be presented to Parliament for discussion and approval, signaling the government's continued focus on women's health and gender equity.",
+            "category": "politics",
+            "sentiment": "positive",
+            "importance_score": 6,
+            "published_at": "2026-09-17T02:01:28+00:00",
+            "keywords": [
+                "maternity bill",
+                "Safe Motherhood Act",
+                "reproductive health rights",
+                "legislative amendment",
+                "women's health",
+                "Parliament"
+            ],
+            "file": "articles/2026-09-17-maternity-bill.md"
+        },
+        {
+            "id": 17,
+            "source": "nepali-times",
+            "title": "Ambassador list",
+            "slug": "2026-09-17-ambassador-list",
+            "summary": "The Nepalese Ministry of Foreign Affairs has completed its shortlist of candidates for ambassadorial posts, covering 21 of the 22 vacant diplomatic missions. The list, which will be presented for final approval, aims to fill key overseas postings and strengthen Nepal's diplomatic representation. The remaining vacancy and the selection process are expected to be addressed shortly.",
+            "category": "politics",
+            "sentiment": "neutral",
+            "importance_score": 6,
+            "published_at": "2026-09-17T02:00:46+00:00",
+            "keywords": [
+                "ambassadors",
+                "diplomatic missions",
+                "foreign ministry",
+                "appointments",
+                "Nepal"
+            ],
+            "file": "articles/2026-09-17-ambassador-list.md"
+        },
+        {
+            "id": 18,
+            "source": "nepali-times",
+            "title": "Pokhara calling",
+            "slug": "2026-09-17-pokhara-calling",
+            "summary": "The Centara Collection\u2019s Himalayan Hideaway Resort in Pokhara welcomed a delegation of Indian travel and media professionals for a three\u2011night, four\u2011day familiarisation trip. The itinerary showcased Pokhara\u2019s natural attractions, adventure activities, cultural sites, and the resort\u2019s luxury amenities, aiming to boost inbound tourism from India. Participants were given guided tours, networking sessions with local tourism officials, and opportunities to experience local cuisine and crafts. The event highlights growing collaboration between Nepal\u2019s hospitality sector and Indian travel operators to capture the post\u2011pandemic travel surge.",
+            "category": "business",
+            "sentiment": "positive",
+            "importance_score": 5,
+            "published_at": "2026-09-17T02:00:25+00:00",
+            "keywords": [
+                "Pokhara tourism",
+                "Indian travel delegation",
+                "Centara Collection",
+                "Himalayan Hideaway Resort",
+                "tourism promotion",
+                "travel media familiarisation"
+            ],
+            "file": "articles/2026-09-17-pokhara-calling.md"
+        },
+        {
+            "id": 19,
+            "source": "nepali-times",
+            "title": "Mustang conference",
+            "slug": "2026-09-17-mustang-conference",
+            "summary": "The two\u2011day Gharpajhong Climate Conference kicked off on Tuesday in Mustang, Nepal, attracting more than 2,000 participants, including representatives from 431 local governments. The event aims to discuss climate\u2011related challenges and solutions for the region, fostering collaboration among municipal leaders and stakeholders.",
+            "category": "world",
+            "sentiment": "positive",
+            "importance_score": 7,
+            "published_at": "2026-09-17T01:59:55+00:00",
+            "keywords": [
+                "climate conference",
+                "Mustang",
+                "local governments",
+                "Gharpajhong",
+                "environment",
+                "regional cooperation"
+            ],
+            "file": "articles/2026-09-17-mustang-conference.md"
+        },
+        {
+            "id": 20,
+            "source": "nepali-times",
+            "title": "Marriott relief",
+            "slug": "2026-09-17-marriott-relief",
+            "summary": "Aloft by Marriott, a hotel in Kathmandu's Thamel district, has donated Rs.1.5\u202fmillion to the Prime Minister\u2019s Disaster Relief Fund. The contribution reflects the hospitality brand\u2019s support for national relief efforts following recent disasters, aligning corporate social responsibility with government initiatives.",
+            "category": "business",
+            "sentiment": "positive",
+            "importance_score": 5,
+            "published_at": "2026-09-17T01:59:31+00:00",
+            "keywords": [
+                "Marriott",
+                "disaster relief",
+                "donation",
+                "Kathmandu",
+                "corporate philanthropy",
+                "Prime Minister"
+            ],
+            "file": "articles/2026-09-17-marriott-relief.md"
+        },
+        {
+            "id": 21,
+            "source": "nepali-times",
+            "title": "Nepali families who lost everything twice",
+            "slug": "2026-09-16-nepali-families-who-lost-everything-twice",
+            "summary": "The article recounts the plight of Nepali families from the Khalte area who survived the devastating 2015 earthquake only to lose everything again when the Trisuli River flooded years later. It highlights the compounded trauma, loss of homes and livelihoods, and the challenges faced in rebuilding amid recurring natural disasters, while calling attention to the need for stronger disaster preparedness and support for affected communities.",
+            "category": "world",
+            "sentiment": "negative",
+            "importance_score": 7,
+            "published_at": "2026-09-16T04:39:26+00:00",
+            "keywords": [
+                "earthquake",
+                "flood",
+                "Trisuli River",
+                "disaster relief",
+                "rebuilding",
+                "Khalte"
+            ],
+            "file": "articles/2026-09-16-nepali-families-who-lost-everything-twice.md"
+        },
+        {
+            "id": 22,
+            "source": "nepali-times",
+            "title": "Price war and flood cloud Nepal EV market",
+            "slug": "2026-09-15-price-war-and-flood-cloud-nepal-ev-market",
+            "summary": "The article discusses how Nepal's electric vehicle (EV) market is caught between a price war among manufacturers and the challenges posed by seasonal flooding. While battery\u2011powered cars are becoming cheaper to purchase, the lack of reliable charging infrastructure and flood\u2011damaged roads and power supply make trips more uncertain and costly. The piece highlights the tension between lower upfront prices and higher operational expenses, suggesting that without improved infrastructure and flood mitigation, the growth of EV adoption in Nepal may stall.",
+            "category": "business",
+            "sentiment": "mixed",
+            "importance_score": 6,
+            "published_at": "2026-09-15T07:27:48+00:00",
+            "keywords": [
+                "electric vehicles",
+                "price war",
+                "floods",
+                "charging infrastructure",
+                "battery costs",
+                "road conditions"
+            ],
+            "file": "articles/2026-09-15-price-war-and-flood-cloud-nepal-ev-market.md"
+        },
+        {
+            "id": 23,
+            "source": "nepali-times",
+            "title": "Nepal tallies the cost of its disaster",
+            "slug": "2026-09-14-nepal-tallies-the-cost-of-its-disaster",
+            "summary": "Nepal has estimated the economic cost of recovering from a recent disaster at $4.7\u202fbillion, with the majority of losses stemming from destroyed hydropower projects. The figure underscores the severe impact on the country\u2019s energy infrastructure and highlights the financial challenges ahead for reconstruction and rehabilitation efforts.",
+            "category": "business",
+            "sentiment": "negative",
+            "importance_score": 8,
+            "published_at": "2026-09-14T09:32:27+00:00",
+            "keywords": [
+                "Nepal",
+                "disaster",
+                "recovery",
+                "hydropower",
+                "economic cost",
+                "$4.7 billion"
+            ],
+            "file": "articles/2026-09-14-nepal-tallies-the-cost-of-its-disaster.md"
+        },
+        {
+            "id": 24,
+            "source": "nepali-times",
+            "title": "Rescue Nepal\u2019s stolen artefacts from auctioneers",
+            "slug": "2026-09-14-rescue-nepals-stolen-artefacts-from-auctioneers",
+            "summary": "The article reports on recent efforts by Nepalese authorities and cultural heritage groups to halt the auction of artefacts that were illegally removed from the country. It highlights the importance of both documentation and collective cultural memory in establishing provenance, and describes legal and diplomatic steps taken to retrieve the items before they are sold to foreign collectors. The piece underscores the urgency of protecting Nepal\u2019s historical treasures and calls for stronger international cooperation to prevent future looting.",
+            "category": "culture",
+            "sentiment": "positive",
+            "importance_score": 7,
+            "published_at": "2026-09-14T06:37:18+00:00",
+            "keywords": [
+                "stolen artefacts",
+                "auction",
+                "cultural heritage",
+                "provenance",
+                "repatriation",
+                "Nepal"
+            ],
+            "file": "articles/2026-09-14-rescue-nepals-stolen-artefacts-from-auctioneers.md"
+        },
+        {
+            "id": 25,
+            "source": "nepali-times",
+            "title": "The survivors of Syaprubesi",
+            "slug": "2026-09-13-the-survivors-of-syaprubesi",
+            "summary": "The article recounts the plight of residents from Syaprubesi who have lost their homes and livelihoods, likely due to a natural disaster. Seeking safety and a fresh start, they have taken refuge in a monastery in Kathmandu, where they find support and renewed hope for rebuilding their lives.",
+            "category": "culture",
+            "sentiment": "mixed",
+            "importance_score": 5,
+            "published_at": "2026-09-13T06:26:10+00:00",
+            "keywords": [
+                "survivors",
+                "Syaprubesi",
+                "Kathmandu monastery",
+                "refuge",
+                "homes lost",
+                "hope"
+            ],
+            "file": "articles/2026-09-13-the-survivors-of-syaprubesi.md"
         }
     ],
     "count": 25,
-    "last_updated": "2026-09-20T05:18:26+00:00"
+    "last_updated": "2026-09-21T05:22:36+00:00"
 }
